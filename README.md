@@ -12,6 +12,10 @@ We used Agglomerative Clustering on the distance matrix to find 10 clusters (def
 
 We then compare the no of clusters with the cluster cohesion measure (Silhouette score & Calinski-Harabaz Index). 
 
+## Authors:
+Ilesha Garg
+Ishaan Malhi
+
 ## Results
 
 The results are quite interesting, the cohesion measure itself falls with an increase in the number of clusters.
