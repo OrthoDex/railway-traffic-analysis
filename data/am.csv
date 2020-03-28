@@ -1,0 +1,4518 @@
+Year,Month,Station,Peak,Traffic
+2010,9,Addison Road,AM Peak,2303.7
+2010,10,Addison Road,AM Peak,2298
+2010,11,Addison Road,AM Peak,2173.5
+2010,12,Addison Road,AM Peak,1956.5
+2011,1,Addison Road,AM Peak,2037.1
+2011,2,Addison Road,AM Peak,2231.5
+2011,3,Addison Road,AM Peak,2268.1
+2011,4,Addison Road,AM Peak,2198
+2011,5,Addison Road,AM Peak,2260.8
+2011,6,Addison Road,AM Peak,2248.2
+2011,7,Addison Road,AM Peak,2249.7
+2011,8,Addison Road,AM Peak,2262.4
+2011,9,Addison Road,AM Peak,2323.7
+2011,10,Addison Road,AM Peak,2195
+2011,11,Addison Road,AM Peak,2225.6
+2011,12,Addison Road,AM Peak,1819.8
+2012,1,Addison Road,AM Peak,2173.6
+2012,2,Addison Road,AM Peak,2217.4
+2012,3,Addison Road,AM Peak,2214
+2012,4,Addison Road,AM Peak,2109.2
+2012,5,Addison Road,AM Peak,2128.5
+2012,6,Addison Road,AM Peak,2105.1
+2012,7,Addison Road,AM Peak,2051.6
+2012,8,Addison Road,AM Peak,1993.7
+2012,9,Addison Road,AM Peak,2105.6
+2012,10,Addison Road,AM Peak,2094.8
+2012,11,Addison Road,AM Peak,1980.5
+2012,12,Addison Road,AM Peak,1756
+2013,1,Addison Road,AM Peak,1931.5
+2013,2,Addison Road,AM Peak,2058.1
+2013,3,Addison Road,AM Peak,1947.1
+2013,4,Addison Road,AM Peak,2061.4
+2013,5,Addison Road,AM Peak,2068.1
+2013,6,Addison Road,AM Peak,2045.8
+2013,7,Addison Road,AM Peak,2004.5
+2013,8,Addison Road,AM Peak,2014.9
+2013,9,Addison Road,AM Peak,2169.6
+2013,10,Addison Road,AM Peak,1906
+2013,11,Addison Road,AM Peak,1990.2
+2013,12,Addison Road,AM Peak,1748
+2014,1,Addison Road,AM Peak,1728.1
+2014,2,Addison Road,AM Peak,1815.8
+2014,3,Addison Road,AM Peak,1787.6
+2014,4,Addison Road,AM Peak,2005.2
+2014,5,Addison Road,AM Peak,2016
+2014,6,Addison Road,AM Peak,2046.7
+2014,7,Addison Road,AM Peak,2029.5
+2014,8,Addison Road,AM Peak,1994.7
+2014,9,Addison Road,AM Peak,2169.8
+2014,10,Addison Road,AM Peak,2162
+2014,11,Addison Road,AM Peak,2031.1
+2014,12,Addison Road,AM Peak,1827.1
+2010,9,Anacostia,AM Peak,3141
+2010,10,Anacostia,AM Peak,3136.8
+2010,11,Anacostia,AM Peak,3054.9
+2010,12,Anacostia,AM Peak,2724.9
+2011,1,Anacostia,AM Peak,2905.8
+2011,2,Anacostia,AM Peak,3181.1
+2011,3,Anacostia,AM Peak,3145.7
+2011,4,Anacostia,AM Peak,2948.2
+2011,5,Anacostia,AM Peak,3072
+2011,6,Anacostia,AM Peak,2990.1
+2011,7,Anacostia,AM Peak,2956.6
+2011,8,Anacostia,AM Peak,2775.6
+2011,9,Anacostia,AM Peak,3236.1
+2011,10,Anacostia,AM Peak,3221.9
+2011,11,Anacostia,AM Peak,3087.9
+2011,12,Anacostia,AM Peak,2796.6
+2012,1,Anacostia,AM Peak,3070.2
+2012,2,Anacostia,AM Peak,3150.7
+2012,3,Anacostia,AM Peak,3171.4
+2012,4,Anacostia,AM Peak,2935.1
+2012,5,Anacostia,AM Peak,3108.5
+2012,6,Anacostia,AM Peak,2888.9
+2012,7,Anacostia,AM Peak,2823.2
+2012,8,Anacostia,AM Peak,2682.7
+2012,9,Anacostia,AM Peak,3193.6
+2012,10,Anacostia,AM Peak,3041.3
+2012,11,Anacostia,AM Peak,2987.3
+2012,12,Anacostia,AM Peak,2655.7
+2013,1,Anacostia,AM Peak,2860.6
+2013,2,Anacostia,AM Peak,3079.8
+2013,3,Anacostia,AM Peak,2965.4
+2013,4,Anacostia,AM Peak,2977.9
+2013,5,Anacostia,AM Peak,3129.9
+2013,6,Anacostia,AM Peak,2797
+2013,7,Anacostia,AM Peak,2794.5
+2013,8,Anacostia,AM Peak,2688.1
+2013,9,Anacostia,AM Peak,3156.7
+2013,10,Anacostia,AM Peak,2834.7
+2013,11,Anacostia,AM Peak,2882.1
+2013,12,Anacostia,AM Peak,2515.5
+2014,1,Anacostia,AM Peak,2598.3
+2014,2,Anacostia,AM Peak,2759.7
+2014,3,Anacostia,AM Peak,2697.9
+2014,4,Anacostia,AM Peak,2885.2
+2014,5,Anacostia,AM Peak,2938.4
+2014,6,Anacostia,AM Peak,2832.7
+2014,7,Anacostia,AM Peak,2973
+2014,8,Anacostia,AM Peak,2861.3
+2014,9,Anacostia,AM Peak,3266
+2014,10,Anacostia,AM Peak,3202.4
+2014,11,Anacostia,AM Peak,3014.1
+2014,12,Anacostia,AM Peak,2691.8
+2010,9,Archives-Navy Memorial,AM Peak,366.3
+2010,10,Archives-Navy Memorial,AM Peak,355.9
+2010,11,Archives-Navy Memorial,AM Peak,346.7
+2010,12,Archives-Navy Memorial,AM Peak,320.6
+2011,1,Archives-Navy Memorial,AM Peak,357.3
+2011,2,Archives-Navy Memorial,AM Peak,377.7
+2011,3,Archives-Navy Memorial,AM Peak,390
+2011,4,Archives-Navy Memorial,AM Peak,375.5
+2011,5,Archives-Navy Memorial,AM Peak,383.4
+2011,6,Archives-Navy Memorial,AM Peak,393.7
+2011,7,Archives-Navy Memorial,AM Peak,399.9
+2011,8,Archives-Navy Memorial,AM Peak,360.9
+2011,9,Archives-Navy Memorial,AM Peak,389.6
+2011,10,Archives-Navy Memorial,AM Peak,382.5
+2011,11,Archives-Navy Memorial,AM Peak,391.2
+2011,12,Archives-Navy Memorial,AM Peak,339.3
+2012,1,Archives-Navy Memorial,AM Peak,379.2
+2012,2,Archives-Navy Memorial,AM Peak,392.7
+2012,3,Archives-Navy Memorial,AM Peak,396.7
+2012,4,Archives-Navy Memorial,AM Peak,393.2
+2012,5,Archives-Navy Memorial,AM Peak,397.3
+2012,6,Archives-Navy Memorial,AM Peak,413.8
+2012,7,Archives-Navy Memorial,AM Peak,406.4
+2012,8,Archives-Navy Memorial,AM Peak,414.7
+2012,9,Archives-Navy Memorial,AM Peak,424.1
+2012,10,Archives-Navy Memorial,AM Peak,419.8
+2012,11,Archives-Navy Memorial,AM Peak,404.8
+2012,12,Archives-Navy Memorial,AM Peak,363.5
+2013,1,Archives-Navy Memorial,AM Peak,417.5
+2013,2,Archives-Navy Memorial,AM Peak,430.8
+2013,3,Archives-Navy Memorial,AM Peak,400.8
+2013,4,Archives-Navy Memorial,AM Peak,398.8
+2013,5,Archives-Navy Memorial,AM Peak,396
+2013,6,Archives-Navy Memorial,AM Peak,386.8
+2013,7,Archives-Navy Memorial,AM Peak,410.1
+2013,8,Archives-Navy Memorial,AM Peak,375.4
+2013,9,Archives-Navy Memorial,AM Peak,394.2
+2013,10,Archives-Navy Memorial,AM Peak,366.8
+2013,11,Archives-Navy Memorial,AM Peak,361.1
+2013,12,Archives-Navy Memorial,AM Peak,330.7
+2014,1,Archives-Navy Memorial,AM Peak,354.8
+2014,2,Archives-Navy Memorial,AM Peak,354.4
+2014,3,Archives-Navy Memorial,AM Peak,357.7
+2014,4,Archives-Navy Memorial,AM Peak,385.8
+2014,5,Archives-Navy Memorial,AM Peak,388
+2014,6,Archives-Navy Memorial,AM Peak,396.6
+2014,7,Archives-Navy Memorial,AM Peak,385.4
+2014,8,Archives-Navy Memorial,AM Peak,365.2
+2014,9,Archives-Navy Memorial,AM Peak,388.1
+2014,10,Archives-Navy Memorial,AM Peak,373.4
+2014,11,Archives-Navy Memorial,AM Peak,366.4
+2014,12,Archives-Navy Memorial,AM Peak,331.3
+2010,9,Arlington Cemetery,AM Peak,11
+2010,10,Arlington Cemetery,AM Peak,12.7
+2010,11,Arlington Cemetery,AM Peak,11.8
+2010,12,Arlington Cemetery,AM Peak,19.1
+2011,1,Arlington Cemetery,AM Peak,10.5
+2011,2,Arlington Cemetery,AM Peak,12.5
+2011,3,Arlington Cemetery,AM Peak,16.3
+2011,4,Arlington Cemetery,AM Peak,20.3
+2011,5,Arlington Cemetery,AM Peak,14.9
+2011,6,Arlington Cemetery,AM Peak,21.9
+2011,7,Arlington Cemetery,AM Peak,25.2
+2011,8,Arlington Cemetery,AM Peak,19.8
+2011,9,Arlington Cemetery,AM Peak,14.1
+2011,10,Arlington Cemetery,AM Peak,17.2
+2011,11,Arlington Cemetery,AM Peak,13.2
+2011,12,Arlington Cemetery,AM Peak,11.3
+2012,1,Arlington Cemetery,AM Peak,9.6
+2012,2,Arlington Cemetery,AM Peak,11.9
+2012,3,Arlington Cemetery,AM Peak,23.1
+2012,4,Arlington Cemetery,AM Peak,20.8
+2012,5,Arlington Cemetery,AM Peak,20.4
+2012,6,Arlington Cemetery,AM Peak,22.3
+2012,7,Arlington Cemetery,AM Peak,27.4
+2012,8,Arlington Cemetery,AM Peak,18
+2012,9,Arlington Cemetery,AM Peak,17.7
+2012,10,Arlington Cemetery,AM Peak,15.3
+2012,11,Arlington Cemetery,AM Peak,11.3
+2012,12,Arlington Cemetery,AM Peak,7.1
+2013,1,Arlington Cemetery,AM Peak,7.4
+2013,2,Arlington Cemetery,AM Peak,10
+2013,3,Arlington Cemetery,AM Peak,15
+2013,4,Arlington Cemetery,AM Peak,20.9
+2013,5,Arlington Cemetery,AM Peak,17.8
+2013,6,Arlington Cemetery,AM Peak,16.9
+2013,7,Arlington Cemetery,AM Peak,19.8
+2013,8,Arlington Cemetery,AM Peak,16.2
+2013,9,Arlington Cemetery,AM Peak,15.7
+2013,10,Arlington Cemetery,AM Peak,11.5
+2013,11,Arlington Cemetery,AM Peak,13.7
+2013,12,Arlington Cemetery,AM Peak,8.2
+2014,1,Arlington Cemetery,AM Peak,10.9
+2014,2,Arlington Cemetery,AM Peak,9.7
+2014,3,Arlington Cemetery,AM Peak,13.1
+2014,4,Arlington Cemetery,AM Peak,18.9
+2014,5,Arlington Cemetery,AM Peak,21.3
+2014,6,Arlington Cemetery,AM Peak,23.4
+2014,7,Arlington Cemetery,AM Peak,27.2
+2014,8,Arlington Cemetery,AM Peak,16.7
+2014,9,Arlington Cemetery,AM Peak,15
+2014,10,Arlington Cemetery,AM Peak,16
+2014,11,Arlington Cemetery,AM Peak,14.7
+2014,12,Arlington Cemetery,AM Peak,9.1
+2010,9,Ballston,AM Peak,4584.1
+2010,10,Ballston,AM Peak,4703.4
+2010,11,Ballston,AM Peak,4415.8
+2010,12,Ballston,AM Peak,3948.4
+2011,1,Ballston,AM Peak,4458
+2011,2,Ballston,AM Peak,4708.9
+2011,3,Ballston,AM Peak,4724.9
+2011,4,Ballston,AM Peak,4612.1
+2011,5,Ballston,AM Peak,4546.7
+2011,6,Ballston,AM Peak,4795.1
+2011,7,Ballston,AM Peak,4578.6
+2011,8,Ballston,AM Peak,4339.1
+2011,9,Ballston,AM Peak,4569.9
+2011,10,Ballston,AM Peak,4688.5
+2011,11,Ballston,AM Peak,4510
+2011,12,Ballston,AM Peak,3992.4
+2012,1,Ballston,AM Peak,4614.3
+2012,2,Ballston,AM Peak,4688.3
+2012,3,Ballston,AM Peak,4653.4
+2012,4,Ballston,AM Peak,4575
+2012,5,Ballston,AM Peak,4550.5
+2012,6,Ballston,AM Peak,4662.7
+2012,7,Ballston,AM Peak,4423.4
+2012,8,Ballston,AM Peak,4209.5
+2012,9,Ballston,AM Peak,4577.7
+2012,10,Ballston,AM Peak,4596.4
+2012,11,Ballston,AM Peak,4315.3
+2012,12,Ballston,AM Peak,3728.5
+2013,1,Ballston,AM Peak,4407.4
+2013,2,Ballston,AM Peak,4604.3
+2013,3,Ballston,AM Peak,4367.1
+2013,4,Ballston,AM Peak,4651.8
+2013,5,Ballston,AM Peak,4497.6
+2013,6,Ballston,AM Peak,4721.1
+2013,7,Ballston,AM Peak,4525
+2013,8,Ballston,AM Peak,4228.5
+2013,9,Ballston,AM Peak,4536
+2013,10,Ballston,AM Peak,4241.2
+2013,11,Ballston,AM Peak,4356.6
+2013,12,Ballston,AM Peak,3638.2
+2014,1,Ballston,AM Peak,4202.7
+2014,2,Ballston,AM Peak,4362.9
+2014,3,Ballston,AM Peak,4267.4
+2014,4,Ballston,AM Peak,4624
+2014,5,Ballston,AM Peak,4533.4
+2014,6,Ballston,AM Peak,4606.8
+2014,7,Ballston,AM Peak,4550.6
+2014,8,Ballston,AM Peak,4344.3
+2014,9,Ballston,AM Peak,4675.9
+2014,10,Ballston,AM Peak,4733.4
+2014,11,Ballston,AM Peak,4377.7
+2014,12,Ballston,AM Peak,3787.8
+2010,9,Benning Road,AM Peak,1650.2
+2010,10,Benning Road,AM Peak,1652.3
+2010,11,Benning Road,AM Peak,1602.2
+2010,12,Benning Road,AM Peak,1419.7
+2011,1,Benning Road,AM Peak,1499
+2011,2,Benning Road,AM Peak,1593.4
+2011,3,Benning Road,AM Peak,1646.5
+2011,4,Benning Road,AM Peak,1508.7
+2011,5,Benning Road,AM Peak,1621.3
+2011,6,Benning Road,AM Peak,1502.1
+2011,7,Benning Road,AM Peak,1516.2
+2011,8,Benning Road,AM Peak,1400.3
+2011,9,Benning Road,AM Peak,1626.9
+2011,10,Benning Road,AM Peak,1681.5
+2011,11,Benning Road,AM Peak,1651.9
+2011,12,Benning Road,AM Peak,1445.9
+2012,1,Benning Road,AM Peak,1602.1
+2012,2,Benning Road,AM Peak,1621
+2012,3,Benning Road,AM Peak,1623.4
+2012,4,Benning Road,AM Peak,1515.5
+2012,5,Benning Road,AM Peak,1579.1
+2012,6,Benning Road,AM Peak,1503.4
+2012,7,Benning Road,AM Peak,1499.8
+2012,8,Benning Road,AM Peak,1386.9
+2012,9,Benning Road,AM Peak,1656.9
+2012,10,Benning Road,AM Peak,1570
+2012,11,Benning Road,AM Peak,1615.6
+2012,12,Benning Road,AM Peak,1464.9
+2013,1,Benning Road,AM Peak,1574
+2013,2,Benning Road,AM Peak,1674.3
+2013,3,Benning Road,AM Peak,1604.1
+2013,4,Benning Road,AM Peak,1551
+2013,5,Benning Road,AM Peak,1626.5
+2013,6,Benning Road,AM Peak,1524.4
+2013,7,Benning Road,AM Peak,1531.4
+2013,8,Benning Road,AM Peak,1439.7
+2013,9,Benning Road,AM Peak,1717.1
+2013,10,Benning Road,AM Peak,1597.7
+2013,11,Benning Road,AM Peak,1625.7
+2013,12,Benning Road,AM Peak,1392.7
+2014,1,Benning Road,AM Peak,1458.6
+2014,2,Benning Road,AM Peak,1559.8
+2014,3,Benning Road,AM Peak,1545
+2014,4,Benning Road,AM Peak,1617
+2014,5,Benning Road,AM Peak,1652.4
+2014,6,Benning Road,AM Peak,1574.4
+2014,7,Benning Road,AM Peak,1595
+2014,8,Benning Road,AM Peak,1498.9
+2014,9,Benning Road,AM Peak,1729.5
+2014,10,Benning Road,AM Peak,1685.5
+2014,11,Benning Road,AM Peak,1631
+2014,12,Benning Road,AM Peak,1452.7
+2010,9,Bethesda,AM Peak,3265.1
+2010,10,Bethesda,AM Peak,3328.5
+2010,11,Bethesda,AM Peak,3144.7
+2010,12,Bethesda,AM Peak,2833.3
+2011,1,Bethesda,AM Peak,3163.7
+2011,2,Bethesda,AM Peak,3389.1
+2011,3,Bethesda,AM Peak,3447.7
+2011,4,Bethesda,AM Peak,3299
+2011,5,Bethesda,AM Peak,3346.1
+2011,6,Bethesda,AM Peak,3441.9
+2011,7,Bethesda,AM Peak,3331.5
+2011,8,Bethesda,AM Peak,2962
+2011,9,Bethesda,AM Peak,3335.4
+2011,10,Bethesda,AM Peak,3445.3
+2011,11,Bethesda,AM Peak,3316
+2011,12,Bethesda,AM Peak,2857.6
+2012,1,Bethesda,AM Peak,3278.1
+2012,2,Bethesda,AM Peak,3329.6
+2012,3,Bethesda,AM Peak,3439.4
+2012,4,Bethesda,AM Peak,3319.3
+2012,5,Bethesda,AM Peak,3340.6
+2012,6,Bethesda,AM Peak,3465.2
+2012,7,Bethesda,AM Peak,3316.7
+2012,8,Bethesda,AM Peak,2920.8
+2012,9,Bethesda,AM Peak,3241.4
+2012,10,Bethesda,AM Peak,3274.2
+2012,11,Bethesda,AM Peak,3080.5
+2012,12,Bethesda,AM Peak,2627.3
+2013,1,Bethesda,AM Peak,3133.8
+2013,2,Bethesda,AM Peak,3324.8
+2013,3,Bethesda,AM Peak,3059.9
+2013,4,Bethesda,AM Peak,3382.2
+2013,5,Bethesda,AM Peak,3228.4
+2013,6,Bethesda,AM Peak,3417.6
+2013,7,Bethesda,AM Peak,3221.1
+2013,8,Bethesda,AM Peak,2875.3
+2013,9,Bethesda,AM Peak,3283.3
+2013,10,Bethesda,AM Peak,3010.6
+2013,11,Bethesda,AM Peak,3066.8
+2013,12,Bethesda,AM Peak,2551.7
+2014,1,Bethesda,AM Peak,2968
+2014,2,Bethesda,AM Peak,3062.3
+2014,3,Bethesda,AM Peak,3047.4
+2014,4,Bethesda,AM Peak,3235.4
+2014,5,Bethesda,AM Peak,3335.5
+2014,6,Bethesda,AM Peak,3410.2
+2014,7,Bethesda,AM Peak,3339.5
+2014,8,Bethesda,AM Peak,3014.7
+2014,9,Bethesda,AM Peak,3360.9
+2014,10,Bethesda,AM Peak,3351.7
+2014,11,Bethesda,AM Peak,3162.4
+2014,12,Bethesda,AM Peak,2734.2
+2010,9,Braddock Road,AM Peak,2564.7
+2010,10,Braddock Road,AM Peak,2597.8
+2010,11,Braddock Road,AM Peak,2488
+2010,12,Braddock Road,AM Peak,2227.7
+2011,1,Braddock Road,AM Peak,2548.6
+2011,2,Braddock Road,AM Peak,2657.7
+2011,3,Braddock Road,AM Peak,2711.9
+2011,4,Braddock Road,AM Peak,2689.2
+2011,5,Braddock Road,AM Peak,2666.9
+2011,6,Braddock Road,AM Peak,2808
+2011,7,Braddock Road,AM Peak,2664.5
+2011,8,Braddock Road,AM Peak,2419
+2011,9,Braddock Road,AM Peak,2608.6
+2011,10,Braddock Road,AM Peak,2729.2
+2011,11,Braddock Road,AM Peak,2596.1
+2011,12,Braddock Road,AM Peak,2294.6
+2012,1,Braddock Road,AM Peak,2634.1
+2012,2,Braddock Road,AM Peak,2666.1
+2012,3,Braddock Road,AM Peak,2650
+2012,4,Braddock Road,AM Peak,2571
+2012,5,Braddock Road,AM Peak,2554.4
+2012,6,Braddock Road,AM Peak,2615.8
+2012,7,Braddock Road,AM Peak,2484.8
+2012,8,Braddock Road,AM Peak,2360.8
+2012,9,Braddock Road,AM Peak,2541.7
+2012,10,Braddock Road,AM Peak,2551.9
+2012,11,Braddock Road,AM Peak,2389.3
+2012,12,Braddock Road,AM Peak,2080.6
+2013,1,Braddock Road,AM Peak,2486
+2013,2,Braddock Road,AM Peak,2588.3
+2013,3,Braddock Road,AM Peak,2467.7
+2013,4,Braddock Road,AM Peak,2582.6
+2013,5,Braddock Road,AM Peak,2526.3
+2013,6,Braddock Road,AM Peak,2658.1
+2013,7,Braddock Road,AM Peak,2533.5
+2013,8,Braddock Road,AM Peak,2433.7
+2013,9,Braddock Road,AM Peak,2642.5
+2013,10,Braddock Road,AM Peak,2470.8
+2013,11,Braddock Road,AM Peak,2547.4
+2013,12,Braddock Road,AM Peak,2100
+2014,1,Braddock Road,AM Peak,2410.3
+2014,2,Braddock Road,AM Peak,2487.5
+2014,3,Braddock Road,AM Peak,2477.8
+2014,4,Braddock Road,AM Peak,2704.5
+2014,5,Braddock Road,AM Peak,2660
+2014,6,Braddock Road,AM Peak,2747
+2014,7,Braddock Road,AM Peak,2705.3
+2014,8,Braddock Road,AM Peak,2564.7
+2014,9,Braddock Road,AM Peak,2766.5
+2014,10,Braddock Road,AM Peak,2792.8
+2014,11,Braddock Road,AM Peak,2628.2
+2014,12,Braddock Road,AM Peak,2313.1
+2010,9,Branch Avenue,AM Peak,5025.6
+2010,10,Branch Avenue,AM Peak,5035.1
+2010,11,Branch Avenue,AM Peak,4696.7
+2010,12,Branch Avenue,AM Peak,4269.1
+2011,1,Branch Avenue,AM Peak,4520.4
+2011,2,Branch Avenue,AM Peak,4800.2
+2011,3,Branch Avenue,AM Peak,4950.5
+2011,4,Branch Avenue,AM Peak,4828
+2011,5,Branch Avenue,AM Peak,4900.4
+2011,6,Branch Avenue,AM Peak,5056.2
+2011,7,Branch Avenue,AM Peak,4938.5
+2011,8,Branch Avenue,AM Peak,4796.5
+2011,9,Branch Avenue,AM Peak,5006.7
+2011,10,Branch Avenue,AM Peak,5092.2
+2011,11,Branch Avenue,AM Peak,4883.1
+2011,12,Branch Avenue,AM Peak,4489.6
+2012,1,Branch Avenue,AM Peak,4867.5
+2012,2,Branch Avenue,AM Peak,4968.7
+2012,3,Branch Avenue,AM Peak,5003.6
+2012,4,Branch Avenue,AM Peak,4867.8
+2012,5,Branch Avenue,AM Peak,4922.1
+2012,6,Branch Avenue,AM Peak,5019.6
+2012,7,Branch Avenue,AM Peak,4845.3
+2012,8,Branch Avenue,AM Peak,4693.6
+2012,9,Branch Avenue,AM Peak,4896.6
+2012,10,Branch Avenue,AM Peak,4930.5
+2012,11,Branch Avenue,AM Peak,4638.6
+2012,12,Branch Avenue,AM Peak,4090.7
+2013,1,Branch Avenue,AM Peak,4552.5
+2013,2,Branch Avenue,AM Peak,4867.9
+2013,3,Branch Avenue,AM Peak,4561
+2013,4,Branch Avenue,AM Peak,4862
+2013,5,Branch Avenue,AM Peak,4883
+2013,6,Branch Avenue,AM Peak,4971.3
+2013,7,Branch Avenue,AM Peak,4774.8
+2013,8,Branch Avenue,AM Peak,4689.6
+2013,9,Branch Avenue,AM Peak,5028
+2013,10,Branch Avenue,AM Peak,4261.1
+2013,11,Branch Avenue,AM Peak,4660.6
+2013,12,Branch Avenue,AM Peak,3952.7
+2014,1,Branch Avenue,AM Peak,4125.5
+2014,2,Branch Avenue,AM Peak,4279.8
+2014,3,Branch Avenue,AM Peak,4329.3
+2014,4,Branch Avenue,AM Peak,4740
+2014,5,Branch Avenue,AM Peak,4685.9
+2014,6,Branch Avenue,AM Peak,4864.4
+2014,7,Branch Avenue,AM Peak,4793.6
+2014,8,Branch Avenue,AM Peak,4546.8
+2014,9,Branch Avenue,AM Peak,4845
+2014,10,Branch Avenue,AM Peak,4753.7
+2014,11,Branch Avenue,AM Peak,4453.8
+2014,12,Branch Avenue,AM Peak,3964.5
+2010,9,Brookland,AM Peak,2054
+2010,10,Brookland,AM Peak,2042.9
+2010,11,Brookland,AM Peak,1958
+2010,12,Brookland,AM Peak,1670
+2011,1,Brookland,AM Peak,1890.9
+2011,2,Brookland,AM Peak,2069.8
+2011,3,Brookland,AM Peak,2088.9
+2011,4,Brookland,AM Peak,2000.5
+2011,5,Brookland,AM Peak,2049.6
+2011,6,Brookland,AM Peak,2268.2
+2011,7,Brookland,AM Peak,2246.8
+2011,8,Brookland,AM Peak,1907.8
+2011,9,Brookland,AM Peak,2153
+2011,10,Brookland,AM Peak,2159.5
+2011,11,Brookland,AM Peak,2120.6
+2011,12,Brookland,AM Peak,1820
+2012,1,Brookland,AM Peak,2146.9
+2012,2,Brookland,AM Peak,2194.1
+2012,3,Brookland,AM Peak,2180.4
+2012,4,Brookland,AM Peak,2036.2
+2012,5,Brookland,AM Peak,2110.3
+2012,6,Brookland,AM Peak,2214
+2012,7,Brookland,AM Peak,2136.2
+2012,8,Brookland,AM Peak,1880.2
+2012,9,Brookland,AM Peak,2193.4
+2012,10,Brookland,AM Peak,2071.7
+2012,11,Brookland,AM Peak,2089.9
+2012,12,Brookland,AM Peak,1784.5
+2013,1,Brookland,AM Peak,2090
+2013,2,Brookland,AM Peak,2231.8
+2013,3,Brookland,AM Peak,2098.1
+2013,4,Brookland,AM Peak,2153
+2013,5,Brookland,AM Peak,2172.6
+2013,6,Brookland,AM Peak,2248.3
+2013,7,Brookland,AM Peak,2102.7
+2013,8,Brookland,AM Peak,1922.9
+2013,9,Brookland,AM Peak,2187.9
+2013,10,Brookland,AM Peak,2069.8
+2013,11,Brookland,AM Peak,2090.4
+2013,12,Brookland,AM Peak,1704.3
+2014,1,Brookland,AM Peak,1932.7
+2014,2,Brookland,AM Peak,2053.9
+2014,3,Brookland,AM Peak,2006.8
+2014,4,Brookland,AM Peak,2179.3
+2014,5,Brookland,AM Peak,2217.3
+2014,6,Brookland,AM Peak,2327
+2014,7,Brookland,AM Peak,2266.6
+2014,8,Brookland,AM Peak,2036.3
+2014,9,Brookland,AM Peak,2356.7
+2014,10,Brookland,AM Peak,2318.1
+2014,11,Brookland,AM Peak,2212.6
+2014,12,Brookland,AM Peak,1870.6
+2010,9,Capitol Heights,AM Peak,1235.7
+2010,10,Capitol Heights,AM Peak,1250.8
+2010,11,Capitol Heights,AM Peak,1230.1
+2010,12,Capitol Heights,AM Peak,1116.9
+2011,1,Capitol Heights,AM Peak,1150.6
+2011,2,Capitol Heights,AM Peak,1249.1
+2011,3,Capitol Heights,AM Peak,1285
+2011,4,Capitol Heights,AM Peak,1226.7
+2011,5,Capitol Heights,AM Peak,1270.5
+2011,6,Capitol Heights,AM Peak,1216.6
+2011,7,Capitol Heights,AM Peak,1218.1
+2011,8,Capitol Heights,AM Peak,1140.8
+2011,9,Capitol Heights,AM Peak,1258.4
+2011,10,Capitol Heights,AM Peak,1258.7
+2011,11,Capitol Heights,AM Peak,1242.1
+2011,12,Capitol Heights,AM Peak,1133.6
+2012,1,Capitol Heights,AM Peak,1213.7
+2012,2,Capitol Heights,AM Peak,1238
+2012,3,Capitol Heights,AM Peak,1264.1
+2012,4,Capitol Heights,AM Peak,1202.7
+2012,5,Capitol Heights,AM Peak,1260.4
+2012,6,Capitol Heights,AM Peak,1204
+2012,7,Capitol Heights,AM Peak,1160.4
+2012,8,Capitol Heights,AM Peak,1125.8
+2012,9,Capitol Heights,AM Peak,1246.5
+2012,10,Capitol Heights,AM Peak,1194.2
+2012,11,Capitol Heights,AM Peak,1185.7
+2012,12,Capitol Heights,AM Peak,1047.4
+2013,1,Capitol Heights,AM Peak,1122.9
+2013,2,Capitol Heights,AM Peak,1212.2
+2013,3,Capitol Heights,AM Peak,1147.4
+2013,4,Capitol Heights,AM Peak,1211.6
+2013,5,Capitol Heights,AM Peak,1242.3
+2013,6,Capitol Heights,AM Peak,1170.5
+2013,7,Capitol Heights,AM Peak,1144.3
+2013,8,Capitol Heights,AM Peak,1106.7
+2013,9,Capitol Heights,AM Peak,1250
+2013,10,Capitol Heights,AM Peak,1126.2
+2013,11,Capitol Heights,AM Peak,1204.4
+2013,12,Capitol Heights,AM Peak,1040.3
+2014,1,Capitol Heights,AM Peak,1074.1
+2014,2,Capitol Heights,AM Peak,1138.5
+2014,3,Capitol Heights,AM Peak,1146.3
+2014,4,Capitol Heights,AM Peak,1233.8
+2014,5,Capitol Heights,AM Peak,1253.9
+2014,6,Capitol Heights,AM Peak,1208.2
+2014,7,Capitol Heights,AM Peak,1198.2
+2014,8,Capitol Heights,AM Peak,1119.9
+2014,9,Capitol Heights,AM Peak,1286.5
+2014,10,Capitol Heights,AM Peak,1267.7
+2014,11,Capitol Heights,AM Peak,1199.6
+2014,12,Capitol Heights,AM Peak,1089.8
+2010,9,Capitol South,AM Peak,907.1
+2010,10,Capitol South,AM Peak,899.5
+2010,11,Capitol South,AM Peak,836.6
+2010,12,Capitol South,AM Peak,725.2
+2011,1,Capitol South,AM Peak,840.4
+2011,2,Capitol South,AM Peak,890.9
+2011,3,Capitol South,AM Peak,764.4
+2011,4,Capitol South,AM Peak,842
+2011,5,Capitol South,AM Peak,863.4
+2011,6,Capitol South,AM Peak,940.1
+2011,7,Capitol South,AM Peak,910.2
+2011,8,Capitol South,AM Peak,782.7
+2011,9,Capitol South,AM Peak,864.5
+2011,10,Capitol South,AM Peak,885.7
+2011,11,Capitol South,AM Peak,843
+2011,12,Capitol South,AM Peak,705.3
+2012,1,Capitol South,AM Peak,870.5
+2012,2,Capitol South,AM Peak,908.9
+2012,3,Capitol South,AM Peak,917.5
+2012,4,Capitol South,AM Peak,890.3
+2012,5,Capitol South,AM Peak,828.6
+2012,6,Capitol South,AM Peak,910.8
+2012,7,Capitol South,AM Peak,883.2
+2012,8,Capitol South,AM Peak,766.7
+2012,9,Capitol South,AM Peak,920.8
+2012,10,Capitol South,AM Peak,908.3
+2012,11,Capitol South,AM Peak,846.2
+2012,12,Capitol South,AM Peak,729.5
+2013,1,Capitol South,AM Peak,904.8
+2013,2,Capitol South,AM Peak,956.4
+2013,3,Capitol South,AM Peak,891.1
+2013,4,Capitol South,AM Peak,896.6
+2013,5,Capitol South,AM Peak,907.1
+2013,6,Capitol South,AM Peak,967.5
+2013,7,Capitol South,AM Peak,905.4
+2013,8,Capitol South,AM Peak,777.5
+2013,9,Capitol South,AM Peak,917.7
+2013,10,Capitol South,AM Peak,831.4
+2013,11,Capitol South,AM Peak,891.3
+2013,12,Capitol South,AM Peak,684.9
+2014,1,Capitol South,AM Peak,839.9
+2014,2,Capitol South,AM Peak,889.9
+2014,3,Capitol South,AM Peak,862.8
+2014,4,Capitol South,AM Peak,894.3
+2014,5,Capitol South,AM Peak,870.5
+2014,6,Capitol South,AM Peak,914.2
+2014,7,Capitol South,AM Peak,899.4
+2014,8,Capitol South,AM Peak,788.4
+2014,9,Capitol South,AM Peak,964.4
+2014,10,Capitol South,AM Peak,955.8
+2014,11,Capitol South,AM Peak,882.9
+2014,12,Capitol South,AM Peak,705.9
+2010,9,Cheverly,AM Peak,1025.8
+2010,10,Cheverly,AM Peak,1027.8
+2010,11,Cheverly,AM Peak,975.1
+2010,12,Cheverly,AM Peak,883.7
+2011,1,Cheverly,AM Peak,930
+2011,2,Cheverly,AM Peak,992.5
+2011,3,Cheverly,AM Peak,1041.8
+2011,4,Cheverly,AM Peak,1005.1
+2011,5,Cheverly,AM Peak,1033.3
+2011,6,Cheverly,AM Peak,1045.8
+2011,7,Cheverly,AM Peak,1026.4
+2011,8,Cheverly,AM Peak,958.4
+2011,9,Cheverly,AM Peak,1029.5
+2011,10,Cheverly,AM Peak,1021
+2011,11,Cheverly,AM Peak,997
+2011,12,Cheverly,AM Peak,903.3
+2012,1,Cheverly,AM Peak,997.6
+2012,2,Cheverly,AM Peak,1016.5
+2012,3,Cheverly,AM Peak,1035.7
+2012,4,Cheverly,AM Peak,992.8
+2012,5,Cheverly,AM Peak,1009.8
+2012,6,Cheverly,AM Peak,1004.1
+2012,7,Cheverly,AM Peak,978.2
+2012,8,Cheverly,AM Peak,950.2
+2012,9,Cheverly,AM Peak,1023.1
+2012,10,Cheverly,AM Peak,996.2
+2012,11,Cheverly,AM Peak,946.3
+2012,12,Cheverly,AM Peak,850.9
+2013,1,Cheverly,AM Peak,950
+2013,2,Cheverly,AM Peak,986.9
+2013,3,Cheverly,AM Peak,941.6
+2013,4,Cheverly,AM Peak,1000.9
+2013,5,Cheverly,AM Peak,1014.1
+2013,6,Cheverly,AM Peak,1039
+2013,7,Cheverly,AM Peak,1007.8
+2013,8,Cheverly,AM Peak,963.5
+2013,9,Cheverly,AM Peak,1021.6
+2013,10,Cheverly,AM Peak,911
+2013,11,Cheverly,AM Peak,957.8
+2013,12,Cheverly,AM Peak,800.7
+2014,1,Cheverly,AM Peak,874.2
+2014,2,Cheverly,AM Peak,913.2
+2014,3,Cheverly,AM Peak,885.4
+2014,4,Cheverly,AM Peak,974
+2014,5,Cheverly,AM Peak,999.2
+2014,6,Cheverly,AM Peak,1000
+2014,7,Cheverly,AM Peak,975.2
+2014,8,Cheverly,AM Peak,912.9
+2014,9,Cheverly,AM Peak,980.9
+2014,10,Cheverly,AM Peak,990.6
+2014,11,Cheverly,AM Peak,876.1
+2014,12,Cheverly,AM Peak,807.3
+2010,9,Clarendon,AM Peak,1706
+2010,10,Clarendon,AM Peak,1733.5
+2010,11,Clarendon,AM Peak,1630.9
+2010,12,Clarendon,AM Peak,1436.5
+2011,1,Clarendon,AM Peak,1714.8
+2011,2,Clarendon,AM Peak,1796.9
+2011,3,Clarendon,AM Peak,1790.5
+2011,4,Clarendon,AM Peak,1762.7
+2011,5,Clarendon,AM Peak,1766.8
+2011,6,Clarendon,AM Peak,1827.7
+2011,7,Clarendon,AM Peak,1749.4
+2011,8,Clarendon,AM Peak,1667.3
+2011,9,Clarendon,AM Peak,1786.7
+2011,10,Clarendon,AM Peak,1871.2
+2011,11,Clarendon,AM Peak,1797
+2011,12,Clarendon,AM Peak,1587.8
+2012,1,Clarendon,AM Peak,1900.7
+2012,2,Clarendon,AM Peak,1902.8
+2012,3,Clarendon,AM Peak,1879.3
+2012,4,Clarendon,AM Peak,1853.6
+2012,5,Clarendon,AM Peak,1847.4
+2012,6,Clarendon,AM Peak,1876.9
+2012,7,Clarendon,AM Peak,1781
+2012,8,Clarendon,AM Peak,1693
+2012,9,Clarendon,AM Peak,1890.6
+2012,10,Clarendon,AM Peak,1812.6
+2012,11,Clarendon,AM Peak,1791.2
+2012,12,Clarendon,AM Peak,1541.6
+2013,1,Clarendon,AM Peak,1880
+2013,2,Clarendon,AM Peak,1963.1
+2013,3,Clarendon,AM Peak,1841.8
+2013,4,Clarendon,AM Peak,1936.8
+2013,5,Clarendon,AM Peak,1875.6
+2013,6,Clarendon,AM Peak,1950.5
+2013,7,Clarendon,AM Peak,1820.5
+2013,8,Clarendon,AM Peak,1717.8
+2013,9,Clarendon,AM Peak,1887.9
+2013,10,Clarendon,AM Peak,1780.9
+2013,11,Clarendon,AM Peak,1818.6
+2013,12,Clarendon,AM Peak,1500.7
+2014,1,Clarendon,AM Peak,1776.7
+2014,2,Clarendon,AM Peak,1829.9
+2014,3,Clarendon,AM Peak,1798.8
+2014,4,Clarendon,AM Peak,1919.9
+2014,5,Clarendon,AM Peak,1908.4
+2014,6,Clarendon,AM Peak,1938.6
+2014,7,Clarendon,AM Peak,1882
+2014,8,Clarendon,AM Peak,1796.1
+2014,9,Clarendon,AM Peak,2000.2
+2014,10,Clarendon,AM Peak,2061
+2014,11,Clarendon,AM Peak,1924.6
+2014,12,Clarendon,AM Peak,1634.9
+2010,9,Cleveland Park,AM Peak,2229.5
+2010,10,Cleveland Park,AM Peak,2271.6
+2010,11,Cleveland Park,AM Peak,2166.5
+2010,12,Cleveland Park,AM Peak,1933
+2011,1,Cleveland Park,AM Peak,2225
+2011,2,Cleveland Park,AM Peak,2373.9
+2011,3,Cleveland Park,AM Peak,2361.5
+2011,4,Cleveland Park,AM Peak,2310.3
+2011,5,Cleveland Park,AM Peak,2345.8
+2011,6,Cleveland Park,AM Peak,2341
+2011,7,Cleveland Park,AM Peak,2279
+2011,8,Cleveland Park,AM Peak,2106.9
+2011,9,Cleveland Park,AM Peak,2360.4
+2011,10,Cleveland Park,AM Peak,2465.6
+2011,11,Cleveland Park,AM Peak,2389.3
+2011,12,Cleveland Park,AM Peak,2070.2
+2012,1,Cleveland Park,AM Peak,2414.9
+2012,2,Cleveland Park,AM Peak,2510.7
+2012,3,Cleveland Park,AM Peak,2427.2
+2012,4,Cleveland Park,AM Peak,2376.8
+2012,5,Cleveland Park,AM Peak,2357.8
+2012,6,Cleveland Park,AM Peak,2392
+2012,7,Cleveland Park,AM Peak,2287.2
+2012,8,Cleveland Park,AM Peak,2106
+2012,9,Cleveland Park,AM Peak,2332.9
+2012,10,Cleveland Park,AM Peak,2373.6
+2012,11,Cleveland Park,AM Peak,2260.3
+2012,12,Cleveland Park,AM Peak,1945.7
+2013,1,Cleveland Park,AM Peak,2325.4
+2013,2,Cleveland Park,AM Peak,2402.4
+2013,3,Cleveland Park,AM Peak,2280
+2013,4,Cleveland Park,AM Peak,2383.7
+2013,5,Cleveland Park,AM Peak,2324.4
+2013,6,Cleveland Park,AM Peak,2402.9
+2013,7,Cleveland Park,AM Peak,2226.8
+2013,8,Cleveland Park,AM Peak,2086.7
+2013,9,Cleveland Park,AM Peak,2286.7
+2013,10,Cleveland Park,AM Peak,2161.7
+2013,11,Cleveland Park,AM Peak,2145.8
+2013,12,Cleveland Park,AM Peak,1789.7
+2014,1,Cleveland Park,AM Peak,2166.6
+2014,2,Cleveland Park,AM Peak,2190.5
+2014,3,Cleveland Park,AM Peak,2098.7
+2014,4,Cleveland Park,AM Peak,2167
+2014,5,Cleveland Park,AM Peak,2221.3
+2014,6,Cleveland Park,AM Peak,2272.5
+2014,7,Cleveland Park,AM Peak,2178.7
+2014,8,Cleveland Park,AM Peak,2038.8
+2014,9,Cleveland Park,AM Peak,2263.6
+2014,10,Cleveland Park,AM Peak,2255.8
+2014,11,Cleveland Park,AM Peak,2083.1
+2014,12,Cleveland Park,AM Peak,1865.2
+2010,9,College Park-U of MD,AM Peak,2025.1
+2010,10,College Park-U of MD,AM Peak,2049
+2010,11,College Park-U of MD,AM Peak,1938.5
+2010,12,College Park-U of MD,AM Peak,1677.2
+2011,1,College Park-U of MD,AM Peak,1796.6
+2011,2,College Park-U of MD,AM Peak,1982.6
+2011,3,College Park-U of MD,AM Peak,2033.2
+2011,4,College Park-U of MD,AM Peak,2053
+2011,5,College Park-U of MD,AM Peak,2047.7
+2011,6,College Park-U of MD,AM Peak,2483.7
+2011,7,College Park-U of MD,AM Peak,2451
+2011,8,College Park-U of MD,AM Peak,2010.1
+2011,9,College Park-U of MD,AM Peak,2001.9
+2011,10,College Park-U of MD,AM Peak,2012.9
+2011,11,College Park-U of MD,AM Peak,1919.2
+2011,12,College Park-U of MD,AM Peak,1663.1
+2012,1,College Park-U of MD,AM Peak,1851.3
+2012,2,College Park-U of MD,AM Peak,2007.3
+2012,3,College Park-U of MD,AM Peak,1988.7
+2012,4,College Park-U of MD,AM Peak,2012.1
+2012,5,College Park-U of MD,AM Peak,1974
+2012,6,College Park-U of MD,AM Peak,2426.9
+2012,7,College Park-U of MD,AM Peak,2274.2
+2012,8,College Park-U of MD,AM Peak,1858.4
+2012,9,College Park-U of MD,AM Peak,1908.7
+2012,10,College Park-U of MD,AM Peak,1914.3
+2012,11,College Park-U of MD,AM Peak,1773.6
+2012,12,College Park-U of MD,AM Peak,1479.7
+2013,1,College Park-U of MD,AM Peak,1701.9
+2013,2,College Park-U of MD,AM Peak,1883.3
+2013,3,College Park-U of MD,AM Peak,1800.9
+2013,4,College Park-U of MD,AM Peak,1962.5
+2013,5,College Park-U of MD,AM Peak,1870.9
+2013,6,College Park-U of MD,AM Peak,2362.8
+2013,7,College Park-U of MD,AM Peak,2286.2
+2013,8,College Park-U of MD,AM Peak,1864
+2013,9,College Park-U of MD,AM Peak,1876.4
+2013,10,College Park-U of MD,AM Peak,1658.8
+2013,11,College Park-U of MD,AM Peak,1780.3
+2013,12,College Park-U of MD,AM Peak,1428.4
+2014,1,College Park-U of MD,AM Peak,1588.4
+2014,2,College Park-U of MD,AM Peak,1745.5
+2014,3,College Park-U of MD,AM Peak,1715.8
+2014,4,College Park-U of MD,AM Peak,1963.9
+2014,5,College Park-U of MD,AM Peak,1888.1
+2014,6,College Park-U of MD,AM Peak,2380.3
+2014,7,College Park-U of MD,AM Peak,2313.3
+2014,8,College Park-U of MD,AM Peak,1812.1
+2014,9,College Park-U of MD,AM Peak,1827.1
+2014,10,College Park-U of MD,AM Peak,1822
+2014,11,College Park-U of MD,AM Peak,1696.1
+2014,12,College Park-U of MD,AM Peak,1465.9
+2010,9,Columbia Heights,AM Peak,4037.1
+2010,10,Columbia Heights,AM Peak,4030
+2010,11,Columbia Heights,AM Peak,3944.6
+2010,12,Columbia Heights,AM Peak,3606.9
+2011,1,Columbia Heights,AM Peak,4026.4
+2011,2,Columbia Heights,AM Peak,3893.5
+2011,3,Columbia Heights,AM Peak,3747.7
+2011,4,Columbia Heights,AM Peak,4132.5
+2011,5,Columbia Heights,AM Peak,4183.1
+2011,6,Columbia Heights,AM Peak,4224.9
+2011,7,Columbia Heights,AM Peak,4100.1
+2011,8,Columbia Heights,AM Peak,3856.5
+2011,9,Columbia Heights,AM Peak,4241.6
+2011,10,Columbia Heights,AM Peak,4302.2
+2011,11,Columbia Heights,AM Peak,4227.1
+2011,12,Columbia Heights,AM Peak,3751
+2012,1,Columbia Heights,AM Peak,4264
+2012,2,Columbia Heights,AM Peak,4373.7
+2012,3,Columbia Heights,AM Peak,4315
+2012,4,Columbia Heights,AM Peak,4222.1
+2012,5,Columbia Heights,AM Peak,4277.3
+2012,6,Columbia Heights,AM Peak,4308.4
+2012,7,Columbia Heights,AM Peak,4153
+2012,8,Columbia Heights,AM Peak,3859.8
+2012,9,Columbia Heights,AM Peak,4123.7
+2012,10,Columbia Heights,AM Peak,4330.3
+2012,11,Columbia Heights,AM Peak,4198
+2012,12,Columbia Heights,AM Peak,3708.4
+2013,1,Columbia Heights,AM Peak,4310.9
+2013,2,Columbia Heights,AM Peak,4449.4
+2013,3,Columbia Heights,AM Peak,4306.6
+2013,4,Columbia Heights,AM Peak,4389.7
+2013,5,Columbia Heights,AM Peak,4309.7
+2013,6,Columbia Heights,AM Peak,4437.2
+2013,7,Columbia Heights,AM Peak,4177.1
+2013,8,Columbia Heights,AM Peak,3906.1
+2013,9,Columbia Heights,AM Peak,4248.4
+2013,10,Columbia Heights,AM Peak,4070
+2013,11,Columbia Heights,AM Peak,4172
+2013,12,Columbia Heights,AM Peak,3518.2
+2014,1,Columbia Heights,AM Peak,4106.5
+2014,2,Columbia Heights,AM Peak,4263.5
+2014,3,Columbia Heights,AM Peak,4183.5
+2014,4,Columbia Heights,AM Peak,4391.7
+2014,5,Columbia Heights,AM Peak,4287.8
+2014,6,Columbia Heights,AM Peak,4325
+2014,7,Columbia Heights,AM Peak,4257.7
+2014,8,Columbia Heights,AM Peak,3921.7
+2014,9,Columbia Heights,AM Peak,4389.9
+2014,10,Columbia Heights,AM Peak,4391.4
+2014,11,Columbia Heights,AM Peak,4199.3
+2014,12,Columbia Heights,AM Peak,3577.6
+2010,9,Congress Heights,AM Peak,1368.7
+2010,10,Congress Heights,AM Peak,1368.5
+2010,11,Congress Heights,AM Peak,1319.9
+2010,12,Congress Heights,AM Peak,1157
+2011,1,Congress Heights,AM Peak,1234.9
+2011,2,Congress Heights,AM Peak,1373.1
+2011,3,Congress Heights,AM Peak,1388.6
+2011,4,Congress Heights,AM Peak,1256.9
+2011,5,Congress Heights,AM Peak,1367.8
+2011,6,Congress Heights,AM Peak,1290.6
+2011,7,Congress Heights,AM Peak,1291.3
+2011,8,Congress Heights,AM Peak,1193.1
+2011,9,Congress Heights,AM Peak,1482.2
+2011,10,Congress Heights,AM Peak,1469.6
+2011,11,Congress Heights,AM Peak,1453.1
+2011,12,Congress Heights,AM Peak,1270.1
+2012,1,Congress Heights,AM Peak,1430
+2012,2,Congress Heights,AM Peak,1482
+2012,3,Congress Heights,AM Peak,1509.2
+2012,4,Congress Heights,AM Peak,1391.9
+2012,5,Congress Heights,AM Peak,1479.2
+2012,6,Congress Heights,AM Peak,1356.5
+2012,7,Congress Heights,AM Peak,1326.9
+2012,8,Congress Heights,AM Peak,1222.9
+2012,9,Congress Heights,AM Peak,1568.9
+2012,10,Congress Heights,AM Peak,1574
+2012,11,Congress Heights,AM Peak,1516.7
+2012,12,Congress Heights,AM Peak,1326.8
+2013,1,Congress Heights,AM Peak,1422
+2013,2,Congress Heights,AM Peak,1526.8
+2013,3,Congress Heights,AM Peak,1439.9
+2013,4,Congress Heights,AM Peak,1440.7
+2013,5,Congress Heights,AM Peak,1546.2
+2013,6,Congress Heights,AM Peak,1422.6
+2013,7,Congress Heights,AM Peak,1363.5
+2013,8,Congress Heights,AM Peak,1306.2
+2013,9,Congress Heights,AM Peak,1555.6
+2013,10,Congress Heights,AM Peak,1421.6
+2013,11,Congress Heights,AM Peak,1418.6
+2013,12,Congress Heights,AM Peak,1238.7
+2014,1,Congress Heights,AM Peak,1281.2
+2014,2,Congress Heights,AM Peak,1404.3
+2014,3,Congress Heights,AM Peak,1379.5
+2014,4,Congress Heights,AM Peak,1352.5
+2014,5,Congress Heights,AM Peak,1409.2
+2014,6,Congress Heights,AM Peak,1281.3
+2014,7,Congress Heights,AM Peak,1330.8
+2014,8,Congress Heights,AM Peak,1267.1
+2014,9,Congress Heights,AM Peak,1514.4
+2014,10,Congress Heights,AM Peak,1426.2
+2014,11,Congress Heights,AM Peak,1339.1
+2014,12,Congress Heights,AM Peak,1159.2
+2010,9,Court House,AM Peak,3409.4
+2010,10,Court House,AM Peak,3461.6
+2010,11,Court House,AM Peak,3211.1
+2010,12,Court House,AM Peak,2801.7
+2011,1,Court House,AM Peak,3247.6
+2011,2,Court House,AM Peak,3387.7
+2011,3,Court House,AM Peak,3410.4
+2011,4,Court House,AM Peak,3354.9
+2011,5,Court House,AM Peak,3297.7
+2011,6,Court House,AM Peak,3407.3
+2011,7,Court House,AM Peak,3238.6
+2011,8,Court House,AM Peak,3089.9
+2011,9,Court House,AM Peak,3300.9
+2011,10,Court House,AM Peak,3411
+2011,11,Court House,AM Peak,3241.1
+2011,12,Court House,AM Peak,2819.8
+2012,1,Court House,AM Peak,3259.9
+2012,2,Court House,AM Peak,3333.7
+2012,3,Court House,AM Peak,3284.4
+2012,4,Court House,AM Peak,3301.3
+2012,5,Court House,AM Peak,3278.7
+2012,6,Court House,AM Peak,3381
+2012,7,Court House,AM Peak,3248.8
+2012,8,Court House,AM Peak,3062
+2012,9,Court House,AM Peak,3392.6
+2012,10,Court House,AM Peak,3478.4
+2012,11,Court House,AM Peak,3241.8
+2012,12,Court House,AM Peak,2742.2
+2013,1,Court House,AM Peak,3291.7
+2013,2,Court House,AM Peak,3418.8
+2013,3,Court House,AM Peak,3245.7
+2013,4,Court House,AM Peak,3508
+2013,5,Court House,AM Peak,3365.8
+2013,6,Court House,AM Peak,3459.6
+2013,7,Court House,AM Peak,3302.5
+2013,8,Court House,AM Peak,3142.6
+2013,9,Court House,AM Peak,3474.3
+2013,10,Court House,AM Peak,3335.3
+2013,11,Court House,AM Peak,3271.8
+2013,12,Court House,AM Peak,2658.2
+2014,1,Court House,AM Peak,3156.2
+2014,2,Court House,AM Peak,3260
+2014,3,Court House,AM Peak,3205.9
+2014,4,Court House,AM Peak,3438.1
+2014,5,Court House,AM Peak,3405.2
+2014,6,Court House,AM Peak,3444
+2014,7,Court House,AM Peak,3387.9
+2014,8,Court House,AM Peak,3287
+2014,9,Court House,AM Peak,3549
+2014,10,Court House,AM Peak,3577.5
+2014,11,Court House,AM Peak,3359.3
+2014,12,Court House,AM Peak,2815.4
+2010,9,Crystal City,AM Peak,4159.7
+2010,10,Crystal City,AM Peak,4373.7
+2010,11,Crystal City,AM Peak,3926.2
+2010,12,Crystal City,AM Peak,3381.3
+2011,1,Crystal City,AM Peak,3980.5
+2011,2,Crystal City,AM Peak,4166.6
+2011,3,Crystal City,AM Peak,4515.3
+2011,4,Crystal City,AM Peak,4403.7
+2011,5,Crystal City,AM Peak,4322.7
+2011,6,Crystal City,AM Peak,4575.6
+2011,7,Crystal City,AM Peak,4384.4
+2011,8,Crystal City,AM Peak,4098.5
+2011,9,Crystal City,AM Peak,4298.6
+2011,10,Crystal City,AM Peak,4542.6
+2011,11,Crystal City,AM Peak,4124.9
+2011,12,Crystal City,AM Peak,3468.5
+2012,1,Crystal City,AM Peak,4156.5
+2012,2,Crystal City,AM Peak,4251.4
+2012,3,Crystal City,AM Peak,4510.2
+2012,4,Crystal City,AM Peak,4460.2
+2012,5,Crystal City,AM Peak,4215.7
+2012,6,Crystal City,AM Peak,4689
+2012,7,Crystal City,AM Peak,4596.2
+2012,8,Crystal City,AM Peak,3875.1
+2012,9,Crystal City,AM Peak,4110.9
+2012,10,Crystal City,AM Peak,4218.7
+2012,11,Crystal City,AM Peak,3851.2
+2012,12,Crystal City,AM Peak,3230.5
+2013,1,Crystal City,AM Peak,3924.1
+2013,2,Crystal City,AM Peak,4148.9
+2013,3,Crystal City,AM Peak,4164.1
+2013,4,Crystal City,AM Peak,4312.3
+2013,5,Crystal City,AM Peak,3992.4
+2013,6,Crystal City,AM Peak,4323.9
+2013,7,Crystal City,AM Peak,4114.4
+2013,8,Crystal City,AM Peak,3738.1
+2013,9,Crystal City,AM Peak,3973.5
+2013,10,Crystal City,AM Peak,3724.1
+2013,11,Crystal City,AM Peak,3791.7
+2013,12,Crystal City,AM Peak,3026.8
+2014,1,Crystal City,AM Peak,3646.1
+2014,2,Crystal City,AM Peak,3763.6
+2014,3,Crystal City,AM Peak,3870.8
+2014,4,Crystal City,AM Peak,4263.7
+2014,5,Crystal City,AM Peak,3902.9
+2014,6,Crystal City,AM Peak,4116.2
+2014,7,Crystal City,AM Peak,4081.8
+2014,8,Crystal City,AM Peak,3748.4
+2014,9,Crystal City,AM Peak,3983.1
+2014,10,Crystal City,AM Peak,3995
+2014,11,Crystal City,AM Peak,3720.4
+2014,12,Crystal City,AM Peak,3085.2
+2010,9,Deanwood,AM Peak,944.7
+2010,10,Deanwood,AM Peak,913.6
+2010,11,Deanwood,AM Peak,871.9
+2010,12,Deanwood,AM Peak,771
+2011,1,Deanwood,AM Peak,803.9
+2011,2,Deanwood,AM Peak,856.2
+2011,3,Deanwood,AM Peak,897.6
+2011,4,Deanwood,AM Peak,858.1
+2011,5,Deanwood,AM Peak,913.7
+2011,6,Deanwood,AM Peak,888.8
+2011,7,Deanwood,AM Peak,899.3
+2011,8,Deanwood,AM Peak,838.5
+2011,9,Deanwood,AM Peak,962.5
+2011,10,Deanwood,AM Peak,950.6
+2011,11,Deanwood,AM Peak,921.3
+2011,12,Deanwood,AM Peak,825.5
+2012,1,Deanwood,AM Peak,913.3
+2012,2,Deanwood,AM Peak,927.8
+2012,3,Deanwood,AM Peak,942
+2012,4,Deanwood,AM Peak,873.6
+2012,5,Deanwood,AM Peak,921.2
+2012,6,Deanwood,AM Peak,888.1
+2012,7,Deanwood,AM Peak,867.2
+2012,8,Deanwood,AM Peak,828.2
+2012,9,Deanwood,AM Peak,943.9
+2012,10,Deanwood,AM Peak,917.9
+2012,11,Deanwood,AM Peak,859
+2012,12,Deanwood,AM Peak,775.2
+2013,1,Deanwood,AM Peak,841.1
+2013,2,Deanwood,AM Peak,901.6
+2013,3,Deanwood,AM Peak,853.9
+2013,4,Deanwood,AM Peak,865.5
+2013,5,Deanwood,AM Peak,928.5
+2013,6,Deanwood,AM Peak,887.4
+2013,7,Deanwood,AM Peak,864.9
+2013,8,Deanwood,AM Peak,821.4
+2013,9,Deanwood,AM Peak,928.7
+2013,10,Deanwood,AM Peak,850.1
+2013,11,Deanwood,AM Peak,866
+2013,12,Deanwood,AM Peak,741.3
+2014,1,Deanwood,AM Peak,740.8
+2014,2,Deanwood,AM Peak,816.1
+2014,3,Deanwood,AM Peak,812.6
+2014,4,Deanwood,AM Peak,866.7
+2014,5,Deanwood,AM Peak,883.4
+2014,6,Deanwood,AM Peak,869.4
+2014,7,Deanwood,AM Peak,884.5
+2014,8,Deanwood,AM Peak,811.2
+2014,9,Deanwood,AM Peak,934.8
+2014,10,Deanwood,AM Peak,887.2
+2014,11,Deanwood,AM Peak,804.9
+2014,12,Deanwood,AM Peak,742.4
+2010,9,Dunn Loring,AM Peak,3039.4
+2010,10,Dunn Loring,AM Peak,3093.8
+2010,11,Dunn Loring,AM Peak,2872.3
+2010,12,Dunn Loring,AM Peak,2588.4
+2011,1,Dunn Loring,AM Peak,2764.7
+2011,2,Dunn Loring,AM Peak,2943.7
+2011,3,Dunn Loring,AM Peak,3027.5
+2011,4,Dunn Loring,AM Peak,2972.9
+2011,5,Dunn Loring,AM Peak,2990
+2011,6,Dunn Loring,AM Peak,3127.7
+2011,7,Dunn Loring,AM Peak,3015.5
+2011,8,Dunn Loring,AM Peak,2905.7
+2011,9,Dunn Loring,AM Peak,3009.6
+2011,10,Dunn Loring,AM Peak,3037.9
+2011,11,Dunn Loring,AM Peak,2896
+2011,12,Dunn Loring,AM Peak,2556.3
+2012,1,Dunn Loring,AM Peak,2871.2
+2012,2,Dunn Loring,AM Peak,2903.1
+2012,3,Dunn Loring,AM Peak,2881
+2012,4,Dunn Loring,AM Peak,2841.7
+2012,5,Dunn Loring,AM Peak,2885.1
+2012,6,Dunn Loring,AM Peak,2910.2
+2012,7,Dunn Loring,AM Peak,2784.6
+2012,8,Dunn Loring,AM Peak,2652.6
+2012,9,Dunn Loring,AM Peak,2819.1
+2012,10,Dunn Loring,AM Peak,2815
+2012,11,Dunn Loring,AM Peak,2636.4
+2012,12,Dunn Loring,AM Peak,2299.1
+2013,1,Dunn Loring,AM Peak,2658.9
+2013,2,Dunn Loring,AM Peak,2789.9
+2013,3,Dunn Loring,AM Peak,2627.4
+2013,4,Dunn Loring,AM Peak,2878.7
+2013,5,Dunn Loring,AM Peak,2816.1
+2013,6,Dunn Loring,AM Peak,2920
+2013,7,Dunn Loring,AM Peak,2815.1
+2013,8,Dunn Loring,AM Peak,2688
+2013,9,Dunn Loring,AM Peak,2937.3
+2013,10,Dunn Loring,AM Peak,2692.5
+2013,11,Dunn Loring,AM Peak,2800.8
+2013,12,Dunn Loring,AM Peak,2331.5
+2014,1,Dunn Loring,AM Peak,2613.7
+2014,2,Dunn Loring,AM Peak,2726.8
+2014,3,Dunn Loring,AM Peak,2734.4
+2014,4,Dunn Loring,AM Peak,3009.4
+2014,5,Dunn Loring,AM Peak,3002.1
+2014,6,Dunn Loring,AM Peak,3109.7
+2014,7,Dunn Loring,AM Peak,2978.1
+2014,8,Dunn Loring,AM Peak,2569.6
+2014,9,Dunn Loring,AM Peak,2713.3
+2014,10,Dunn Loring,AM Peak,2678.4
+2014,11,Dunn Loring,AM Peak,2466.1
+2014,12,Dunn Loring,AM Peak,2169
+2010,9,Dupont Circle,AM Peak,4276.2
+2010,10,Dupont Circle,AM Peak,4220
+2010,11,Dupont Circle,AM Peak,4099.8
+2010,12,Dupont Circle,AM Peak,3559.7
+2011,1,Dupont Circle,AM Peak,4129.5
+2011,2,Dupont Circle,AM Peak,4454
+2011,3,Dupont Circle,AM Peak,4606.3
+2011,4,Dupont Circle,AM Peak,4457.6
+2011,5,Dupont Circle,AM Peak,4297.6
+2011,6,Dupont Circle,AM Peak,4748.3
+2011,7,Dupont Circle,AM Peak,4759.1
+2011,8,Dupont Circle,AM Peak,4006.6
+2011,9,Dupont Circle,AM Peak,4219.1
+2011,10,Dupont Circle,AM Peak,4463.2
+2011,11,Dupont Circle,AM Peak,4229.1
+2011,12,Dupont Circle,AM Peak,3617.2
+2012,1,Dupont Circle,AM Peak,4194.8
+2012,2,Dupont Circle,AM Peak,4012.1
+2012,3,Dupont Circle,AM Peak,3979.2
+2012,4,Dupont Circle,AM Peak,3975
+2012,5,Dupont Circle,AM Peak,3816.4
+2012,6,Dupont Circle,AM Peak,4251.3
+2012,7,Dupont Circle,AM Peak,4181.8
+2012,8,Dupont Circle,AM Peak,3581
+2012,9,Dupont Circle,AM Peak,3830.7
+2012,10,Dupont Circle,AM Peak,3845.1
+2012,11,Dupont Circle,AM Peak,3736.9
+2012,12,Dupont Circle,AM Peak,3235.6
+2013,1,Dupont Circle,AM Peak,3902.2
+2013,2,Dupont Circle,AM Peak,4168.6
+2013,3,Dupont Circle,AM Peak,4056.4
+2013,4,Dupont Circle,AM Peak,4161.8
+2013,5,Dupont Circle,AM Peak,4000.1
+2013,6,Dupont Circle,AM Peak,4309.8
+2013,7,Dupont Circle,AM Peak,4133.1
+2013,8,Dupont Circle,AM Peak,3689.4
+2013,9,Dupont Circle,AM Peak,3959.8
+2013,10,Dupont Circle,AM Peak,3684.7
+2013,11,Dupont Circle,AM Peak,3731.9
+2013,12,Dupont Circle,AM Peak,3028.8
+2014,1,Dupont Circle,AM Peak,3663.8
+2014,2,Dupont Circle,AM Peak,3805.1
+2014,3,Dupont Circle,AM Peak,3762.4
+2014,4,Dupont Circle,AM Peak,3981.8
+2014,5,Dupont Circle,AM Peak,3910.2
+2014,6,Dupont Circle,AM Peak,4279.5
+2014,7,Dupont Circle,AM Peak,4265.8
+2014,8,Dupont Circle,AM Peak,3742.7
+2014,9,Dupont Circle,AM Peak,3918.1
+2014,10,Dupont Circle,AM Peak,4016.2
+2014,11,Dupont Circle,AM Peak,3791.8
+2014,12,Dupont Circle,AM Peak,3187.9
+2010,9,East Falls Church,AM Peak,2517.6
+2010,10,East Falls Church,AM Peak,2512.6
+2010,11,East Falls Church,AM Peak,2152.7
+2010,12,East Falls Church,AM Peak,2124.6
+2011,1,East Falls Church,AM Peak,2383.1
+2011,2,East Falls Church,AM Peak,2490.8
+2011,3,East Falls Church,AM Peak,2561.1
+2011,4,East Falls Church,AM Peak,2498.7
+2011,5,East Falls Church,AM Peak,2574.5
+2011,6,East Falls Church,AM Peak,2695.2
+2011,7,East Falls Church,AM Peak,2615.4
+2011,8,East Falls Church,AM Peak,2470
+2011,9,East Falls Church,AM Peak,2619.5
+2011,10,East Falls Church,AM Peak,2682
+2011,11,East Falls Church,AM Peak,2553.3
+2011,12,East Falls Church,AM Peak,2272.2
+2012,1,East Falls Church,AM Peak,2580.1
+2012,2,East Falls Church,AM Peak,2622.3
+2012,3,East Falls Church,AM Peak,2644.9
+2012,4,East Falls Church,AM Peak,2582
+2012,5,East Falls Church,AM Peak,2623.7
+2012,6,East Falls Church,AM Peak,2707.5
+2012,7,East Falls Church,AM Peak,2571.2
+2012,8,East Falls Church,AM Peak,2381.3
+2012,9,East Falls Church,AM Peak,2635.3
+2012,10,East Falls Church,AM Peak,2668.4
+2012,11,East Falls Church,AM Peak,2518.9
+2012,12,East Falls Church,AM Peak,2153.9
+2013,1,East Falls Church,AM Peak,2536.2
+2013,2,East Falls Church,AM Peak,2640.4
+2013,3,East Falls Church,AM Peak,2431.8
+2013,4,East Falls Church,AM Peak,2656.5
+2013,5,East Falls Church,AM Peak,2581.6
+2013,6,East Falls Church,AM Peak,2703.7
+2013,7,East Falls Church,AM Peak,2529.6
+2013,8,East Falls Church,AM Peak,2429
+2013,9,East Falls Church,AM Peak,2657
+2013,10,East Falls Church,AM Peak,2365.7
+2013,11,East Falls Church,AM Peak,2430.3
+2013,12,East Falls Church,AM Peak,2013.4
+2014,1,East Falls Church,AM Peak,2282.9
+2014,2,East Falls Church,AM Peak,2334.1
+2014,3,East Falls Church,AM Peak,2291.3
+2014,4,East Falls Church,AM Peak,2542.5
+2014,5,East Falls Church,AM Peak,2611.5
+2014,6,East Falls Church,AM Peak,2718.6
+2014,7,East Falls Church,AM Peak,2679.2
+2014,8,East Falls Church,AM Peak,2547.5
+2014,9,East Falls Church,AM Peak,2833.2
+2014,10,East Falls Church,AM Peak,2812.5
+2014,11,East Falls Church,AM Peak,2625.2
+2014,12,East Falls Church,AM Peak,2282.3
+2010,9,Eastern Market,AM Peak,2341.7
+2010,10,Eastern Market,AM Peak,2357.8
+2010,11,Eastern Market,AM Peak,2199.1
+2010,12,Eastern Market,AM Peak,1964.7
+2011,1,Eastern Market,AM Peak,2317.3
+2011,2,Eastern Market,AM Peak,2413.8
+2011,3,Eastern Market,AM Peak,2407.7
+2011,4,Eastern Market,AM Peak,2316.3
+2011,5,Eastern Market,AM Peak,2261.1
+2011,6,Eastern Market,AM Peak,2313
+2011,7,Eastern Market,AM Peak,2237.6
+2011,8,Eastern Market,AM Peak,2079.4
+2011,9,Eastern Market,AM Peak,2284
+2011,10,Eastern Market,AM Peak,2334
+2011,11,Eastern Market,AM Peak,2253.9
+2011,12,Eastern Market,AM Peak,1959.3
+2012,1,Eastern Market,AM Peak,2329
+2012,2,Eastern Market,AM Peak,2336.1
+2012,3,Eastern Market,AM Peak,2264.4
+2012,4,Eastern Market,AM Peak,2203.1
+2012,5,Eastern Market,AM Peak,2211.4
+2012,6,Eastern Market,AM Peak,2207.9
+2012,7,Eastern Market,AM Peak,2121.1
+2012,8,Eastern Market,AM Peak,1985.4
+2012,9,Eastern Market,AM Peak,2202
+2012,10,Eastern Market,AM Peak,2203.7
+2012,11,Eastern Market,AM Peak,2126.8
+2012,12,Eastern Market,AM Peak,1824.6
+2013,1,Eastern Market,AM Peak,2199.1
+2013,2,Eastern Market,AM Peak,2292.8
+2013,3,Eastern Market,AM Peak,2148.9
+2013,4,Eastern Market,AM Peak,2209.3
+2013,5,Eastern Market,AM Peak,2171.4
+2013,6,Eastern Market,AM Peak,2253.6
+2013,7,Eastern Market,AM Peak,2115
+2013,8,Eastern Market,AM Peak,1946.4
+2013,9,Eastern Market,AM Peak,2168.8
+2013,10,Eastern Market,AM Peak,2032.9
+2013,11,Eastern Market,AM Peak,2038.1
+2013,12,Eastern Market,AM Peak,1716.1
+2014,1,Eastern Market,AM Peak,2092.2
+2014,2,Eastern Market,AM Peak,2106.9
+2014,3,Eastern Market,AM Peak,2059.3
+2014,4,Eastern Market,AM Peak,2222.3
+2014,5,Eastern Market,AM Peak,2123
+2014,6,Eastern Market,AM Peak,2163
+2014,7,Eastern Market,AM Peak,2102.5
+2014,8,Eastern Market,AM Peak,1978
+2014,9,Eastern Market,AM Peak,2180.5
+2014,10,Eastern Market,AM Peak,2234.3
+2014,11,Eastern Market,AM Peak,2126.7
+2014,12,Eastern Market,AM Peak,1800.9
+2010,9,Eisenhower Avenue,AM Peak,808.9
+2010,10,Eisenhower Avenue,AM Peak,848.4
+2010,11,Eisenhower Avenue,AM Peak,766.8
+2010,12,Eisenhower Avenue,AM Peak,690.8
+2011,1,Eisenhower Avenue,AM Peak,782
+2011,2,Eisenhower Avenue,AM Peak,833.1
+2011,3,Eisenhower Avenue,AM Peak,906.6
+2011,4,Eisenhower Avenue,AM Peak,885.3
+2011,5,Eisenhower Avenue,AM Peak,898
+2011,6,Eisenhower Avenue,AM Peak,964.8
+2011,7,Eisenhower Avenue,AM Peak,940.1
+2011,8,Eisenhower Avenue,AM Peak,796
+2011,9,Eisenhower Avenue,AM Peak,866.7
+2011,10,Eisenhower Avenue,AM Peak,934.8
+2011,11,Eisenhower Avenue,AM Peak,862.2
+2011,12,Eisenhower Avenue,AM Peak,727.6
+2012,1,Eisenhower Avenue,AM Peak,839.2
+2012,2,Eisenhower Avenue,AM Peak,853.1
+2012,3,Eisenhower Avenue,AM Peak,901.1
+2012,4,Eisenhower Avenue,AM Peak,883.8
+2012,5,Eisenhower Avenue,AM Peak,891.1
+2012,6,Eisenhower Avenue,AM Peak,933.8
+2012,7,Eisenhower Avenue,AM Peak,888.2
+2012,8,Eisenhower Avenue,AM Peak,813.1
+2012,9,Eisenhower Avenue,AM Peak,875.9
+2012,10,Eisenhower Avenue,AM Peak,864.5
+2012,11,Eisenhower Avenue,AM Peak,802.1
+2012,12,Eisenhower Avenue,AM Peak,666.4
+2013,1,Eisenhower Avenue,AM Peak,782.1
+2013,2,Eisenhower Avenue,AM Peak,819.1
+2013,3,Eisenhower Avenue,AM Peak,842.8
+2013,4,Eisenhower Avenue,AM Peak,949.2
+2013,5,Eisenhower Avenue,AM Peak,868.3
+2013,6,Eisenhower Avenue,AM Peak,911.2
+2013,7,Eisenhower Avenue,AM Peak,869.6
+2013,8,Eisenhower Avenue,AM Peak,785.1
+2013,9,Eisenhower Avenue,AM Peak,855.5
+2013,10,Eisenhower Avenue,AM Peak,784.5
+2013,11,Eisenhower Avenue,AM Peak,779
+2013,12,Eisenhower Avenue,AM Peak,654
+2014,1,Eisenhower Avenue,AM Peak,719
+2014,2,Eisenhower Avenue,AM Peak,735.4
+2014,3,Eisenhower Avenue,AM Peak,794.8
+2014,4,Eisenhower Avenue,AM Peak,899.1
+2014,5,Eisenhower Avenue,AM Peak,856
+2014,6,Eisenhower Avenue,AM Peak,900.6
+2014,7,Eisenhower Avenue,AM Peak,894.5
+2014,8,Eisenhower Avenue,AM Peak,773.4
+2014,9,Eisenhower Avenue,AM Peak,819.3
+2014,10,Eisenhower Avenue,AM Peak,815
+2014,11,Eisenhower Avenue,AM Peak,739.3
+2014,12,Eisenhower Avenue,AM Peak,632.4
+2010,9,Farragut North,AM Peak,1077.4
+2010,10,Farragut North,AM Peak,1079.3
+2010,11,Farragut North,AM Peak,1025.6
+2010,12,Farragut North,AM Peak,943.4
+2011,1,Farragut North,AM Peak,1062.6
+2011,2,Farragut North,AM Peak,1125.4
+2011,3,Farragut North,AM Peak,1168
+2011,4,Farragut North,AM Peak,1132.3
+2011,5,Farragut North,AM Peak,1108.9
+2011,6,Farragut North,AM Peak,1222.4
+2011,7,Farragut North,AM Peak,1253.9
+2011,8,Farragut North,AM Peak,1051
+2011,9,Farragut North,AM Peak,1101
+2011,10,Farragut North,AM Peak,1146.8
+2011,11,Farragut North,AM Peak,1104.7
+2011,12,Farragut North,AM Peak,998.2
+2012,1,Farragut North,AM Peak,1159
+2012,2,Farragut North,AM Peak,1374.1
+2012,3,Farragut North,AM Peak,1410.3
+2012,4,Farragut North,AM Peak,1307.6
+2012,5,Farragut North,AM Peak,1332.9
+2012,6,Farragut North,AM Peak,1532
+2012,7,Farragut North,AM Peak,1555.9
+2012,8,Farragut North,AM Peak,1362.7
+2012,9,Farragut North,AM Peak,1343.2
+2012,10,Farragut North,AM Peak,1345
+2012,11,Farragut North,AM Peak,1186.2
+2012,12,Farragut North,AM Peak,1032.9
+2013,1,Farragut North,AM Peak,1189.2
+2013,2,Farragut North,AM Peak,1283.4
+2013,3,Farragut North,AM Peak,1222.5
+2013,4,Farragut North,AM Peak,1301.4
+2013,5,Farragut North,AM Peak,1273.5
+2013,6,Farragut North,AM Peak,1449.5
+2013,7,Farragut North,AM Peak,1374.5
+2013,8,Farragut North,AM Peak,1220.7
+2013,9,Farragut North,AM Peak,1250.4
+2013,10,Farragut North,AM Peak,1141.2
+2013,11,Farragut North,AM Peak,1185.9
+2013,12,Farragut North,AM Peak,955
+2014,1,Farragut North,AM Peak,1126.1
+2014,2,Farragut North,AM Peak,1161.3
+2014,3,Farragut North,AM Peak,1187.5
+2014,4,Farragut North,AM Peak,1267.3
+2014,5,Farragut North,AM Peak,1257.5
+2014,6,Farragut North,AM Peak,1466.5
+2014,7,Farragut North,AM Peak,1418.2
+2014,8,Farragut North,AM Peak,1179.9
+2014,9,Farragut North,AM Peak,1205.1
+2014,10,Farragut North,AM Peak,1234.2
+2014,11,Farragut North,AM Peak,1155.1
+2014,12,Farragut North,AM Peak,1025.3
+2010,9,Farragut West,AM Peak,1266.9
+2010,10,Farragut West,AM Peak,1279.7
+2010,11,Farragut West,AM Peak,1210.5
+2010,12,Farragut West,AM Peak,913.7
+2011,1,Farragut West,AM Peak,1197.4
+2011,2,Farragut West,AM Peak,1296.3
+2011,3,Farragut West,AM Peak,1322.5
+2011,4,Farragut West,AM Peak,1323.5
+2011,5,Farragut West,AM Peak,1325.8
+2011,6,Farragut West,AM Peak,1436.9
+2011,7,Farragut West,AM Peak,1461.3
+2011,8,Farragut West,AM Peak,1273.6
+2011,9,Farragut West,AM Peak,1283.7
+2011,10,Farragut West,AM Peak,1329.4
+2011,11,Farragut West,AM Peak,1282
+2011,12,Farragut West,AM Peak,1143.3
+2012,1,Farragut West,AM Peak,1373.6
+2012,2,Farragut West,AM Peak,1473.5
+2012,3,Farragut West,AM Peak,1471
+2012,4,Farragut West,AM Peak,1439.9
+2012,5,Farragut West,AM Peak,1435
+2012,6,Farragut West,AM Peak,1664.6
+2012,7,Farragut West,AM Peak,1632.9
+2012,8,Farragut West,AM Peak,1410.4
+2012,9,Farragut West,AM Peak,1424.5
+2012,10,Farragut West,AM Peak,1423.7
+2012,11,Farragut West,AM Peak,1345.6
+2012,12,Farragut West,AM Peak,1136.3
+2013,1,Farragut West,AM Peak,1411.7
+2013,2,Farragut West,AM Peak,1480.3
+2013,3,Farragut West,AM Peak,1387
+2013,4,Farragut West,AM Peak,1442
+2013,5,Farragut West,AM Peak,1451.1
+2013,6,Farragut West,AM Peak,1711.3
+2013,7,Farragut West,AM Peak,1631.9
+2013,8,Farragut West,AM Peak,1387.3
+2013,9,Farragut West,AM Peak,1429.6
+2013,10,Farragut West,AM Peak,1292.8
+2013,11,Farragut West,AM Peak,1458.4
+2013,12,Farragut West,AM Peak,1118.2
+2014,1,Farragut West,AM Peak,1337.1
+2014,2,Farragut West,AM Peak,1362.8
+2014,3,Farragut West,AM Peak,1329.1
+2014,4,Farragut West,AM Peak,1471.1
+2014,5,Farragut West,AM Peak,1426.7
+2014,6,Farragut West,AM Peak,1633.2
+2014,7,Farragut West,AM Peak,1631
+2014,8,Farragut West,AM Peak,1391.3
+2014,9,Farragut West,AM Peak,1422.4
+2014,10,Farragut West,AM Peak,1435.7
+2014,11,Farragut West,AM Peak,1297.8
+2014,12,Farragut West,AM Peak,1212.7
+2010,9,Federal Center SW,AM Peak,430.4
+2010,10,Federal Center SW,AM Peak,426.9
+2010,11,Federal Center SW,AM Peak,395.7
+2010,12,Federal Center SW,AM Peak,339.7
+2011,1,Federal Center SW,AM Peak,388.6
+2011,2,Federal Center SW,AM Peak,399.4
+2011,3,Federal Center SW,AM Peak,423.6
+2011,4,Federal Center SW,AM Peak,413.2
+2011,5,Federal Center SW,AM Peak,419.4
+2011,6,Federal Center SW,AM Peak,456.4
+2011,7,Federal Center SW,AM Peak,434.1
+2011,8,Federal Center SW,AM Peak,401
+2011,9,Federal Center SW,AM Peak,427.4
+2011,10,Federal Center SW,AM Peak,440.3
+2011,11,Federal Center SW,AM Peak,422.5
+2011,12,Federal Center SW,AM Peak,383.1
+2012,1,Federal Center SW,AM Peak,429.1
+2012,2,Federal Center SW,AM Peak,429.7
+2012,3,Federal Center SW,AM Peak,453.6
+2012,4,Federal Center SW,AM Peak,451.9
+2012,5,Federal Center SW,AM Peak,454.8
+2012,6,Federal Center SW,AM Peak,472
+2012,7,Federal Center SW,AM Peak,452.6
+2012,8,Federal Center SW,AM Peak,399
+2012,9,Federal Center SW,AM Peak,435.7
+2012,10,Federal Center SW,AM Peak,451.7
+2012,11,Federal Center SW,AM Peak,416.8
+2012,12,Federal Center SW,AM Peak,356.6
+2013,1,Federal Center SW,AM Peak,426.7
+2013,2,Federal Center SW,AM Peak,432.8
+2013,3,Federal Center SW,AM Peak,414.8
+2013,4,Federal Center SW,AM Peak,443.3
+2013,5,Federal Center SW,AM Peak,437.5
+2013,6,Federal Center SW,AM Peak,444.9
+2013,7,Federal Center SW,AM Peak,430.5
+2013,8,Federal Center SW,AM Peak,410.5
+2013,9,Federal Center SW,AM Peak,427.4
+2013,10,Federal Center SW,AM Peak,379.6
+2013,11,Federal Center SW,AM Peak,422.1
+2013,12,Federal Center SW,AM Peak,339
+2014,1,Federal Center SW,AM Peak,383
+2014,2,Federal Center SW,AM Peak,397.4
+2014,3,Federal Center SW,AM Peak,410.1
+2014,4,Federal Center SW,AM Peak,437.2
+2014,5,Federal Center SW,AM Peak,426.7
+2014,6,Federal Center SW,AM Peak,463.7
+2014,7,Federal Center SW,AM Peak,444.1
+2014,8,Federal Center SW,AM Peak,419.1
+2014,9,Federal Center SW,AM Peak,442.6
+2014,10,Federal Center SW,AM Peak,449.8
+2014,11,Federal Center SW,AM Peak,413.1
+2014,12,Federal Center SW,AM Peak,355.8
+2010,9,Federal Triangle,AM Peak,213
+2010,10,Federal Triangle,AM Peak,195.4
+2010,11,Federal Triangle,AM Peak,204.9
+2010,12,Federal Triangle,AM Peak,198.2
+2011,1,Federal Triangle,AM Peak,194.3
+2011,2,Federal Triangle,AM Peak,225.2
+2011,3,Federal Triangle,AM Peak,217.1
+2011,4,Federal Triangle,AM Peak,208
+2011,5,Federal Triangle,AM Peak,221.2
+2011,6,Federal Triangle,AM Peak,223.9
+2011,7,Federal Triangle,AM Peak,224.5
+2011,8,Federal Triangle,AM Peak,209.2
+2011,9,Federal Triangle,AM Peak,216.8
+2011,10,Federal Triangle,AM Peak,222.3
+2011,11,Federal Triangle,AM Peak,198.4
+2011,12,Federal Triangle,AM Peak,181.6
+2012,1,Federal Triangle,AM Peak,191.9
+2012,2,Federal Triangle,AM Peak,203.5
+2012,3,Federal Triangle,AM Peak,205.4
+2012,4,Federal Triangle,AM Peak,216.1
+2012,5,Federal Triangle,AM Peak,219.2
+2012,6,Federal Triangle,AM Peak,217.7
+2012,7,Federal Triangle,AM Peak,227.1
+2012,8,Federal Triangle,AM Peak,201.8
+2012,9,Federal Triangle,AM Peak,191.9
+2012,10,Federal Triangle,AM Peak,194.9
+2012,11,Federal Triangle,AM Peak,174.8
+2012,12,Federal Triangle,AM Peak,160.7
+2013,1,Federal Triangle,AM Peak,179.3
+2013,2,Federal Triangle,AM Peak,194.9
+2013,3,Federal Triangle,AM Peak,180.6
+2013,4,Federal Triangle,AM Peak,194.9
+2013,5,Federal Triangle,AM Peak,192.7
+2013,6,Federal Triangle,AM Peak,211.3
+2013,7,Federal Triangle,AM Peak,209
+2013,8,Federal Triangle,AM Peak,183.1
+2013,9,Federal Triangle,AM Peak,195.9
+2013,10,Federal Triangle,AM Peak,164.9
+2013,11,Federal Triangle,AM Peak,180.5
+2013,12,Federal Triangle,AM Peak,154.8
+2014,1,Federal Triangle,AM Peak,165.5
+2014,2,Federal Triangle,AM Peak,169.5
+2014,3,Federal Triangle,AM Peak,171.4
+2014,4,Federal Triangle,AM Peak,177.4
+2014,5,Federal Triangle,AM Peak,183.3
+2014,6,Federal Triangle,AM Peak,193.3
+2014,7,Federal Triangle,AM Peak,175.8
+2014,8,Federal Triangle,AM Peak,173.1
+2014,9,Federal Triangle,AM Peak,177.6
+2014,10,Federal Triangle,AM Peak,172.4
+2014,11,Federal Triangle,AM Peak,162.2
+2014,12,Federal Triangle,AM Peak,141.6
+2010,9,Foggy Bottom,AM Peak,2219.8
+2010,10,Foggy Bottom,AM Peak,2223.8
+2010,11,Foggy Bottom,AM Peak,2107.6
+2010,12,Foggy Bottom,AM Peak,1808
+2011,1,Foggy Bottom,AM Peak,2014.5
+2011,2,Foggy Bottom,AM Peak,2239.8
+2011,3,Foggy Bottom,AM Peak,2372
+2011,4,Foggy Bottom,AM Peak,2371.9
+2011,5,Foggy Bottom,AM Peak,2427.2
+2011,6,Foggy Bottom,AM Peak,4175.3
+2011,7,Foggy Bottom,AM Peak,4247.1
+2011,8,Foggy Bottom,AM Peak,2515.9
+2011,9,Foggy Bottom,AM Peak,2252.3
+2011,10,Foggy Bottom,AM Peak,2362.8
+2011,11,Foggy Bottom,AM Peak,2264.2
+2011,12,Foggy Bottom,AM Peak,1910.2
+2012,1,Foggy Bottom,AM Peak,2134.7
+2012,2,Foggy Bottom,AM Peak,2370.6
+2012,3,Foggy Bottom,AM Peak,2460
+2012,4,Foggy Bottom,AM Peak,2416.7
+2012,5,Foggy Bottom,AM Peak,2440.6
+2012,6,Foggy Bottom,AM Peak,4182.6
+2012,7,Foggy Bottom,AM Peak,4247.9
+2012,8,Foggy Bottom,AM Peak,2561.8
+2012,9,Foggy Bottom,AM Peak,2296.5
+2012,10,Foggy Bottom,AM Peak,2117.5
+2012,11,Foggy Bottom,AM Peak,2167.2
+2012,12,Foggy Bottom,AM Peak,1793
+2013,1,Foggy Bottom,AM Peak,2083.1
+2013,2,Foggy Bottom,AM Peak,2315.6
+2013,3,Foggy Bottom,AM Peak,2341.9
+2013,4,Foggy Bottom,AM Peak,2310.4
+2013,5,Foggy Bottom,AM Peak,2348
+2013,6,Foggy Bottom,AM Peak,4074.1
+2013,7,Foggy Bottom,AM Peak,3982.9
+2013,8,Foggy Bottom,AM Peak,2376.6
+2013,9,Foggy Bottom,AM Peak,2161
+2013,10,Foggy Bottom,AM Peak,2042.2
+2013,11,Foggy Bottom,AM Peak,2109.4
+2013,12,Foggy Bottom,AM Peak,1579
+2014,1,Foggy Bottom,AM Peak,1906
+2014,2,Foggy Bottom,AM Peak,2072.4
+2014,3,Foggy Bottom,AM Peak,2116.6
+2014,4,Foggy Bottom,AM Peak,2185.9
+2014,5,Foggy Bottom,AM Peak,2206.8
+2014,6,Foggy Bottom,AM Peak,3333.5
+2014,7,Foggy Bottom,AM Peak,3132.2
+2014,8,Foggy Bottom,AM Peak,2115.2
+2014,9,Foggy Bottom,AM Peak,2195.2
+2014,10,Foggy Bottom,AM Peak,2234.8
+2014,11,Foggy Bottom,AM Peak,2110.9
+2014,12,Foggy Bottom,AM Peak,1731.3
+2010,9,Forest Glen,AM Peak,1622.1
+2010,10,Forest Glen,AM Peak,1626.2
+2010,11,Forest Glen,AM Peak,1530.5
+2010,12,Forest Glen,AM Peak,1393.5
+2011,1,Forest Glen,AM Peak,1540.7
+2011,2,Forest Glen,AM Peak,1634.6
+2011,3,Forest Glen,AM Peak,1644.7
+2011,4,Forest Glen,AM Peak,1589.3
+2011,5,Forest Glen,AM Peak,1630.4
+2011,6,Forest Glen,AM Peak,1655.7
+2011,7,Forest Glen,AM Peak,1611.3
+2011,8,Forest Glen,AM Peak,1528
+2011,9,Forest Glen,AM Peak,1652.6
+2011,10,Forest Glen,AM Peak,1673.7
+2011,11,Forest Glen,AM Peak,1632.9
+2011,12,Forest Glen,AM Peak,1451.6
+2012,1,Forest Glen,AM Peak,1658.3
+2012,2,Forest Glen,AM Peak,1679.1
+2012,3,Forest Glen,AM Peak,1647.9
+2012,4,Forest Glen,AM Peak,1626.9
+2012,5,Forest Glen,AM Peak,1651.5
+2012,6,Forest Glen,AM Peak,1687.8
+2012,7,Forest Glen,AM Peak,1614.4
+2012,8,Forest Glen,AM Peak,1588.7
+2012,9,Forest Glen,AM Peak,1689.7
+2012,10,Forest Glen,AM Peak,1681.5
+2012,11,Forest Glen,AM Peak,1609.7
+2012,12,Forest Glen,AM Peak,1388.7
+2013,1,Forest Glen,AM Peak,1629.1
+2013,2,Forest Glen,AM Peak,1711.2
+2013,3,Forest Glen,AM Peak,1593.5
+2013,4,Forest Glen,AM Peak,1724.7
+2013,5,Forest Glen,AM Peak,1691.6
+2013,6,Forest Glen,AM Peak,1699.8
+2013,7,Forest Glen,AM Peak,1622.5
+2013,8,Forest Glen,AM Peak,1539.5
+2013,9,Forest Glen,AM Peak,1682.7
+2013,10,Forest Glen,AM Peak,1529
+2013,11,Forest Glen,AM Peak,1568.7
+2013,12,Forest Glen,AM Peak,1310.3
+2014,1,Forest Glen,AM Peak,1508.8
+2014,2,Forest Glen,AM Peak,1521.5
+2014,3,Forest Glen,AM Peak,1514.4
+2014,4,Forest Glen,AM Peak,1631.1
+2014,5,Forest Glen,AM Peak,1641.3
+2014,6,Forest Glen,AM Peak,1650.2
+2014,7,Forest Glen,AM Peak,1617.9
+2014,8,Forest Glen,AM Peak,1507.2
+2014,9,Forest Glen,AM Peak,1634.9
+2014,10,Forest Glen,AM Peak,1591.3
+2014,11,Forest Glen,AM Peak,1513.3
+2014,12,Forest Glen,AM Peak,1342.3
+2010,9,Fort Totten,AM Peak,3683.7
+2010,10,Fort Totten,AM Peak,3615.2
+2010,11,Fort Totten,AM Peak,3439.1
+2010,12,Fort Totten,AM Peak,3096.7
+2011,1,Fort Totten,AM Peak,3316.4
+2011,2,Fort Totten,AM Peak,3562.1
+2011,3,Fort Totten,AM Peak,3660.7
+2011,4,Fort Totten,AM Peak,3551.7
+2011,5,Fort Totten,AM Peak,3651.5
+2011,6,Fort Totten,AM Peak,3632.5
+2011,7,Fort Totten,AM Peak,3661.4
+2011,8,Fort Totten,AM Peak,3508.6
+2011,9,Fort Totten,AM Peak,3869.7
+2011,10,Fort Totten,AM Peak,3866.3
+2011,11,Fort Totten,AM Peak,3727.5
+2011,12,Fort Totten,AM Peak,3333.2
+2012,1,Fort Totten,AM Peak,3612.3
+2012,2,Fort Totten,AM Peak,3694.9
+2012,3,Fort Totten,AM Peak,3774.8
+2012,4,Fort Totten,AM Peak,3649.3
+2012,5,Fort Totten,AM Peak,3772.9
+2012,6,Fort Totten,AM Peak,3730
+2012,7,Fort Totten,AM Peak,3633
+2012,8,Fort Totten,AM Peak,3532.7
+2012,9,Fort Totten,AM Peak,3946.5
+2012,10,Fort Totten,AM Peak,3541.3
+2012,11,Fort Totten,AM Peak,3646.2
+2012,12,Fort Totten,AM Peak,3269.3
+2013,1,Fort Totten,AM Peak,3619
+2013,2,Fort Totten,AM Peak,3824.4
+2013,3,Fort Totten,AM Peak,3719.3
+2013,4,Fort Totten,AM Peak,3862.8
+2013,5,Fort Totten,AM Peak,3931.5
+2013,6,Fort Totten,AM Peak,3816.2
+2013,7,Fort Totten,AM Peak,3762
+2013,8,Fort Totten,AM Peak,3675.2
+2013,9,Fort Totten,AM Peak,4088.9
+2013,10,Fort Totten,AM Peak,3799.5
+2013,11,Fort Totten,AM Peak,3811.4
+2013,12,Fort Totten,AM Peak,3264.1
+2014,1,Fort Totten,AM Peak,3409.1
+2014,2,Fort Totten,AM Peak,3300.2
+2014,3,Fort Totten,AM Peak,3522.3
+2014,4,Fort Totten,AM Peak,3860.1
+2014,5,Fort Totten,AM Peak,3918
+2014,6,Fort Totten,AM Peak,3947
+2014,7,Fort Totten,AM Peak,3890.8
+2014,8,Fort Totten,AM Peak,3717.4
+2014,9,Fort Totten,AM Peak,4015.9
+2014,10,Fort Totten,AM Peak,3976.9
+2014,11,Fort Totten,AM Peak,3673.9
+2014,12,Fort Totten,AM Peak,3211.2
+2010,9,Franconia-Springfield,AM Peak,6600.9
+2010,10,Franconia-Springfield,AM Peak,6803.7
+2010,11,Franconia-Springfield,AM Peak,6429.6
+2010,12,Franconia-Springfield,AM Peak,5887
+2011,1,Franconia-Springfield,AM Peak,6512.4
+2011,2,Franconia-Springfield,AM Peak,6627.4
+2011,3,Franconia-Springfield,AM Peak,6771
+2011,4,Franconia-Springfield,AM Peak,6611.3
+2011,5,Franconia-Springfield,AM Peak,6655.2
+2011,6,Franconia-Springfield,AM Peak,6851.5
+2011,7,Franconia-Springfield,AM Peak,6599.9
+2011,8,Franconia-Springfield,AM Peak,6172.1
+2011,9,Franconia-Springfield,AM Peak,6418.8
+2011,10,Franconia-Springfield,AM Peak,6587.2
+2011,11,Franconia-Springfield,AM Peak,6199.9
+2011,12,Franconia-Springfield,AM Peak,5591.9
+2012,1,Franconia-Springfield,AM Peak,6105.4
+2012,2,Franconia-Springfield,AM Peak,6102.7
+2012,3,Franconia-Springfield,AM Peak,6054.3
+2012,4,Franconia-Springfield,AM Peak,5934.4
+2012,5,Franconia-Springfield,AM Peak,6050.1
+2012,6,Franconia-Springfield,AM Peak,6099.2
+2012,7,Franconia-Springfield,AM Peak,5801.7
+2012,8,Franconia-Springfield,AM Peak,5493.7
+2012,9,Franconia-Springfield,AM Peak,5771.9
+2012,10,Franconia-Springfield,AM Peak,5350.7
+2012,11,Franconia-Springfield,AM Peak,5451
+2012,12,Franconia-Springfield,AM Peak,4799.2
+2013,1,Franconia-Springfield,AM Peak,5443.2
+2013,2,Franconia-Springfield,AM Peak,5645.5
+2013,3,Franconia-Springfield,AM Peak,5230.1
+2013,4,Franconia-Springfield,AM Peak,5708
+2013,5,Franconia-Springfield,AM Peak,5539.7
+2013,6,Franconia-Springfield,AM Peak,5773.1
+2013,7,Franconia-Springfield,AM Peak,5510.6
+2013,8,Franconia-Springfield,AM Peak,5272.1
+2013,9,Franconia-Springfield,AM Peak,5546.6
+2013,10,Franconia-Springfield,AM Peak,5016
+2013,11,Franconia-Springfield,AM Peak,5193.6
+2013,12,Franconia-Springfield,AM Peak,4420.4
+2014,1,Franconia-Springfield,AM Peak,4766.8
+2014,2,Franconia-Springfield,AM Peak,4921.9
+2014,3,Franconia-Springfield,AM Peak,4846
+2014,4,Franconia-Springfield,AM Peak,5330.9
+2014,5,Franconia-Springfield,AM Peak,5282.5
+2014,6,Franconia-Springfield,AM Peak,5441.7
+2014,7,Franconia-Springfield,AM Peak,5245.3
+2014,8,Franconia-Springfield,AM Peak,4917.7
+2014,9,Franconia-Springfield,AM Peak,5094.7
+2014,10,Franconia-Springfield,AM Peak,5203
+2014,11,Franconia-Springfield,AM Peak,4838.2
+2014,12,Franconia-Springfield,AM Peak,4394.9
+2010,9,Friendship Heights,AM Peak,3336.5
+2010,10,Friendship Heights,AM Peak,3321.2
+2010,11,Friendship Heights,AM Peak,3196.9
+2010,12,Friendship Heights,AM Peak,2854.6
+2011,1,Friendship Heights,AM Peak,3217.8
+2011,2,Friendship Heights,AM Peak,3397.1
+2011,3,Friendship Heights,AM Peak,3451.2
+2011,4,Friendship Heights,AM Peak,3322.6
+2011,5,Friendship Heights,AM Peak,3416.8
+2011,6,Friendship Heights,AM Peak,3586.9
+2011,7,Friendship Heights,AM Peak,3495
+2011,8,Friendship Heights,AM Peak,3073.1
+2011,9,Friendship Heights,AM Peak,3346.1
+2011,10,Friendship Heights,AM Peak,3440.6
+2011,11,Friendship Heights,AM Peak,3343.5
+2011,12,Friendship Heights,AM Peak,2888.8
+2012,1,Friendship Heights,AM Peak,3336.8
+2012,2,Friendship Heights,AM Peak,3426.3
+2012,3,Friendship Heights,AM Peak,3356.6
+2012,4,Friendship Heights,AM Peak,3258.6
+2012,5,Friendship Heights,AM Peak,3335.3
+2012,6,Friendship Heights,AM Peak,3564.2
+2012,7,Friendship Heights,AM Peak,3365.6
+2012,8,Friendship Heights,AM Peak,2962.9
+2012,9,Friendship Heights,AM Peak,3354.3
+2012,10,Friendship Heights,AM Peak,3189.3
+2012,11,Friendship Heights,AM Peak,3156.3
+2012,12,Friendship Heights,AM Peak,2685.1
+2013,1,Friendship Heights,AM Peak,3183.1
+2013,2,Friendship Heights,AM Peak,3409.8
+2013,3,Friendship Heights,AM Peak,3176.1
+2013,4,Friendship Heights,AM Peak,3353.2
+2013,5,Friendship Heights,AM Peak,3282
+2013,6,Friendship Heights,AM Peak,3442.5
+2013,7,Friendship Heights,AM Peak,3246.6
+2013,8,Friendship Heights,AM Peak,2877.9
+2013,9,Friendship Heights,AM Peak,3298.2
+2013,10,Friendship Heights,AM Peak,3028.7
+2013,11,Friendship Heights,AM Peak,3065.8
+2013,12,Friendship Heights,AM Peak,2531.8
+2014,1,Friendship Heights,AM Peak,2938.3
+2014,2,Friendship Heights,AM Peak,3020.8
+2014,3,Friendship Heights,AM Peak,3000
+2014,4,Friendship Heights,AM Peak,3197.9
+2014,5,Friendship Heights,AM Peak,3222.9
+2014,6,Friendship Heights,AM Peak,3400
+2014,7,Friendship Heights,AM Peak,3317.1
+2014,8,Friendship Heights,AM Peak,2828.8
+2014,9,Friendship Heights,AM Peak,3203.9
+2014,10,Friendship Heights,AM Peak,3186.6
+2014,11,Friendship Heights,AM Peak,3050.1
+2014,12,Friendship Heights,AM Peak,2638.2
+2010,9,Gallery Place-Chinatown,AM Peak,1673
+2010,10,Gallery Place-Chinatown,AM Peak,1666.8
+2010,11,Gallery Place-Chinatown,AM Peak,1589.7
+2010,12,Gallery Place-Chinatown,AM Peak,1453.2
+2011,1,Gallery Place-Chinatown,AM Peak,1650
+2011,2,Gallery Place-Chinatown,AM Peak,1735.3
+2011,3,Gallery Place-Chinatown,AM Peak,1776
+2011,4,Gallery Place-Chinatown,AM Peak,1766.1
+2011,5,Gallery Place-Chinatown,AM Peak,1738.5
+2011,6,Gallery Place-Chinatown,AM Peak,1801.5
+2011,7,Gallery Place-Chinatown,AM Peak,1758.7
+2011,8,Gallery Place-Chinatown,AM Peak,1643.2
+2011,9,Gallery Place-Chinatown,AM Peak,1744.1
+2011,10,Gallery Place-Chinatown,AM Peak,1799.6
+2011,11,Gallery Place-Chinatown,AM Peak,1765.6
+2011,12,Gallery Place-Chinatown,AM Peak,1555.9
+2012,1,Gallery Place-Chinatown,AM Peak,1779.9
+2012,2,Gallery Place-Chinatown,AM Peak,1785
+2012,3,Gallery Place-Chinatown,AM Peak,1783
+2012,4,Gallery Place-Chinatown,AM Peak,1758
+2012,5,Gallery Place-Chinatown,AM Peak,1740.2
+2012,6,Gallery Place-Chinatown,AM Peak,1810
+2012,7,Gallery Place-Chinatown,AM Peak,1735.3
+2012,8,Gallery Place-Chinatown,AM Peak,1645.3
+2012,9,Gallery Place-Chinatown,AM Peak,1767.9
+2012,10,Gallery Place-Chinatown,AM Peak,1732.8
+2012,11,Gallery Place-Chinatown,AM Peak,1662.9
+2012,12,Gallery Place-Chinatown,AM Peak,1469.3
+2013,1,Gallery Place-Chinatown,AM Peak,1729.1
+2013,2,Gallery Place-Chinatown,AM Peak,1799.1
+2013,3,Gallery Place-Chinatown,AM Peak,1754.3
+2013,4,Gallery Place-Chinatown,AM Peak,1792.3
+2013,5,Gallery Place-Chinatown,AM Peak,1748.4
+2013,6,Gallery Place-Chinatown,AM Peak,1827
+2013,7,Gallery Place-Chinatown,AM Peak,1766.7
+2013,8,Gallery Place-Chinatown,AM Peak,1669.8
+2013,9,Gallery Place-Chinatown,AM Peak,1787.4
+2013,10,Gallery Place-Chinatown,AM Peak,1684.8
+2013,11,Gallery Place-Chinatown,AM Peak,1720.9
+2013,12,Gallery Place-Chinatown,AM Peak,1448.6
+2014,1,Gallery Place-Chinatown,AM Peak,1704.6
+2014,2,Gallery Place-Chinatown,AM Peak,1746.5
+2014,3,Gallery Place-Chinatown,AM Peak,1766.9
+2014,4,Gallery Place-Chinatown,AM Peak,1795.3
+2014,5,Gallery Place-Chinatown,AM Peak,1790.3
+2014,6,Gallery Place-Chinatown,AM Peak,1901.8
+2014,7,Gallery Place-Chinatown,AM Peak,1825.6
+2014,8,Gallery Place-Chinatown,AM Peak,1710.3
+2014,9,Gallery Place-Chinatown,AM Peak,1803.2
+2014,10,Gallery Place-Chinatown,AM Peak,1819.5
+2014,11,Gallery Place-Chinatown,AM Peak,1734.8
+2014,12,Gallery Place-Chinatown,AM Peak,1561
+2010,9,Georgia Avenue-Petworth,AM Peak,2171.9
+2010,10,Georgia Avenue-Petworth,AM Peak,2191.2
+2010,11,Georgia Avenue-Petworth,AM Peak,2190.6
+2010,12,Georgia Avenue-Petworth,AM Peak,1969.4
+2011,1,Georgia Avenue-Petworth,AM Peak,2196.1
+2011,2,Georgia Avenue-Petworth,AM Peak,2411.2
+2011,3,Georgia Avenue-Petworth,AM Peak,2452.6
+2011,4,Georgia Avenue-Petworth,AM Peak,2350.2
+2011,5,Georgia Avenue-Petworth,AM Peak,2385
+2011,6,Georgia Avenue-Petworth,AM Peak,2389.8
+2011,7,Georgia Avenue-Petworth,AM Peak,2324.5
+2011,8,Georgia Avenue-Petworth,AM Peak,2177.7
+2011,9,Georgia Avenue-Petworth,AM Peak,2497.1
+2011,10,Georgia Avenue-Petworth,AM Peak,2527
+2011,11,Georgia Avenue-Petworth,AM Peak,2489
+2011,12,Georgia Avenue-Petworth,AM Peak,2243.1
+2012,1,Georgia Avenue-Petworth,AM Peak,2520.5
+2012,2,Georgia Avenue-Petworth,AM Peak,2609.6
+2012,3,Georgia Avenue-Petworth,AM Peak,2579
+2012,4,Georgia Avenue-Petworth,AM Peak,2453.9
+2012,5,Georgia Avenue-Petworth,AM Peak,2583
+2012,6,Georgia Avenue-Petworth,AM Peak,2491
+2012,7,Georgia Avenue-Petworth,AM Peak,2364.3
+2012,8,Georgia Avenue-Petworth,AM Peak,2204
+2012,9,Georgia Avenue-Petworth,AM Peak,2590.2
+2012,10,Georgia Avenue-Petworth,AM Peak,2606.2
+2012,11,Georgia Avenue-Petworth,AM Peak,2540.2
+2012,12,Georgia Avenue-Petworth,AM Peak,2238.7
+2013,1,Georgia Avenue-Petworth,AM Peak,2587.3
+2013,2,Georgia Avenue-Petworth,AM Peak,2748.9
+2013,3,Georgia Avenue-Petworth,AM Peak,2635.8
+2013,4,Georgia Avenue-Petworth,AM Peak,2642.3
+2013,5,Georgia Avenue-Petworth,AM Peak,2657.2
+2013,6,Georgia Avenue-Petworth,AM Peak,2652.9
+2013,7,Georgia Avenue-Petworth,AM Peak,2545.2
+2013,8,Georgia Avenue-Petworth,AM Peak,2410.3
+2013,9,Georgia Avenue-Petworth,AM Peak,2689.4
+2013,10,Georgia Avenue-Petworth,AM Peak,2564.4
+2013,11,Georgia Avenue-Petworth,AM Peak,2659.1
+2013,12,Georgia Avenue-Petworth,AM Peak,2245.5
+2014,1,Georgia Avenue-Petworth,AM Peak,2565.6
+2014,2,Georgia Avenue-Petworth,AM Peak,2725.2
+2014,3,Georgia Avenue-Petworth,AM Peak,2679.4
+2014,4,Georgia Avenue-Petworth,AM Peak,2750.5
+2014,5,Georgia Avenue-Petworth,AM Peak,2790.9
+2014,6,Georgia Avenue-Petworth,AM Peak,2731.4
+2014,7,Georgia Avenue-Petworth,AM Peak,2681.8
+2014,8,Georgia Avenue-Petworth,AM Peak,2490
+2014,9,Georgia Avenue-Petworth,AM Peak,2801.8
+2014,10,Georgia Avenue-Petworth,AM Peak,2812.4
+2014,11,Georgia Avenue-Petworth,AM Peak,2720.2
+2014,12,Georgia Avenue-Petworth,AM Peak,2431.6
+2010,9,Glenmont,AM Peak,4142.1
+2010,10,Glenmont,AM Peak,4143.7
+2010,11,Glenmont,AM Peak,3974.8
+2010,12,Glenmont,AM Peak,3644.7
+2011,1,Glenmont,AM Peak,3845.7
+2011,2,Glenmont,AM Peak,4099.1
+2011,3,Glenmont,AM Peak,4156.2
+2011,4,Glenmont,AM Peak,4068.2
+2011,5,Glenmont,AM Peak,4128.9
+2011,6,Glenmont,AM Peak,4233.8
+2011,7,Glenmont,AM Peak,4123.6
+2011,8,Glenmont,AM Peak,3987
+2011,9,Glenmont,AM Peak,4177.2
+2011,10,Glenmont,AM Peak,4188.2
+2011,11,Glenmont,AM Peak,4017.1
+2011,12,Glenmont,AM Peak,3673.3
+2012,1,Glenmont,AM Peak,4056.6
+2012,2,Glenmont,AM Peak,4159.4
+2012,3,Glenmont,AM Peak,4157
+2012,4,Glenmont,AM Peak,4183.7
+2012,5,Glenmont,AM Peak,4336.7
+2012,6,Glenmont,AM Peak,4416.5
+2012,7,Glenmont,AM Peak,4288
+2012,8,Glenmont,AM Peak,4115
+2012,9,Glenmont,AM Peak,4391.2
+2012,10,Glenmont,AM Peak,4019.3
+2012,11,Glenmont,AM Peak,4200.3
+2012,12,Glenmont,AM Peak,3687.4
+2013,1,Glenmont,AM Peak,4154.5
+2013,2,Glenmont,AM Peak,4389.2
+2013,3,Glenmont,AM Peak,4144.3
+2013,4,Glenmont,AM Peak,4452.8
+2013,5,Glenmont,AM Peak,4379.4
+2013,6,Glenmont,AM Peak,4436
+2013,7,Glenmont,AM Peak,4226.6
+2013,8,Glenmont,AM Peak,4047
+2013,9,Glenmont,AM Peak,4436.4
+2013,10,Glenmont,AM Peak,4032.5
+2013,11,Glenmont,AM Peak,4255.3
+2013,12,Glenmont,AM Peak,3632.1
+2014,1,Glenmont,AM Peak,3926
+2014,2,Glenmont,AM Peak,4043.6
+2014,3,Glenmont,AM Peak,4060.3
+2014,4,Glenmont,AM Peak,4360.3
+2014,5,Glenmont,AM Peak,4377.3
+2014,6,Glenmont,AM Peak,4485.9
+2014,7,Glenmont,AM Peak,4413.5
+2014,8,Glenmont,AM Peak,4127.1
+2014,9,Glenmont,AM Peak,4444.1
+2014,10,Glenmont,AM Peak,4434.9
+2014,11,Glenmont,AM Peak,4162.7
+2014,12,Glenmont,AM Peak,3753
+2010,9,Greenbelt,AM Peak,4397
+2010,10,Greenbelt,AM Peak,4404.6
+2010,11,Greenbelt,AM Peak,4138
+2010,12,Greenbelt,AM Peak,3758.8
+2011,1,Greenbelt,AM Peak,3932.9
+2011,2,Greenbelt,AM Peak,4124.5
+2011,3,Greenbelt,AM Peak,4298.5
+2011,4,Greenbelt,AM Peak,4207
+2011,5,Greenbelt,AM Peak,4261.7
+2011,6,Greenbelt,AM Peak,4464.6
+2011,7,Greenbelt,AM Peak,4235.9
+2011,8,Greenbelt,AM Peak,4141.7
+2011,9,Greenbelt,AM Peak,4311
+2011,10,Greenbelt,AM Peak,4298.1
+2011,11,Greenbelt,AM Peak,4199.9
+2011,12,Greenbelt,AM Peak,3782.3
+2012,1,Greenbelt,AM Peak,4031.1
+2012,2,Greenbelt,AM Peak,4093.1
+2012,3,Greenbelt,AM Peak,4128.6
+2012,4,Greenbelt,AM Peak,4105.4
+2012,5,Greenbelt,AM Peak,4121
+2012,6,Greenbelt,AM Peak,4268.9
+2012,7,Greenbelt,AM Peak,4164.6
+2012,8,Greenbelt,AM Peak,3951.6
+2012,9,Greenbelt,AM Peak,4186.4
+2012,10,Greenbelt,AM Peak,3855.8
+2012,11,Greenbelt,AM Peak,4018.1
+2012,12,Greenbelt,AM Peak,3510.9
+2013,1,Greenbelt,AM Peak,3876
+2013,2,Greenbelt,AM Peak,4110.1
+2013,3,Greenbelt,AM Peak,3868.1
+2013,4,Greenbelt,AM Peak,4101
+2013,5,Greenbelt,AM Peak,4077.6
+2013,6,Greenbelt,AM Peak,4160.2
+2013,7,Greenbelt,AM Peak,4054.8
+2013,8,Greenbelt,AM Peak,3891.5
+2013,9,Greenbelt,AM Peak,4170.7
+2013,10,Greenbelt,AM Peak,3588.9
+2013,11,Greenbelt,AM Peak,3865.8
+2013,12,Greenbelt,AM Peak,3367.1
+2014,1,Greenbelt,AM Peak,3467.9
+2014,2,Greenbelt,AM Peak,3467.6
+2014,3,Greenbelt,AM Peak,3614
+2014,4,Greenbelt,AM Peak,4025.3
+2014,5,Greenbelt,AM Peak,3971.4
+2014,6,Greenbelt,AM Peak,4141.1
+2014,7,Greenbelt,AM Peak,4010.4
+2014,8,Greenbelt,AM Peak,3856.5
+2014,9,Greenbelt,AM Peak,4038.7
+2014,10,Greenbelt,AM Peak,4007.8
+2014,11,Greenbelt,AM Peak,3745.8
+2014,12,Greenbelt,AM Peak,3431.2
+2014,6,Greensboro,AM Peak,0
+2014,7,Greensboro,AM Peak,68.8
+2014,8,Greensboro,AM Peak,203.2
+2014,9,Greensboro,AM Peak,237.6
+2014,10,Greensboro,AM Peak,250.8
+2014,11,Greensboro,AM Peak,246.8
+2014,12,Greensboro,AM Peak,222.4
+2010,9,Grosvenor,AM Peak,3795
+2010,10,Grosvenor,AM Peak,3795
+2010,11,Grosvenor,AM Peak,3609.9
+2010,12,Grosvenor,AM Peak,3260.6
+2011,1,Grosvenor,AM Peak,3622.3
+2011,2,Grosvenor,AM Peak,3855.7
+2011,3,Grosvenor,AM Peak,3904.8
+2011,4,Grosvenor,AM Peak,3771.2
+2011,5,Grosvenor,AM Peak,3883.8
+2011,6,Grosvenor,AM Peak,3986.4
+2011,7,Grosvenor,AM Peak,3882.3
+2011,8,Grosvenor,AM Peak,3596.7
+2011,9,Grosvenor,AM Peak,3893.7
+2011,10,Grosvenor,AM Peak,3959.3
+2011,11,Grosvenor,AM Peak,3840.4
+2011,12,Grosvenor,AM Peak,3377.9
+2012,1,Grosvenor,AM Peak,3857.5
+2012,2,Grosvenor,AM Peak,3925
+2012,3,Grosvenor,AM Peak,3928.3
+2012,4,Grosvenor,AM Peak,3780
+2012,5,Grosvenor,AM Peak,3818
+2012,6,Grosvenor,AM Peak,3914.7
+2012,7,Grosvenor,AM Peak,3697.4
+2012,8,Grosvenor,AM Peak,3504
+2012,9,Grosvenor,AM Peak,3842.4
+2012,10,Grosvenor,AM Peak,3867.7
+2012,11,Grosvenor,AM Peak,3680.7
+2012,12,Grosvenor,AM Peak,3072.6
+2013,1,Grosvenor,AM Peak,3712.6
+2013,2,Grosvenor,AM Peak,3887.7
+2013,3,Grosvenor,AM Peak,3617.1
+2013,4,Grosvenor,AM Peak,3894.7
+2013,5,Grosvenor,AM Peak,3827.8
+2013,6,Grosvenor,AM Peak,3919.9
+2013,7,Grosvenor,AM Peak,3742.1
+2013,8,Grosvenor,AM Peak,3524.2
+2013,9,Grosvenor,AM Peak,3876.8
+2013,10,Grosvenor,AM Peak,3539.9
+2013,11,Grosvenor,AM Peak,3692.3
+2013,12,Grosvenor,AM Peak,3088.4
+2014,1,Grosvenor,AM Peak,3463.2
+2014,2,Grosvenor,AM Peak,3550
+2014,3,Grosvenor,AM Peak,3482.7
+2014,4,Grosvenor,AM Peak,3786.7
+2014,5,Grosvenor,AM Peak,3794.5
+2014,6,Grosvenor,AM Peak,3905.3
+2014,7,Grosvenor,AM Peak,3769.5
+2014,8,Grosvenor,AM Peak,3423.5
+2014,9,Grosvenor,AM Peak,3834.4
+2014,10,Grosvenor,AM Peak,3835.1
+2014,11,Grosvenor,AM Peak,3616.2
+2014,12,Grosvenor,AM Peak,3156
+2010,9,Huntington,AM Peak,6341.6
+2010,10,Huntington,AM Peak,6497.2
+2010,11,Huntington,AM Peak,6125.8
+2010,12,Huntington,AM Peak,5606.9
+2011,1,Huntington,AM Peak,6160.8
+2011,2,Huntington,AM Peak,6398.5
+2011,3,Huntington,AM Peak,6669.3
+2011,4,Huntington,AM Peak,6541.3
+2011,5,Huntington,AM Peak,6585.3
+2011,6,Huntington,AM Peak,6652.9
+2011,7,Huntington,AM Peak,6430.6
+2011,8,Huntington,AM Peak,6173.5
+2011,9,Huntington,AM Peak,6440
+2011,10,Huntington,AM Peak,6597.6
+2011,11,Huntington,AM Peak,6282.3
+2011,12,Huntington,AM Peak,5669
+2012,1,Huntington,AM Peak,6106
+2012,2,Huntington,AM Peak,6453.3
+2012,3,Huntington,AM Peak,6468.8
+2012,4,Huntington,AM Peak,6363.8
+2012,5,Huntington,AM Peak,6393.4
+2012,6,Huntington,AM Peak,6425.7
+2012,7,Huntington,AM Peak,6180.4
+2012,8,Huntington,AM Peak,5934.8
+2012,9,Huntington,AM Peak,6286.2
+2012,10,Huntington,AM Peak,5992.4
+2012,11,Huntington,AM Peak,5896.8
+2012,12,Huntington,AM Peak,5213.1
+2013,1,Huntington,AM Peak,5966.2
+2013,2,Huntington,AM Peak,6253.6
+2013,3,Huntington,AM Peak,5846.7
+2013,4,Huntington,AM Peak,6256.5
+2013,5,Huntington,AM Peak,6095.8
+2013,6,Huntington,AM Peak,6167.9
+2013,7,Huntington,AM Peak,5902.6
+2013,8,Huntington,AM Peak,5684.3
+2013,9,Huntington,AM Peak,6056.5
+2013,10,Huntington,AM Peak,5490.6
+2013,11,Huntington,AM Peak,5691.7
+2013,12,Huntington,AM Peak,4792
+2014,1,Huntington,AM Peak,5244.6
+2014,2,Huntington,AM Peak,5435.7
+2014,3,Huntington,AM Peak,5367.4
+2014,4,Huntington,AM Peak,5908.8
+2014,5,Huntington,AM Peak,5790.8
+2014,6,Huntington,AM Peak,5965.6
+2014,7,Huntington,AM Peak,5808.1
+2014,8,Huntington,AM Peak,5521.4
+2014,9,Huntington,AM Peak,5857.1
+2014,10,Huntington,AM Peak,5881
+2014,11,Huntington,AM Peak,5411.8
+2014,12,Huntington,AM Peak,4850.4
+2010,9,Judiciary Square,AM Peak,479.5
+2010,10,Judiciary Square,AM Peak,508.3
+2010,11,Judiciary Square,AM Peak,482.7
+2010,12,Judiciary Square,AM Peak,439
+2011,1,Judiciary Square,AM Peak,481.2
+2011,2,Judiciary Square,AM Peak,495.5
+2011,3,Judiciary Square,AM Peak,533.9
+2011,4,Judiciary Square,AM Peak,500.2
+2011,5,Judiciary Square,AM Peak,495
+2011,6,Judiciary Square,AM Peak,531.7
+2011,7,Judiciary Square,AM Peak,535.5
+2011,8,Judiciary Square,AM Peak,478
+2011,9,Judiciary Square,AM Peak,517.5
+2011,10,Judiciary Square,AM Peak,537.1
+2011,11,Judiciary Square,AM Peak,508.3
+2011,12,Judiciary Square,AM Peak,449.5
+2012,1,Judiciary Square,AM Peak,518
+2012,2,Judiciary Square,AM Peak,533.7
+2012,3,Judiciary Square,AM Peak,530.2
+2012,4,Judiciary Square,AM Peak,492.7
+2012,5,Judiciary Square,AM Peak,496.5
+2012,6,Judiciary Square,AM Peak,531.8
+2012,7,Judiciary Square,AM Peak,505.6
+2012,8,Judiciary Square,AM Peak,476.2
+2012,9,Judiciary Square,AM Peak,521.5
+2012,10,Judiciary Square,AM Peak,518.3
+2012,11,Judiciary Square,AM Peak,495.5
+2012,12,Judiciary Square,AM Peak,409.5
+2013,1,Judiciary Square,AM Peak,471.3
+2013,2,Judiciary Square,AM Peak,493.9
+2013,3,Judiciary Square,AM Peak,480.3
+2013,4,Judiciary Square,AM Peak,480.2
+2013,5,Judiciary Square,AM Peak,494.8
+2013,6,Judiciary Square,AM Peak,523.4
+2013,7,Judiciary Square,AM Peak,516.8
+2013,8,Judiciary Square,AM Peak,457.9
+2013,9,Judiciary Square,AM Peak,489.2
+2013,10,Judiciary Square,AM Peak,460.4
+2013,11,Judiciary Square,AM Peak,472.7
+2013,12,Judiciary Square,AM Peak,399.2
+2014,1,Judiciary Square,AM Peak,450.8
+2014,2,Judiciary Square,AM Peak,475.2
+2014,3,Judiciary Square,AM Peak,478
+2014,4,Judiciary Square,AM Peak,502
+2014,5,Judiciary Square,AM Peak,505.3
+2014,6,Judiciary Square,AM Peak,577
+2014,7,Judiciary Square,AM Peak,588.6
+2014,8,Judiciary Square,AM Peak,503.8
+2014,9,Judiciary Square,AM Peak,529.9
+2014,10,Judiciary Square,AM Peak,550.5
+2014,11,Judiciary Square,AM Peak,515.4
+2014,12,Judiciary Square,AM Peak,448
+2010,9,King Street,AM Peak,3036.8
+2010,10,King Street,AM Peak,3062.8
+2010,11,King Street,AM Peak,2800.5
+2010,12,King Street,AM Peak,2543.3
+2011,1,King Street,AM Peak,2838.8
+2011,2,King Street,AM Peak,2941.1
+2011,3,King Street,AM Peak,3153.9
+2011,4,King Street,AM Peak,3106
+2011,5,King Street,AM Peak,3143.3
+2011,6,King Street,AM Peak,3309.7
+2011,7,King Street,AM Peak,3173
+2011,8,King Street,AM Peak,2883.4
+2011,9,King Street,AM Peak,2968.7
+2011,10,King Street,AM Peak,3084.7
+2011,11,King Street,AM Peak,2936.2
+2011,12,King Street,AM Peak,2567.8
+2012,1,King Street,AM Peak,2920.2
+2012,2,King Street,AM Peak,2914.1
+2012,3,King Street,AM Peak,3145.8
+2012,4,King Street,AM Peak,3108.5
+2012,5,King Street,AM Peak,3050.4
+2012,6,King Street,AM Peak,2992.7
+2012,7,King Street,AM Peak,2959.1
+2012,8,King Street,AM Peak,2776.8
+2012,9,King Street,AM Peak,2989.6
+2012,10,King Street,AM Peak,2699.7
+2012,11,King Street,AM Peak,2744.2
+2012,12,King Street,AM Peak,2364.1
+2013,1,King Street,AM Peak,2753.4
+2013,2,King Street,AM Peak,2877.1
+2013,3,King Street,AM Peak,2956.1
+2013,4,King Street,AM Peak,3113.7
+2013,5,King Street,AM Peak,3003.4
+2013,6,King Street,AM Peak,3196.9
+2013,7,King Street,AM Peak,3069.7
+2013,8,King Street,AM Peak,2841.3
+2013,9,King Street,AM Peak,3077.3
+2013,10,King Street,AM Peak,2779.2
+2013,11,King Street,AM Peak,2811.6
+2013,12,King Street,AM Peak,2315.2
+2014,1,King Street,AM Peak,2570.1
+2014,2,King Street,AM Peak,2663.9
+2014,3,King Street,AM Peak,2825.3
+2014,4,King Street,AM Peak,3109.5
+2014,5,King Street,AM Peak,3068
+2014,6,King Street,AM Peak,3160.5
+2014,7,King Street,AM Peak,3162.1
+2014,8,King Street,AM Peak,2899.6
+2014,9,King Street,AM Peak,3033.2
+2014,10,King Street,AM Peak,3027.1
+2014,11,King Street,AM Peak,2755.4
+2014,12,King Street,AM Peak,2367.5
+2010,9,L'Enfant Plaza,AM Peak,2883
+2010,10,L'Enfant Plaza,AM Peak,2910.3
+2010,11,L'Enfant Plaza,AM Peak,2782.1
+2010,12,L'Enfant Plaza,AM Peak,2545
+2011,1,L'Enfant Plaza,AM Peak,2861
+2011,2,L'Enfant Plaza,AM Peak,3029.6
+2011,3,L'Enfant Plaza,AM Peak,3109.7
+2011,4,L'Enfant Plaza,AM Peak,3019.9
+2011,5,L'Enfant Plaza,AM Peak,3026
+2011,6,L'Enfant Plaza,AM Peak,3114.2
+2011,7,L'Enfant Plaza,AM Peak,2969.5
+2011,8,L'Enfant Plaza,AM Peak,2885.2
+2011,9,L'Enfant Plaza,AM Peak,2960.9
+2011,10,L'Enfant Plaza,AM Peak,3117.8
+2011,11,L'Enfant Plaza,AM Peak,3011
+2011,12,L'Enfant Plaza,AM Peak,2678.3
+2012,1,L'Enfant Plaza,AM Peak,3071.1
+2012,2,L'Enfant Plaza,AM Peak,3099
+2012,3,L'Enfant Plaza,AM Peak,3070
+2012,4,L'Enfant Plaza,AM Peak,2977.5
+2012,5,L'Enfant Plaza,AM Peak,3022.8
+2012,6,L'Enfant Plaza,AM Peak,2959.3
+2012,7,L'Enfant Plaza,AM Peak,2905.9
+2012,8,L'Enfant Plaza,AM Peak,2753.1
+2012,9,L'Enfant Plaza,AM Peak,2890.9
+2012,10,L'Enfant Plaza,AM Peak,2829.1
+2012,11,L'Enfant Plaza,AM Peak,2779.5
+2012,12,L'Enfant Plaza,AM Peak,2467.4
+2013,1,L'Enfant Plaza,AM Peak,2884.7
+2013,2,L'Enfant Plaza,AM Peak,3038.4
+2013,3,L'Enfant Plaza,AM Peak,2843.4
+2013,4,L'Enfant Plaza,AM Peak,2936.6
+2013,5,L'Enfant Plaza,AM Peak,2858.6
+2013,6,L'Enfant Plaza,AM Peak,2950
+2013,7,L'Enfant Plaza,AM Peak,2861.2
+2013,8,L'Enfant Plaza,AM Peak,2736.3
+2013,9,L'Enfant Plaza,AM Peak,2805
+2013,10,L'Enfant Plaza,AM Peak,2495.1
+2013,11,L'Enfant Plaza,AM Peak,2733.3
+2013,12,L'Enfant Plaza,AM Peak,2299
+2014,1,L'Enfant Plaza,AM Peak,2582.3
+2014,2,L'Enfant Plaza,AM Peak,2612.5
+2014,3,L'Enfant Plaza,AM Peak,2591.4
+2014,4,L'Enfant Plaza,AM Peak,2778.1
+2014,5,L'Enfant Plaza,AM Peak,2666
+2014,6,L'Enfant Plaza,AM Peak,2408.1
+2014,7,L'Enfant Plaza,AM Peak,2558.5
+2014,8,L'Enfant Plaza,AM Peak,2475.6
+2014,9,L'Enfant Plaza,AM Peak,2787.1
+2014,10,L'Enfant Plaza,AM Peak,2779
+2014,11,L'Enfant Plaza,AM Peak,2598.8
+2014,12,L'Enfant Plaza,AM Peak,2422.5
+2010,9,Landover,AM Peak,1720.5
+2010,10,Landover,AM Peak,1690.8
+2010,11,Landover,AM Peak,1596.6
+2010,12,Landover,AM Peak,1456.2
+2011,1,Landover,AM Peak,1517.6
+2011,2,Landover,AM Peak,1636.3
+2011,3,Landover,AM Peak,1687.6
+2011,4,Landover,AM Peak,1646.3
+2011,5,Landover,AM Peak,1676.2
+2011,6,Landover,AM Peak,1664.6
+2011,7,Landover,AM Peak,1610.8
+2011,8,Landover,AM Peak,1596.2
+2011,9,Landover,AM Peak,1704.1
+2011,10,Landover,AM Peak,1703.8
+2011,11,Landover,AM Peak,1651.8
+2011,12,Landover,AM Peak,1478
+2012,1,Landover,AM Peak,1584.3
+2012,2,Landover,AM Peak,1583.3
+2012,3,Landover,AM Peak,1541.3
+2012,4,Landover,AM Peak,1527.8
+2012,5,Landover,AM Peak,1556.3
+2012,6,Landover,AM Peak,1522.9
+2012,7,Landover,AM Peak,1433.1
+2012,8,Landover,AM Peak,1454.2
+2012,9,Landover,AM Peak,1511.4
+2012,10,Landover,AM Peak,1493.4
+2012,11,Landover,AM Peak,1405.1
+2012,12,Landover,AM Peak,1248.5
+2013,1,Landover,AM Peak,1340.6
+2013,2,Landover,AM Peak,1449.7
+2013,3,Landover,AM Peak,1375.8
+2013,4,Landover,AM Peak,1458.9
+2013,5,Landover,AM Peak,1451.6
+2013,6,Landover,AM Peak,1414.3
+2013,7,Landover,AM Peak,1382.3
+2013,8,Landover,AM Peak,1364.2
+2013,9,Landover,AM Peak,1466.7
+2013,10,Landover,AM Peak,1261.8
+2013,11,Landover,AM Peak,1353.4
+2013,12,Landover,AM Peak,1198
+2014,1,Landover,AM Peak,1213.5
+2014,2,Landover,AM Peak,1279
+2014,3,Landover,AM Peak,1258.6
+2014,4,Landover,AM Peak,1387.7
+2014,5,Landover,AM Peak,1385.7
+2014,6,Landover,AM Peak,1375.6
+2014,7,Landover,AM Peak,1345.2
+2014,8,Landover,AM Peak,1276.5
+2014,9,Landover,AM Peak,1386.3
+2014,10,Landover,AM Peak,1359.6
+2014,11,Landover,AM Peak,1269.6
+2014,12,Landover,AM Peak,1149
+2010,9,Largo Town Center,AM Peak,3487.3
+2010,10,Largo Town Center,AM Peak,3432.9
+2010,11,Largo Town Center,AM Peak,3257.6
+2010,12,Largo Town Center,AM Peak,3020.4
+2011,1,Largo Town Center,AM Peak,3202.9
+2011,2,Largo Town Center,AM Peak,3343.8
+2011,3,Largo Town Center,AM Peak,3391.2
+2011,4,Largo Town Center,AM Peak,3310.4
+2011,5,Largo Town Center,AM Peak,3375.9
+2011,6,Largo Town Center,AM Peak,3461
+2011,7,Largo Town Center,AM Peak,3356.2
+2011,8,Largo Town Center,AM Peak,3136.6
+2011,9,Largo Town Center,AM Peak,3169.5
+2011,10,Largo Town Center,AM Peak,3204.1
+2011,11,Largo Town Center,AM Peak,3119.2
+2011,12,Largo Town Center,AM Peak,2926.6
+2012,1,Largo Town Center,AM Peak,3217.2
+2012,2,Largo Town Center,AM Peak,3269.2
+2012,3,Largo Town Center,AM Peak,3312.3
+2012,4,Largo Town Center,AM Peak,3247.2
+2012,5,Largo Town Center,AM Peak,3322.7
+2012,6,Largo Town Center,AM Peak,3444.4
+2012,7,Largo Town Center,AM Peak,3387.9
+2012,8,Largo Town Center,AM Peak,3300.3
+2012,9,Largo Town Center,AM Peak,3359.4
+2012,10,Largo Town Center,AM Peak,3021
+2012,11,Largo Town Center,AM Peak,3144.2
+2012,12,Largo Town Center,AM Peak,2777.3
+2013,1,Largo Town Center,AM Peak,3119.9
+2013,2,Largo Town Center,AM Peak,3291.3
+2013,3,Largo Town Center,AM Peak,3086.2
+2013,4,Largo Town Center,AM Peak,3273
+2013,5,Largo Town Center,AM Peak,3221
+2013,6,Largo Town Center,AM Peak,3373.2
+2013,7,Largo Town Center,AM Peak,3323.3
+2013,8,Largo Town Center,AM Peak,3206
+2013,9,Largo Town Center,AM Peak,3352
+2013,10,Largo Town Center,AM Peak,2887.5
+2013,11,Largo Town Center,AM Peak,3110.8
+2013,12,Largo Town Center,AM Peak,2704
+2014,1,Largo Town Center,AM Peak,2855.5
+2014,2,Largo Town Center,AM Peak,2943.1
+2014,3,Largo Town Center,AM Peak,2906.4
+2014,4,Largo Town Center,AM Peak,3231.9
+2014,5,Largo Town Center,AM Peak,3229.9
+2014,6,Largo Town Center,AM Peak,3345
+2014,7,Largo Town Center,AM Peak,3383.5
+2014,8,Largo Town Center,AM Peak,3219.8
+2014,9,Largo Town Center,AM Peak,3304
+2014,10,Largo Town Center,AM Peak,3325.8
+2014,11,Largo Town Center,AM Peak,3109.2
+2014,12,Largo Town Center,AM Peak,2789.5
+2013,12,McLean,AM Peak,4
+2014,1,McLean,AM Peak,1.5
+2014,2,McLean,AM Peak,0
+2014,6,McLean,AM Peak,2.3
+2014,7,McLean,AM Peak,155.9
+2014,8,McLean,AM Peak,547.8
+2014,9,McLean,AM Peak,665.8
+2014,10,McLean,AM Peak,680.8
+2014,11,McLean,AM Peak,630.2
+2014,12,McLean,AM Peak,531.4
+2010,9,McPherson Square,AM Peak,1629.3
+2010,10,McPherson Square,AM Peak,1609.5
+2010,11,McPherson Square,AM Peak,1550.5
+2010,12,McPherson Square,AM Peak,1388.9
+2011,1,McPherson Square,AM Peak,1505.1
+2011,2,McPherson Square,AM Peak,1628.3
+2011,3,McPherson Square,AM Peak,1688.6
+2011,4,McPherson Square,AM Peak,1695.6
+2011,5,McPherson Square,AM Peak,1656.5
+2011,6,McPherson Square,AM Peak,1748.6
+2011,7,McPherson Square,AM Peak,1737.1
+2011,8,McPherson Square,AM Peak,1599
+2011,9,McPherson Square,AM Peak,1633.4
+2011,10,McPherson Square,AM Peak,1659.7
+2011,11,McPherson Square,AM Peak,1593.3
+2011,12,McPherson Square,AM Peak,1437.1
+2012,1,McPherson Square,AM Peak,1572
+2012,2,McPherson Square,AM Peak,1623.2
+2012,3,McPherson Square,AM Peak,1641.4
+2012,4,McPherson Square,AM Peak,1657.1
+2012,5,McPherson Square,AM Peak,1638
+2012,6,McPherson Square,AM Peak,1709
+2012,7,McPherson Square,AM Peak,1690.9
+2012,8,McPherson Square,AM Peak,1566.5
+2012,9,McPherson Square,AM Peak,1556
+2012,10,McPherson Square,AM Peak,1561.3
+2012,11,McPherson Square,AM Peak,1469.8
+2012,12,McPherson Square,AM Peak,1319.5
+2013,1,McPherson Square,AM Peak,1533.5
+2013,2,McPherson Square,AM Peak,1621.8
+2013,3,McPherson Square,AM Peak,1589.1
+2013,4,McPherson Square,AM Peak,1630.7
+2013,5,McPherson Square,AM Peak,1543.9
+2013,6,McPherson Square,AM Peak,1635.4
+2013,7,McPherson Square,AM Peak,1589
+2013,8,McPherson Square,AM Peak,1533.5
+2013,9,McPherson Square,AM Peak,1602.4
+2013,10,McPherson Square,AM Peak,1473.3
+2013,11,McPherson Square,AM Peak,1508
+2013,12,McPherson Square,AM Peak,1266.9
+2014,1,McPherson Square,AM Peak,1476.9
+2014,2,McPherson Square,AM Peak,1484.3
+2014,3,McPherson Square,AM Peak,1518.2
+2014,4,McPherson Square,AM Peak,1650.3
+2014,5,McPherson Square,AM Peak,1594.9
+2014,6,McPherson Square,AM Peak,1720.2
+2014,7,McPherson Square,AM Peak,1667.8
+2014,8,McPherson Square,AM Peak,1599.4
+2014,9,McPherson Square,AM Peak,1642.9
+2014,10,McPherson Square,AM Peak,1630.3
+2014,11,McPherson Square,AM Peak,1504.8
+2014,12,McPherson Square,AM Peak,1293.1
+2010,9,Medical Center,AM Peak,1015.4
+2010,10,Medical Center,AM Peak,1033.5
+2010,11,Medical Center,AM Peak,974
+2010,12,Medical Center,AM Peak,800.1
+2011,1,Medical Center,AM Peak,925.4
+2011,2,Medical Center,AM Peak,991.6
+2011,3,Medical Center,AM Peak,989.7
+2011,4,Medical Center,AM Peak,957
+2011,5,Medical Center,AM Peak,991.3
+2011,6,Medical Center,AM Peak,996.6
+2011,7,Medical Center,AM Peak,920.3
+2011,8,Medical Center,AM Peak,878.5
+2011,9,Medical Center,AM Peak,981.1
+2011,10,Medical Center,AM Peak,1022.3
+2011,11,Medical Center,AM Peak,1001.5
+2011,12,Medical Center,AM Peak,854.9
+2012,1,Medical Center,AM Peak,924
+2012,2,Medical Center,AM Peak,961.5
+2012,3,Medical Center,AM Peak,971.5
+2012,4,Medical Center,AM Peak,947.4
+2012,5,Medical Center,AM Peak,926.3
+2012,6,Medical Center,AM Peak,971
+2012,7,Medical Center,AM Peak,905.8
+2012,8,Medical Center,AM Peak,853.4
+2012,9,Medical Center,AM Peak,955.5
+2012,10,Medical Center,AM Peak,933.5
+2012,11,Medical Center,AM Peak,902.3
+2012,12,Medical Center,AM Peak,769
+2013,1,Medical Center,AM Peak,900.1
+2013,2,Medical Center,AM Peak,937.1
+2013,3,Medical Center,AM Peak,880.4
+2013,4,Medical Center,AM Peak,970.5
+2013,5,Medical Center,AM Peak,900.5
+2013,6,Medical Center,AM Peak,949.1
+2013,7,Medical Center,AM Peak,885.6
+2013,8,Medical Center,AM Peak,851.3
+2013,9,Medical Center,AM Peak,954.8
+2013,10,Medical Center,AM Peak,850
+2013,11,Medical Center,AM Peak,902.8
+2013,12,Medical Center,AM Peak,746.7
+2014,1,Medical Center,AM Peak,837.3
+2014,2,Medical Center,AM Peak,837.6
+2014,3,Medical Center,AM Peak,849.4
+2014,4,Medical Center,AM Peak,923.5
+2014,5,Medical Center,AM Peak,937.7
+2014,6,Medical Center,AM Peak,939.3
+2014,7,Medical Center,AM Peak,901.8
+2014,8,Medical Center,AM Peak,827.7
+2014,9,Medical Center,AM Peak,909.1
+2014,10,Medical Center,AM Peak,900.4
+2014,11,Medical Center,AM Peak,852.7
+2014,12,Medical Center,AM Peak,722.2
+2010,9,Metro Center,AM Peak,1609
+2010,10,Metro Center,AM Peak,1575
+2010,11,Metro Center,AM Peak,1606.9
+2010,12,Metro Center,AM Peak,1482.2
+2011,1,Metro Center,AM Peak,1561.3
+2011,2,Metro Center,AM Peak,1741.1
+2011,3,Metro Center,AM Peak,1723.3
+2011,4,Metro Center,AM Peak,1747.7
+2011,5,Metro Center,AM Peak,1692.4
+2011,6,Metro Center,AM Peak,1745
+2011,7,Metro Center,AM Peak,1705.9
+2011,8,Metro Center,AM Peak,1624.3
+2011,9,Metro Center,AM Peak,1604
+2011,10,Metro Center,AM Peak,1658.8
+2011,11,Metro Center,AM Peak,1566.5
+2011,12,Metro Center,AM Peak,1475.3
+2012,1,Metro Center,AM Peak,1614.8
+2012,2,Metro Center,AM Peak,1726.4
+2012,3,Metro Center,AM Peak,1666.4
+2012,4,Metro Center,AM Peak,1640.3
+2012,5,Metro Center,AM Peak,1658.9
+2012,6,Metro Center,AM Peak,1726.4
+2012,7,Metro Center,AM Peak,1679.5
+2012,8,Metro Center,AM Peak,1601.6
+2012,9,Metro Center,AM Peak,1632.8
+2012,10,Metro Center,AM Peak,1479.1
+2012,11,Metro Center,AM Peak,1444.8
+2012,12,Metro Center,AM Peak,1333.9
+2013,1,Metro Center,AM Peak,1514.9
+2013,2,Metro Center,AM Peak,1586.4
+2013,3,Metro Center,AM Peak,1564.9
+2013,4,Metro Center,AM Peak,1641.9
+2013,5,Metro Center,AM Peak,1598.9
+2013,6,Metro Center,AM Peak,1658.4
+2013,7,Metro Center,AM Peak,1637.4
+2013,8,Metro Center,AM Peak,1539.2
+2013,9,Metro Center,AM Peak,1643.8
+2013,10,Metro Center,AM Peak,1450.6
+2013,11,Metro Center,AM Peak,1579.1
+2013,12,Metro Center,AM Peak,1378.2
+2014,1,Metro Center,AM Peak,1494.3
+2014,2,Metro Center,AM Peak,1499.8
+2014,3,Metro Center,AM Peak,1548.2
+2014,4,Metro Center,AM Peak,1758.8
+2014,5,Metro Center,AM Peak,1675.1
+2014,6,Metro Center,AM Peak,1793
+2014,7,Metro Center,AM Peak,1715
+2014,8,Metro Center,AM Peak,1718.9
+2014,9,Metro Center,AM Peak,1715.2
+2014,10,Metro Center,AM Peak,1693.5
+2014,11,Metro Center,AM Peak,1636.4
+2014,12,Metro Center,AM Peak,1468.3
+2010,9,Minnesota Avenue,AM Peak,1214.8
+2010,10,Minnesota Avenue,AM Peak,1177.9
+2010,11,Minnesota Avenue,AM Peak,1149.2
+2010,12,Minnesota Avenue,AM Peak,1010.8
+2011,1,Minnesota Avenue,AM Peak,1057.4
+2011,2,Minnesota Avenue,AM Peak,1153.4
+2011,3,Minnesota Avenue,AM Peak,1203.4
+2011,4,Minnesota Avenue,AM Peak,1167.3
+2011,5,Minnesota Avenue,AM Peak,1163.3
+2011,6,Minnesota Avenue,AM Peak,1124.4
+2011,7,Minnesota Avenue,AM Peak,1115.3
+2011,8,Minnesota Avenue,AM Peak,1021.5
+2011,9,Minnesota Avenue,AM Peak,1166.5
+2011,10,Minnesota Avenue,AM Peak,1180.5
+2011,11,Minnesota Avenue,AM Peak,1148.9
+2011,12,Minnesota Avenue,AM Peak,985.6
+2012,1,Minnesota Avenue,AM Peak,1114.4
+2012,2,Minnesota Avenue,AM Peak,1148
+2012,3,Minnesota Avenue,AM Peak,1168.5
+2012,4,Minnesota Avenue,AM Peak,1124.7
+2012,5,Minnesota Avenue,AM Peak,1175.3
+2012,6,Minnesota Avenue,AM Peak,1139.1
+2012,7,Minnesota Avenue,AM Peak,1121
+2012,8,Minnesota Avenue,AM Peak,1027.9
+2012,9,Minnesota Avenue,AM Peak,1181.3
+2012,10,Minnesota Avenue,AM Peak,1197.9
+2012,11,Minnesota Avenue,AM Peak,1153.7
+2012,12,Minnesota Avenue,AM Peak,1011.3
+2013,1,Minnesota Avenue,AM Peak,1084.9
+2013,2,Minnesota Avenue,AM Peak,1168.8
+2013,3,Minnesota Avenue,AM Peak,1086.1
+2013,4,Minnesota Avenue,AM Peak,1145.8
+2013,5,Minnesota Avenue,AM Peak,1204.9
+2013,6,Minnesota Avenue,AM Peak,1140.3
+2013,7,Minnesota Avenue,AM Peak,1125
+2013,8,Minnesota Avenue,AM Peak,1046.7
+2013,9,Minnesota Avenue,AM Peak,1230
+2013,10,Minnesota Avenue,AM Peak,1118.5
+2013,11,Minnesota Avenue,AM Peak,1141.8
+2013,12,Minnesota Avenue,AM Peak,996.3
+2014,1,Minnesota Avenue,AM Peak,1003.9
+2014,2,Minnesota Avenue,AM Peak,1115.2
+2014,3,Minnesota Avenue,AM Peak,1108
+2014,4,Minnesota Avenue,AM Peak,1203.5
+2014,5,Minnesota Avenue,AM Peak,1205.5
+2014,6,Minnesota Avenue,AM Peak,1178
+2014,7,Minnesota Avenue,AM Peak,1200.5
+2014,8,Minnesota Avenue,AM Peak,1096.6
+2014,9,Minnesota Avenue,AM Peak,1227
+2014,10,Minnesota Avenue,AM Peak,1216.6
+2014,11,Minnesota Avenue,AM Peak,1150.6
+2014,12,Minnesota Avenue,AM Peak,1025.1
+2010,9,Morgan Blvd.,AM Peak,1111.2
+2010,10,Morgan Blvd.,AM Peak,1159.9
+2010,11,Morgan Blvd.,AM Peak,1105.8
+2010,12,Morgan Blvd.,AM Peak,1014.6
+2011,1,Morgan Blvd.,AM Peak,1056.2
+2011,2,Morgan Blvd.,AM Peak,1103
+2011,3,Morgan Blvd.,AM Peak,1154.7
+2011,4,Morgan Blvd.,AM Peak,1136.4
+2011,5,Morgan Blvd.,AM Peak,1176.1
+2011,6,Morgan Blvd.,AM Peak,1198.3
+2011,7,Morgan Blvd.,AM Peak,1200.5
+2011,8,Morgan Blvd.,AM Peak,1178.8
+2011,9,Morgan Blvd.,AM Peak,1206.4
+2011,10,Morgan Blvd.,AM Peak,1225.3
+2011,11,Morgan Blvd.,AM Peak,1196.8
+2011,12,Morgan Blvd.,AM Peak,1096.6
+2012,1,Morgan Blvd.,AM Peak,1195.1
+2012,2,Morgan Blvd.,AM Peak,1218.2
+2012,3,Morgan Blvd.,AM Peak,1225.8
+2012,4,Morgan Blvd.,AM Peak,1241
+2012,5,Morgan Blvd.,AM Peak,1257.7
+2012,6,Morgan Blvd.,AM Peak,1292.5
+2012,7,Morgan Blvd.,AM Peak,1266.5
+2012,8,Morgan Blvd.,AM Peak,1264
+2012,9,Morgan Blvd.,AM Peak,1336.7
+2012,10,Morgan Blvd.,AM Peak,1332
+2012,11,Morgan Blvd.,AM Peak,1254.5
+2012,12,Morgan Blvd.,AM Peak,1119.2
+2013,1,Morgan Blvd.,AM Peak,1266.5
+2013,2,Morgan Blvd.,AM Peak,1334.1
+2013,3,Morgan Blvd.,AM Peak,1256.2
+2013,4,Morgan Blvd.,AM Peak,1316.5
+2013,5,Morgan Blvd.,AM Peak,1342.7
+2013,6,Morgan Blvd.,AM Peak,1374.6
+2013,7,Morgan Blvd.,AM Peak,1357.4
+2013,8,Morgan Blvd.,AM Peak,1365.5
+2013,9,Morgan Blvd.,AM Peak,1437.3
+2013,10,Morgan Blvd.,AM Peak,1230
+2013,11,Morgan Blvd.,AM Peak,1320.5
+2013,12,Morgan Blvd.,AM Peak,1136.1
+2014,1,Morgan Blvd.,AM Peak,1177.1
+2014,2,Morgan Blvd.,AM Peak,1243.2
+2014,3,Morgan Blvd.,AM Peak,1242.9
+2014,4,Morgan Blvd.,AM Peak,1369.8
+2014,5,Morgan Blvd.,AM Peak,1404.5
+2014,6,Morgan Blvd.,AM Peak,1437.9
+2014,7,Morgan Blvd.,AM Peak,1452.3
+2014,8,Morgan Blvd.,AM Peak,1414.1
+2014,9,Morgan Blvd.,AM Peak,1484.6
+2014,10,Morgan Blvd.,AM Peak,1477.7
+2014,11,Morgan Blvd.,AM Peak,1375.1
+2014,12,Morgan Blvd.,AM Peak,1257.7
+2010,9,Mt. Vernon Square-UDC,AM Peak,1076.1
+2010,10,Mt. Vernon Square-UDC,AM Peak,1082.4
+2010,11,Mt. Vernon Square-UDC,AM Peak,1031.9
+2010,12,Mt. Vernon Square-UDC,AM Peak,968.8
+2011,1,Mt. Vernon Square-UDC,AM Peak,1072.3
+2011,2,Mt. Vernon Square-UDC,AM Peak,1117.7
+2011,3,Mt. Vernon Square-UDC,AM Peak,1138.9
+2011,4,Mt. Vernon Square-UDC,AM Peak,1080.5
+2011,5,Mt. Vernon Square-UDC,AM Peak,1104.1
+2011,6,Mt. Vernon Square-UDC,AM Peak,1119
+2011,7,Mt. Vernon Square-UDC,AM Peak,1092
+2011,8,Mt. Vernon Square-UDC,AM Peak,1035.2
+2011,9,Mt. Vernon Square-UDC,AM Peak,1066.9
+2011,10,Mt. Vernon Square-UDC,AM Peak,1214.1
+2011,11,Mt. Vernon Square-UDC,AM Peak,1171.3
+2011,12,Mt. Vernon Square-UDC,AM Peak,1031.3
+2012,1,Mt. Vernon Square-UDC,AM Peak,1178.1
+2012,2,Mt. Vernon Square-UDC,AM Peak,1147.1
+2012,3,Mt. Vernon Square-UDC,AM Peak,1148.1
+2012,4,Mt. Vernon Square-UDC,AM Peak,1087.1
+2012,5,Mt. Vernon Square-UDC,AM Peak,1175.8
+2012,6,Mt. Vernon Square-UDC,AM Peak,1146.6
+2012,7,Mt. Vernon Square-UDC,AM Peak,1122.8
+2012,8,Mt. Vernon Square-UDC,AM Peak,1067.3
+2012,9,Mt. Vernon Square-UDC,AM Peak,1193.2
+2012,10,Mt. Vernon Square-UDC,AM Peak,1219.1
+2012,11,Mt. Vernon Square-UDC,AM Peak,1150.7
+2012,12,Mt. Vernon Square-UDC,AM Peak,996.4
+2013,1,Mt. Vernon Square-UDC,AM Peak,1215.9
+2013,2,Mt. Vernon Square-UDC,AM Peak,1244.5
+2013,3,Mt. Vernon Square-UDC,AM Peak,1199.9
+2013,4,Mt. Vernon Square-UDC,AM Peak,1187.9
+2013,5,Mt. Vernon Square-UDC,AM Peak,1179
+2013,6,Mt. Vernon Square-UDC,AM Peak,1172.1
+2013,7,Mt. Vernon Square-UDC,AM Peak,1179.2
+2013,8,Mt. Vernon Square-UDC,AM Peak,1059.7
+2013,9,Mt. Vernon Square-UDC,AM Peak,1163
+2013,10,Mt. Vernon Square-UDC,AM Peak,1110.1
+2013,11,Mt. Vernon Square-UDC,AM Peak,1100
+2013,12,Mt. Vernon Square-UDC,AM Peak,938.7
+2014,1,Mt. Vernon Square-UDC,AM Peak,1108.1
+2014,2,Mt. Vernon Square-UDC,AM Peak,1168.1
+2014,3,Mt. Vernon Square-UDC,AM Peak,1158.5
+2014,4,Mt. Vernon Square-UDC,AM Peak,1191.1
+2014,5,Mt. Vernon Square-UDC,AM Peak,1180.8
+2014,6,Mt. Vernon Square-UDC,AM Peak,1249.8
+2014,7,Mt. Vernon Square-UDC,AM Peak,1235.1
+2014,8,Mt. Vernon Square-UDC,AM Peak,1148.4
+2014,9,Mt. Vernon Square-UDC,AM Peak,1281.8
+2014,10,Mt. Vernon Square-UDC,AM Peak,1276.9
+2014,11,Mt. Vernon Square-UDC,AM Peak,1209.1
+2014,12,Mt. Vernon Square-UDC,AM Peak,1082.9
+2010,9,Navy Yard,AM Peak,995.3
+2010,10,Navy Yard,AM Peak,997.4
+2010,11,Navy Yard,AM Peak,916.7
+2010,12,Navy Yard,AM Peak,803.3
+2011,1,Navy Yard,AM Peak,936.2
+2011,2,Navy Yard,AM Peak,965.6
+2011,3,Navy Yard,AM Peak,957.8
+2011,4,Navy Yard,AM Peak,943.3
+2011,5,Navy Yard,AM Peak,944
+2011,6,Navy Yard,AM Peak,967.9
+2011,7,Navy Yard,AM Peak,948.4
+2011,8,Navy Yard,AM Peak,895.3
+2011,9,Navy Yard,AM Peak,990.9
+2011,10,Navy Yard,AM Peak,1014.6
+2011,11,Navy Yard,AM Peak,946.3
+2011,12,Navy Yard,AM Peak,838.1
+2012,1,Navy Yard,AM Peak,971.2
+2012,2,Navy Yard,AM Peak,1011.4
+2012,3,Navy Yard,AM Peak,1033.9
+2012,4,Navy Yard,AM Peak,1003.7
+2012,5,Navy Yard,AM Peak,1022.4
+2012,6,Navy Yard,AM Peak,1029.3
+2012,7,Navy Yard,AM Peak,1016.7
+2012,8,Navy Yard,AM Peak,971.1
+2012,9,Navy Yard,AM Peak,1064.1
+2012,10,Navy Yard,AM Peak,1001.2
+2012,11,Navy Yard,AM Peak,966.8
+2012,12,Navy Yard,AM Peak,835.5
+2013,1,Navy Yard,AM Peak,1021.7
+2013,2,Navy Yard,AM Peak,1047.2
+2013,3,Navy Yard,AM Peak,1000.4
+2013,4,Navy Yard,AM Peak,1041.4
+2013,5,Navy Yard,AM Peak,1031
+2013,6,Navy Yard,AM Peak,1040.4
+2013,7,Navy Yard,AM Peak,1030.7
+2013,8,Navy Yard,AM Peak,967
+2013,9,Navy Yard,AM Peak,1052.6
+2013,10,Navy Yard,AM Peak,979.3
+2013,11,Navy Yard,AM Peak,1000.7
+2013,12,Navy Yard,AM Peak,843.1
+2014,1,Navy Yard,AM Peak,992.4
+2014,2,Navy Yard,AM Peak,1001.5
+2014,3,Navy Yard,AM Peak,1000.7
+2014,4,Navy Yard,AM Peak,1075.8
+2014,5,Navy Yard,AM Peak,1027.4
+2014,6,Navy Yard,AM Peak,1091.5
+2014,7,Navy Yard,AM Peak,1070.6
+2014,8,Navy Yard,AM Peak,1010.2
+2014,9,Navy Yard,AM Peak,1111.6
+2014,10,Navy Yard,AM Peak,1086.2
+2014,11,Navy Yard,AM Peak,1018.6
+2014,12,Navy Yard,AM Peak,909.6
+2010,9,Naylor Road,AM Peak,1860.6
+2010,10,Naylor Road,AM Peak,1843.2
+2010,11,Naylor Road,AM Peak,1752.4
+2010,12,Naylor Road,AM Peak,1566.8
+2011,1,Naylor Road,AM Peak,1620.2
+2011,2,Naylor Road,AM Peak,1766.2
+2011,3,Naylor Road,AM Peak,1802.3
+2011,4,Naylor Road,AM Peak,1543.7
+2011,5,Naylor Road,AM Peak,1741.7
+2011,6,Naylor Road,AM Peak,1728.8
+2011,7,Naylor Road,AM Peak,1699.8
+2011,8,Naylor Road,AM Peak,1667
+2011,9,Naylor Road,AM Peak,1853.1
+2011,10,Naylor Road,AM Peak,1843.9
+2011,11,Naylor Road,AM Peak,1784.4
+2011,12,Naylor Road,AM Peak,1624
+2012,1,Naylor Road,AM Peak,1771.1
+2012,2,Naylor Road,AM Peak,1829.8
+2012,3,Naylor Road,AM Peak,1845.3
+2012,4,Naylor Road,AM Peak,1780.6
+2012,5,Naylor Road,AM Peak,1816.6
+2012,6,Naylor Road,AM Peak,1810.5
+2012,7,Naylor Road,AM Peak,1761.4
+2012,8,Naylor Road,AM Peak,1720.6
+2012,9,Naylor Road,AM Peak,1929.1
+2012,10,Naylor Road,AM Peak,1924.4
+2012,11,Naylor Road,AM Peak,1795.6
+2012,12,Naylor Road,AM Peak,1617.4
+2013,1,Naylor Road,AM Peak,1748.2
+2013,2,Naylor Road,AM Peak,1835.7
+2013,3,Naylor Road,AM Peak,1740.7
+2013,4,Naylor Road,AM Peak,1798.3
+2013,5,Naylor Road,AM Peak,1841.7
+2013,6,Naylor Road,AM Peak,1755.5
+2013,7,Naylor Road,AM Peak,1694.6
+2013,8,Naylor Road,AM Peak,1696.6
+2013,9,Naylor Road,AM Peak,1906.8
+2013,10,Naylor Road,AM Peak,1731.6
+2013,11,Naylor Road,AM Peak,1787.3
+2013,12,Naylor Road,AM Peak,1546.2
+2014,1,Naylor Road,AM Peak,1584.6
+2014,2,Naylor Road,AM Peak,1653.6
+2014,3,Naylor Road,AM Peak,1616.1
+2014,4,Naylor Road,AM Peak,1704.5
+2014,5,Naylor Road,AM Peak,1758.2
+2014,6,Naylor Road,AM Peak,1721.3
+2014,7,Naylor Road,AM Peak,1687
+2014,8,Naylor Road,AM Peak,1611.6
+2014,9,Naylor Road,AM Peak,1761.2
+2014,10,Naylor Road,AM Peak,1760.7
+2014,11,Naylor Road,AM Peak,1625.9
+2014,12,Naylor Road,AM Peak,1501.6
+2010,9,New Carrollton,AM Peak,6871
+2010,10,New Carrollton,AM Peak,6831.3
+2010,11,New Carrollton,AM Peak,6413.5
+2010,12,New Carrollton,AM Peak,5819.6
+2011,1,New Carrollton,AM Peak,4659.6
+2011,2,New Carrollton,AM Peak,6461.9
+2011,3,New Carrollton,AM Peak,5970.6
+2011,4,New Carrollton,AM Peak,6538
+2011,5,New Carrollton,AM Peak,6608.1
+2011,6,New Carrollton,AM Peak,6795.4
+2011,7,New Carrollton,AM Peak,6604.3
+2011,8,New Carrollton,AM Peak,6421.4
+2011,9,New Carrollton,AM Peak,6625.4
+2011,10,New Carrollton,AM Peak,6727.1
+2011,11,New Carrollton,AM Peak,6449
+2011,12,New Carrollton,AM Peak,5824.2
+2012,1,New Carrollton,AM Peak,6369.3
+2012,2,New Carrollton,AM Peak,6453.4
+2012,3,New Carrollton,AM Peak,6447.4
+2012,4,New Carrollton,AM Peak,6328
+2012,5,New Carrollton,AM Peak,6434.8
+2012,6,New Carrollton,AM Peak,6509
+2012,7,New Carrollton,AM Peak,6239.2
+2012,8,New Carrollton,AM Peak,6099.8
+2012,9,New Carrollton,AM Peak,6362.4
+2012,10,New Carrollton,AM Peak,5986.8
+2012,11,New Carrollton,AM Peak,5922.8
+2012,12,New Carrollton,AM Peak,5215.3
+2013,1,New Carrollton,AM Peak,5858.1
+2013,2,New Carrollton,AM Peak,6165.8
+2013,3,New Carrollton,AM Peak,5839.5
+2013,4,New Carrollton,AM Peak,6247.1
+2013,5,New Carrollton,AM Peak,6203.5
+2013,6,New Carrollton,AM Peak,6379
+2013,7,New Carrollton,AM Peak,6188.5
+2013,8,New Carrollton,AM Peak,5996.7
+2013,9,New Carrollton,AM Peak,6394.6
+2013,10,New Carrollton,AM Peak,5505.7
+2013,11,New Carrollton,AM Peak,5980.4
+2013,12,New Carrollton,AM Peak,5088.9
+2014,1,New Carrollton,AM Peak,5302.9
+2014,2,New Carrollton,AM Peak,5475.2
+2014,3,New Carrollton,AM Peak,5487
+2014,4,New Carrollton,AM Peak,6040.9
+2014,5,New Carrollton,AM Peak,6031.2
+2014,6,New Carrollton,AM Peak,6178.9
+2014,7,New Carrollton,AM Peak,6103.3
+2014,8,New Carrollton,AM Peak,5753.9
+2014,9,New Carrollton,AM Peak,6062.5
+2014,10,New Carrollton,AM Peak,5816.3
+2014,11,New Carrollton,AM Peak,5369.6
+2014,12,New Carrollton,AM Peak,4063.3
+2010,9,New York Ave,AM Peak,1229.1
+2010,10,New York Ave,AM Peak,1260.4
+2010,11,New York Ave,AM Peak,1188.7
+2010,12,New York Ave,AM Peak,1026.1
+2011,1,New York Ave,AM Peak,1123.1
+2011,2,New York Ave,AM Peak,1317
+2011,3,New York Ave,AM Peak,1393.8
+2011,4,New York Ave,AM Peak,1392.2
+2011,5,New York Ave,AM Peak,1408.8
+2011,6,New York Ave,AM Peak,1629.2
+2011,7,New York Ave,AM Peak,1554.7
+2011,8,New York Ave,AM Peak,1369.3
+2011,9,New York Ave,AM Peak,1598.8
+2011,10,New York Ave,AM Peak,1680.8
+2011,11,New York Ave,AM Peak,1583.6
+2011,12,New York Ave,AM Peak,1380.3
+2012,1,New York Ave,AM Peak,1513.2
+2012,2,New York Ave,AM Peak,1653.2
+2012,3,New York Ave,AM Peak,1692.6
+2012,4,New York Ave,AM Peak,1674.5
+2012,5,New York Ave,AM Peak,1635.1
+2012,6,New York Ave,AM Peak,1810.4
+2012,7,New York Ave,AM Peak,1799.6
+2012,8,New York Ave,AM Peak,1561.5
+2012,9,New York Ave,AM Peak,1839.2
+2012,10,New York Ave,AM Peak,1864.9
+2012,11,New York Ave,AM Peak,1755.4
+2012,12,New York Ave,AM Peak,1487.9
+2013,1,New York Ave,AM Peak,1729
+2013,2,New York Ave,AM Peak,1972.6
+2013,3,New York Ave,AM Peak,1918.6
+2013,4,New York Ave,AM Peak,2006.1
+2013,5,New York Ave,AM Peak,1890.7
+2013,6,New York Ave,AM Peak,2140
+2013,7,New York Ave,AM Peak,2087
+2013,8,New York Ave,AM Peak,1875.5
+2013,9,New York Ave,AM Peak,2222.1
+2013,10,New York Ave,AM Peak,2080
+2013,11,New York Ave,AM Peak,2105.3
+2013,12,New York Ave,AM Peak,1670.6
+2014,1,New York Ave,AM Peak,1958.2
+2014,2,New York Ave,AM Peak,2172.7
+2014,3,New York Ave,AM Peak,2166
+2014,4,New York Ave,AM Peak,2336.5
+2014,5,New York Ave,AM Peak,2226.5
+2014,6,New York Ave,AM Peak,2501.8
+2014,7,New York Ave,AM Peak,2538.5
+2014,8,New York Ave,AM Peak,2241.8
+2014,9,New York Ave,AM Peak,2718.1
+2014,10,New York Ave,AM Peak,2781.6
+2014,11,New York Ave,AM Peak,2623.3
+2014,12,New York Ave,AM Peak,2162.2
+2010,9,Pentagon,AM Peak,7077.8
+2010,10,Pentagon,AM Peak,7154.6
+2010,11,Pentagon,AM Peak,6704.8
+2010,12,Pentagon,AM Peak,5821.9
+2011,1,Pentagon,AM Peak,6526.4
+2011,2,Pentagon,AM Peak,6610.2
+2011,3,Pentagon,AM Peak,6721.9
+2011,4,Pentagon,AM Peak,6852.8
+2011,5,Pentagon,AM Peak,6856.5
+2011,6,Pentagon,AM Peak,6763.3
+2011,7,Pentagon,AM Peak,6578.2
+2011,8,Pentagon,AM Peak,6443.3
+2011,9,Pentagon,AM Peak,6722.2
+2011,10,Pentagon,AM Peak,6889.1
+2011,11,Pentagon,AM Peak,6562.3
+2011,12,Pentagon,AM Peak,5938
+2012,1,Pentagon,AM Peak,6687.9
+2012,2,Pentagon,AM Peak,6815
+2012,3,Pentagon,AM Peak,6778.7
+2012,4,Pentagon,AM Peak,6712.6
+2012,5,Pentagon,AM Peak,6574.6
+2012,6,Pentagon,AM Peak,6766.5
+2012,7,Pentagon,AM Peak,6317.4
+2012,8,Pentagon,AM Peak,6113.9
+2012,9,Pentagon,AM Peak,6483.2
+2012,10,Pentagon,AM Peak,6461.3
+2012,11,Pentagon,AM Peak,5997.8
+2012,12,Pentagon,AM Peak,5305.6
+2013,1,Pentagon,AM Peak,6103
+2013,2,Pentagon,AM Peak,6318.8
+2013,3,Pentagon,AM Peak,5898.3
+2013,4,Pentagon,AM Peak,6261.6
+2013,5,Pentagon,AM Peak,6194
+2013,6,Pentagon,AM Peak,6356.8
+2013,7,Pentagon,AM Peak,6031.3
+2013,8,Pentagon,AM Peak,5874.5
+2013,9,Pentagon,AM Peak,6254.9
+2013,10,Pentagon,AM Peak,5651.8
+2013,11,Pentagon,AM Peak,5858.7
+2013,12,Pentagon,AM Peak,4976.1
+2014,1,Pentagon,AM Peak,5508
+2014,2,Pentagon,AM Peak,5636.4
+2014,3,Pentagon,AM Peak,5471
+2014,4,Pentagon,AM Peak,6042.3
+2014,5,Pentagon,AM Peak,6037.2
+2014,6,Pentagon,AM Peak,6119.8
+2014,7,Pentagon,AM Peak,5943.9
+2014,8,Pentagon,AM Peak,5631
+2014,9,Pentagon,AM Peak,6048.1
+2014,10,Pentagon,AM Peak,6068.2
+2014,11,Pentagon,AM Peak,5522.6
+2014,12,Pentagon,AM Peak,5023
+2010,9,Pentagon City,AM Peak,5762
+2010,10,Pentagon City,AM Peak,5910.3
+2010,11,Pentagon City,AM Peak,5549.2
+2010,12,Pentagon City,AM Peak,5084.5
+2011,1,Pentagon City,AM Peak,5561.2
+2011,2,Pentagon City,AM Peak,5753.9
+2011,3,Pentagon City,AM Peak,5825
+2011,4,Pentagon City,AM Peak,5954.1
+2011,5,Pentagon City,AM Peak,5804.7
+2011,6,Pentagon City,AM Peak,6145.6
+2011,7,Pentagon City,AM Peak,5909.3
+2011,8,Pentagon City,AM Peak,5590.8
+2011,9,Pentagon City,AM Peak,5867.9
+2011,10,Pentagon City,AM Peak,5992.5
+2011,11,Pentagon City,AM Peak,5798.2
+2011,12,Pentagon City,AM Peak,5090.9
+2012,1,Pentagon City,AM Peak,5778.3
+2012,2,Pentagon City,AM Peak,5862.3
+2012,3,Pentagon City,AM Peak,5872.9
+2012,4,Pentagon City,AM Peak,5893.8
+2012,5,Pentagon City,AM Peak,5812.7
+2012,6,Pentagon City,AM Peak,5983.7
+2012,7,Pentagon City,AM Peak,5784.5
+2012,8,Pentagon City,AM Peak,5342.1
+2012,9,Pentagon City,AM Peak,5622.4
+2012,10,Pentagon City,AM Peak,5775.9
+2012,11,Pentagon City,AM Peak,5439.6
+2012,12,Pentagon City,AM Peak,4548.2
+2013,1,Pentagon City,AM Peak,5502
+2013,2,Pentagon City,AM Peak,5757.8
+2013,3,Pentagon City,AM Peak,5526.2
+2013,4,Pentagon City,AM Peak,5895.8
+2013,5,Pentagon City,AM Peak,5557.7
+2013,6,Pentagon City,AM Peak,5888
+2013,7,Pentagon City,AM Peak,5632.2
+2013,8,Pentagon City,AM Peak,5402.2
+2013,9,Pentagon City,AM Peak,5782.4
+2013,10,Pentagon City,AM Peak,5166.3
+2013,11,Pentagon City,AM Peak,5372.1
+2013,12,Pentagon City,AM Peak,4360.5
+2014,1,Pentagon City,AM Peak,5147.5
+2014,2,Pentagon City,AM Peak,5246.5
+2014,3,Pentagon City,AM Peak,5259.3
+2014,4,Pentagon City,AM Peak,5809.3
+2014,5,Pentagon City,AM Peak,5580.2
+2014,6,Pentagon City,AM Peak,5738.6
+2014,7,Pentagon City,AM Peak,5599.7
+2014,8,Pentagon City,AM Peak,5380.1
+2014,9,Pentagon City,AM Peak,5636.7
+2014,10,Pentagon City,AM Peak,5738.5
+2014,11,Pentagon City,AM Peak,5410.8
+2014,12,Pentagon City,AM Peak,4616.1
+2010,9,Potomac Avenue,AM Peak,2092
+2010,10,Potomac Avenue,AM Peak,2088.4
+2010,11,Potomac Avenue,AM Peak,2059.1
+2010,12,Potomac Avenue,AM Peak,1802.3
+2011,1,Potomac Avenue,AM Peak,1635.8
+2011,2,Potomac Avenue,AM Peak,2171.4
+2011,3,Potomac Avenue,AM Peak,2185.1
+2011,4,Potomac Avenue,AM Peak,2044.3
+2011,5,Potomac Avenue,AM Peak,2117
+2011,6,Potomac Avenue,AM Peak,2047.2
+2011,7,Potomac Avenue,AM Peak,1986
+2011,8,Potomac Avenue,AM Peak,1864.7
+2011,9,Potomac Avenue,AM Peak,2037.5
+2011,10,Potomac Avenue,AM Peak,2129.2
+2011,11,Potomac Avenue,AM Peak,1979
+2011,12,Potomac Avenue,AM Peak,1798
+2012,1,Potomac Avenue,AM Peak,2065.3
+2012,2,Potomac Avenue,AM Peak,2177
+2012,3,Potomac Avenue,AM Peak,2088.3
+2012,4,Potomac Avenue,AM Peak,2005.3
+2012,5,Potomac Avenue,AM Peak,2061.5
+2012,6,Potomac Avenue,AM Peak,1977
+2012,7,Potomac Avenue,AM Peak,1889.5
+2012,8,Potomac Avenue,AM Peak,1767.4
+2012,9,Potomac Avenue,AM Peak,2035.1
+2012,10,Potomac Avenue,AM Peak,2048.8
+2012,11,Potomac Avenue,AM Peak,1960.2
+2012,12,Potomac Avenue,AM Peak,1756.3
+2013,1,Potomac Avenue,AM Peak,2025
+2013,2,Potomac Avenue,AM Peak,2133.8
+2013,3,Potomac Avenue,AM Peak,2028.9
+2013,4,Potomac Avenue,AM Peak,2029.9
+2013,5,Potomac Avenue,AM Peak,2029.8
+2013,6,Potomac Avenue,AM Peak,2032.8
+2013,7,Potomac Avenue,AM Peak,1936.3
+2013,8,Potomac Avenue,AM Peak,1834.9
+2013,9,Potomac Avenue,AM Peak,2044.3
+2013,10,Potomac Avenue,AM Peak,1896.4
+2013,11,Potomac Avenue,AM Peak,1932
+2013,12,Potomac Avenue,AM Peak,1629.3
+2014,1,Potomac Avenue,AM Peak,1861.9
+2014,2,Potomac Avenue,AM Peak,1916.2
+2014,3,Potomac Avenue,AM Peak,1904.3
+2014,4,Potomac Avenue,AM Peak,2035.5
+2014,5,Potomac Avenue,AM Peak,2033.7
+2014,6,Potomac Avenue,AM Peak,2033.2
+2014,7,Potomac Avenue,AM Peak,1974.1
+2014,8,Potomac Avenue,AM Peak,1824
+2014,9,Potomac Avenue,AM Peak,2018
+2014,10,Potomac Avenue,AM Peak,2088.3
+2014,11,Potomac Avenue,AM Peak,1976.1
+2014,12,Potomac Avenue,AM Peak,1735.8
+2010,9,Prince George's Plaza,AM Peak,2250.1
+2010,10,Prince George's Plaza,AM Peak,2196.9
+2010,11,Prince George's Plaza,AM Peak,2071.2
+2010,12,Prince George's Plaza,AM Peak,1845.6
+2011,1,Prince George's Plaza,AM Peak,1985.8
+2011,2,Prince George's Plaza,AM Peak,2187.4
+2011,3,Prince George's Plaza,AM Peak,2210.3
+2011,4,Prince George's Plaza,AM Peak,2236.7
+2011,5,Prince George's Plaza,AM Peak,2238.8
+2011,6,Prince George's Plaza,AM Peak,2351.4
+2011,7,Prince George's Plaza,AM Peak,2272.3
+2011,8,Prince George's Plaza,AM Peak,2104.9
+2011,9,Prince George's Plaza,AM Peak,2218.3
+2011,10,Prince George's Plaza,AM Peak,2207.9
+2011,11,Prince George's Plaza,AM Peak,2156.3
+2011,12,Prince George's Plaza,AM Peak,1937
+2012,1,Prince George's Plaza,AM Peak,2115.9
+2012,2,Prince George's Plaza,AM Peak,2175
+2012,3,Prince George's Plaza,AM Peak,2181.3
+2012,4,Prince George's Plaza,AM Peak,2135.9
+2012,5,Prince George's Plaza,AM Peak,2173.2
+2012,6,Prince George's Plaza,AM Peak,2267.3
+2012,7,Prince George's Plaza,AM Peak,2171.5
+2012,8,Prince George's Plaza,AM Peak,2079.8
+2012,9,Prince George's Plaza,AM Peak,2228.8
+2012,10,Prince George's Plaza,AM Peak,2238.2
+2012,11,Prince George's Plaza,AM Peak,2125.9
+2012,12,Prince George's Plaza,AM Peak,1865.3
+2013,1,Prince George's Plaza,AM Peak,2049
+2013,2,Prince George's Plaza,AM Peak,1994.9
+2013,3,Prince George's Plaza,AM Peak,1933.8
+2013,4,Prince George's Plaza,AM Peak,2145.9
+2013,5,Prince George's Plaza,AM Peak,2201.5
+2013,6,Prince George's Plaza,AM Peak,2298.9
+2013,7,Prince George's Plaza,AM Peak,2236
+2013,8,Prince George's Plaza,AM Peak,2171.9
+2013,9,Prince George's Plaza,AM Peak,2347.4
+2013,10,Prince George's Plaza,AM Peak,2129.9
+2013,11,Prince George's Plaza,AM Peak,2201.6
+2013,12,Prince George's Plaza,AM Peak,1861.8
+2014,1,Prince George's Plaza,AM Peak,1939
+2014,2,Prince George's Plaza,AM Peak,2034.5
+2014,3,Prince George's Plaza,AM Peak,2056.8
+2014,4,Prince George's Plaza,AM Peak,2250.2
+2014,5,Prince George's Plaza,AM Peak,2261.2
+2014,6,Prince George's Plaza,AM Peak,2373.7
+2014,7,Prince George's Plaza,AM Peak,2377.4
+2014,8,Prince George's Plaza,AM Peak,2253.8
+2014,9,Prince George's Plaza,AM Peak,2432.3
+2014,10,Prince George's Plaza,AM Peak,2403.7
+2014,11,Prince George's Plaza,AM Peak,2257
+2014,12,Prince George's Plaza,AM Peak,1991.6
+2010,9,Reagan Washington National Airport,AM Peak,768.9
+2010,10,Reagan Washington National Airport,AM Peak,805.4
+2010,11,Reagan Washington National Airport,AM Peak,779.8
+2010,12,Reagan Washington National Airport,AM Peak,618.1
+2011,1,Reagan Washington National Airport,AM Peak,604.6
+2011,2,Reagan Washington National Airport,AM Peak,628.5
+2011,3,Reagan Washington National Airport,AM Peak,721.9
+2011,4,Reagan Washington National Airport,AM Peak,766.4
+2011,5,Reagan Washington National Airport,AM Peak,852.5
+2011,6,Reagan Washington National Airport,AM Peak,805.8
+2011,7,Reagan Washington National Airport,AM Peak,798.9
+2011,8,Reagan Washington National Airport,AM Peak,790.7
+2011,9,Reagan Washington National Airport,AM Peak,743.8
+2011,10,Reagan Washington National Airport,AM Peak,792.6
+2011,11,Reagan Washington National Airport,AM Peak,755.8
+2011,12,Reagan Washington National Airport,AM Peak,597.3
+2012,1,Reagan Washington National Airport,AM Peak,636.4
+2012,2,Reagan Washington National Airport,AM Peak,633
+2012,3,Reagan Washington National Airport,AM Peak,686.4
+2012,4,Reagan Washington National Airport,AM Peak,735.9
+2012,5,Reagan Washington National Airport,AM Peak,760.3
+2012,6,Reagan Washington National Airport,AM Peak,802.8
+2012,7,Reagan Washington National Airport,AM Peak,830.8
+2012,8,Reagan Washington National Airport,AM Peak,741.2
+2012,9,Reagan Washington National Airport,AM Peak,803.4
+2012,10,Reagan Washington National Airport,AM Peak,839.3
+2012,11,Reagan Washington National Airport,AM Peak,760.5
+2012,12,Reagan Washington National Airport,AM Peak,597.2
+2013,1,Reagan Washington National Airport,AM Peak,665.1
+2013,2,Reagan Washington National Airport,AM Peak,694.9
+2013,3,Reagan Washington National Airport,AM Peak,759.4
+2013,4,Reagan Washington National Airport,AM Peak,862
+2013,5,Reagan Washington National Airport,AM Peak,839.4
+2013,6,Reagan Washington National Airport,AM Peak,848.3
+2013,7,Reagan Washington National Airport,AM Peak,841
+2013,8,Reagan Washington National Airport,AM Peak,777.4
+2013,9,Reagan Washington National Airport,AM Peak,822.9
+2013,10,Reagan Washington National Airport,AM Peak,714.7
+2013,11,Reagan Washington National Airport,AM Peak,704.8
+2013,12,Reagan Washington National Airport,AM Peak,683.9
+2014,1,Reagan Washington National Airport,AM Peak,575.6
+2014,2,Reagan Washington National Airport,AM Peak,640.6
+2014,3,Reagan Washington National Airport,AM Peak,732.1
+2014,4,Reagan Washington National Airport,AM Peak,837.7
+2014,5,Reagan Washington National Airport,AM Peak,829.4
+2014,6,Reagan Washington National Airport,AM Peak,851.7
+2014,7,Reagan Washington National Airport,AM Peak,838.2
+2014,8,Reagan Washington National Airport,AM Peak,793.6
+2014,9,Reagan Washington National Airport,AM Peak,807.4
+2014,10,Reagan Washington National Airport,AM Peak,790
+2014,11,Reagan Washington National Airport,AM Peak,735.1
+2014,12,Reagan Washington National Airport,AM Peak,715.6
+2010,9,Rhode Island Avenue,AM Peak,2162.1
+2010,10,Rhode Island Avenue,AM Peak,2084.4
+2010,11,Rhode Island Avenue,AM Peak,2013.9
+2010,12,Rhode Island Avenue,AM Peak,1774.8
+2011,1,Rhode Island Avenue,AM Peak,1834.2
+2011,2,Rhode Island Avenue,AM Peak,1983.6
+2011,3,Rhode Island Avenue,AM Peak,2091.2
+2011,4,Rhode Island Avenue,AM Peak,2024
+2011,5,Rhode Island Avenue,AM Peak,2115.1
+2011,6,Rhode Island Avenue,AM Peak,2080.1
+2011,7,Rhode Island Avenue,AM Peak,2057.9
+2011,8,Rhode Island Avenue,AM Peak,1981.4
+2011,9,Rhode Island Avenue,AM Peak,2242
+2011,10,Rhode Island Avenue,AM Peak,2274.9
+2011,11,Rhode Island Avenue,AM Peak,2184.9
+2011,12,Rhode Island Avenue,AM Peak,1995.8
+2012,1,Rhode Island Avenue,AM Peak,2185.3
+2012,2,Rhode Island Avenue,AM Peak,2363.8
+2012,3,Rhode Island Avenue,AM Peak,2383.6
+2012,4,Rhode Island Avenue,AM Peak,2296.6
+2012,5,Rhode Island Avenue,AM Peak,2410.9
+2012,6,Rhode Island Avenue,AM Peak,2418
+2012,7,Rhode Island Avenue,AM Peak,2345.1
+2012,8,Rhode Island Avenue,AM Peak,2290.4
+2012,9,Rhode Island Avenue,AM Peak,2648.5
+2012,10,Rhode Island Avenue,AM Peak,2630
+2012,11,Rhode Island Avenue,AM Peak,2455.3
+2012,12,Rhode Island Avenue,AM Peak,2250.1
+2013,1,Rhode Island Avenue,AM Peak,2498.5
+2013,2,Rhode Island Avenue,AM Peak,2641.2
+2013,3,Rhode Island Avenue,AM Peak,2511.1
+2013,4,Rhode Island Avenue,AM Peak,2592.8
+2013,5,Rhode Island Avenue,AM Peak,2638.5
+2013,6,Rhode Island Avenue,AM Peak,2530.6
+2013,7,Rhode Island Avenue,AM Peak,2494
+2013,8,Rhode Island Avenue,AM Peak,2305
+2013,9,Rhode Island Avenue,AM Peak,2661.3
+2013,10,Rhode Island Avenue,AM Peak,2430
+2013,11,Rhode Island Avenue,AM Peak,2426.1
+2013,12,Rhode Island Avenue,AM Peak,2091.8
+2014,1,Rhode Island Avenue,AM Peak,2228.4
+2014,2,Rhode Island Avenue,AM Peak,2362.5
+2014,3,Rhode Island Avenue,AM Peak,2342.8
+2014,4,Rhode Island Avenue,AM Peak,2529.1
+2014,5,Rhode Island Avenue,AM Peak,2569
+2014,6,Rhode Island Avenue,AM Peak,2571.2
+2014,7,Rhode Island Avenue,AM Peak,2508.7
+2014,8,Rhode Island Avenue,AM Peak,2378.2
+2014,9,Rhode Island Avenue,AM Peak,2686.8
+2014,10,Rhode Island Avenue,AM Peak,2650.9
+2014,11,Rhode Island Avenue,AM Peak,2474.4
+2014,12,Rhode Island Avenue,AM Peak,2246.7
+2010,9,Rockville,AM Peak,2429.9
+2010,10,Rockville,AM Peak,2430.7
+2010,11,Rockville,AM Peak,2316.8
+2010,12,Rockville,AM Peak,2082
+2011,1,Rockville,AM Peak,2223.5
+2011,2,Rockville,AM Peak,2346
+2011,3,Rockville,AM Peak,2410.7
+2011,4,Rockville,AM Peak,2380.1
+2011,5,Rockville,AM Peak,2436.3
+2011,6,Rockville,AM Peak,2477.8
+2011,7,Rockville,AM Peak,2467.5
+2011,8,Rockville,AM Peak,2343.2
+2011,9,Rockville,AM Peak,2425.2
+2011,10,Rockville,AM Peak,2477.9
+2011,11,Rockville,AM Peak,2391.1
+2011,12,Rockville,AM Peak,2156.1
+2012,1,Rockville,AM Peak,2388.2
+2012,2,Rockville,AM Peak,2422.6
+2012,3,Rockville,AM Peak,2426.1
+2012,4,Rockville,AM Peak,2395.6
+2012,5,Rockville,AM Peak,2401.5
+2012,6,Rockville,AM Peak,2512.9
+2012,7,Rockville,AM Peak,2392.7
+2012,8,Rockville,AM Peak,2292
+2012,9,Rockville,AM Peak,2432.1
+2012,10,Rockville,AM Peak,2279.1
+2012,11,Rockville,AM Peak,2260.2
+2012,12,Rockville,AM Peak,2003
+2013,1,Rockville,AM Peak,2287
+2013,2,Rockville,AM Peak,2401.5
+2013,3,Rockville,AM Peak,2252.1
+2013,4,Rockville,AM Peak,2419.3
+2013,5,Rockville,AM Peak,2427.3
+2013,6,Rockville,AM Peak,2474.8
+2013,7,Rockville,AM Peak,2356.5
+2013,8,Rockville,AM Peak,2281.1
+2013,9,Rockville,AM Peak,2447.6
+2013,10,Rockville,AM Peak,2225.6
+2013,11,Rockville,AM Peak,2257.5
+2013,12,Rockville,AM Peak,1915.9
+2014,1,Rockville,AM Peak,2057.5
+2014,2,Rockville,AM Peak,2074.7
+2014,3,Rockville,AM Peak,2058.5
+2014,4,Rockville,AM Peak,2280.3
+2014,5,Rockville,AM Peak,2258.8
+2014,6,Rockville,AM Peak,2354.4
+2014,7,Rockville,AM Peak,2287.8
+2014,8,Rockville,AM Peak,2146.6
+2014,9,Rockville,AM Peak,2252.4
+2014,10,Rockville,AM Peak,2255
+2014,11,Rockville,AM Peak,2119.4
+2014,12,Rockville,AM Peak,1898
+2010,9,Rosslyn,AM Peak,4631.9
+2010,10,Rosslyn,AM Peak,4715.1
+2010,11,Rosslyn,AM Peak,3514.4
+2010,12,Rosslyn,AM Peak,3795.5
+2011,1,Rosslyn,AM Peak,4336.1
+2011,2,Rosslyn,AM Peak,4626.5
+2011,3,Rosslyn,AM Peak,4827.1
+2011,4,Rosslyn,AM Peak,4712.6
+2011,5,Rosslyn,AM Peak,4732.4
+2011,6,Rosslyn,AM Peak,5194.5
+2011,7,Rosslyn,AM Peak,5051.1
+2011,8,Rosslyn,AM Peak,4346.7
+2011,9,Rosslyn,AM Peak,4503
+2011,10,Rosslyn,AM Peak,4636.3
+2011,11,Rosslyn,AM Peak,4429.3
+2011,12,Rosslyn,AM Peak,3751.2
+2012,1,Rosslyn,AM Peak,4382.1
+2012,2,Rosslyn,AM Peak,4562
+2012,3,Rosslyn,AM Peak,4736.8
+2012,4,Rosslyn,AM Peak,4593.6
+2012,5,Rosslyn,AM Peak,4517.4
+2012,6,Rosslyn,AM Peak,4883.4
+2012,7,Rosslyn,AM Peak,4632
+2012,8,Rosslyn,AM Peak,4085.9
+2012,9,Rosslyn,AM Peak,4411.6
+2012,10,Rosslyn,AM Peak,4399.2
+2012,11,Rosslyn,AM Peak,4100.2
+2012,12,Rosslyn,AM Peak,3430.7
+2013,1,Rosslyn,AM Peak,4060.4
+2013,2,Rosslyn,AM Peak,4303.9
+2013,3,Rosslyn,AM Peak,4236.9
+2013,4,Rosslyn,AM Peak,4508.2
+2013,5,Rosslyn,AM Peak,4247.9
+2013,6,Rosslyn,AM Peak,4653.7
+2013,7,Rosslyn,AM Peak,4459.2
+2013,8,Rosslyn,AM Peak,4036.2
+2013,9,Rosslyn,AM Peak,4371.8
+2013,10,Rosslyn,AM Peak,4047.4
+2013,11,Rosslyn,AM Peak,4226.2
+2013,12,Rosslyn,AM Peak,3287.9
+2014,1,Rosslyn,AM Peak,3940.6
+2014,2,Rosslyn,AM Peak,4114.8
+2014,3,Rosslyn,AM Peak,4180.8
+2014,4,Rosslyn,AM Peak,4442
+2014,5,Rosslyn,AM Peak,4326.2
+2014,6,Rosslyn,AM Peak,4692.9
+2014,7,Rosslyn,AM Peak,4568.4
+2014,8,Rosslyn,AM Peak,4164.1
+2014,9,Rosslyn,AM Peak,4397.7
+2014,10,Rosslyn,AM Peak,4388.7
+2014,11,Rosslyn,AM Peak,4132.2
+2014,12,Rosslyn,AM Peak,3350.4
+2010,9,Shady Grove,AM Peak,9847.1
+2010,10,Shady Grove,AM Peak,10008.8
+2010,11,Shady Grove,AM Peak,9439.1
+2010,12,Shady Grove,AM Peak,8612.9
+2011,1,Shady Grove,AM Peak,9115.6
+2011,2,Shady Grove,AM Peak,9645.1
+2011,3,Shady Grove,AM Peak,9999.1
+2011,4,Shady Grove,AM Peak,9717
+2011,5,Shady Grove,AM Peak,9918
+2011,6,Shady Grove,AM Peak,10068.5
+2011,7,Shady Grove,AM Peak,9745.6
+2011,8,Shady Grove,AM Peak,9432.9
+2011,9,Shady Grove,AM Peak,10011
+2011,10,Shady Grove,AM Peak,10202.4
+2011,11,Shady Grove,AM Peak,9901.1
+2011,12,Shady Grove,AM Peak,8879.2
+2012,1,Shady Grove,AM Peak,9691.5
+2012,2,Shady Grove,AM Peak,9853.4
+2012,3,Shady Grove,AM Peak,9719.7
+2012,4,Shady Grove,AM Peak,9515.2
+2012,5,Shady Grove,AM Peak,9681.8
+2012,6,Shady Grove,AM Peak,9859.3
+2012,7,Shady Grove,AM Peak,9490
+2012,8,Shady Grove,AM Peak,8987.5
+2012,9,Shady Grove,AM Peak,9365.1
+2012,10,Shady Grove,AM Peak,9107
+2012,11,Shady Grove,AM Peak,8754.7
+2012,12,Shady Grove,AM Peak,7952.1
+2013,1,Shady Grove,AM Peak,8968
+2013,2,Shady Grove,AM Peak,9380.9
+2013,3,Shady Grove,AM Peak,8852
+2013,4,Shady Grove,AM Peak,9575.9
+2013,5,Shady Grove,AM Peak,9406.5
+2013,6,Shady Grove,AM Peak,9734
+2013,7,Shady Grove,AM Peak,9338.3
+2013,8,Shady Grove,AM Peak,8926.3
+2013,9,Shady Grove,AM Peak,9561.9
+2013,10,Shady Grove,AM Peak,8616
+2013,11,Shady Grove,AM Peak,8878.6
+2013,12,Shady Grove,AM Peak,7572.6
+2014,1,Shady Grove,AM Peak,8171.7
+2014,2,Shady Grove,AM Peak,8237.9
+2014,3,Shady Grove,AM Peak,8224.2
+2014,4,Shady Grove,AM Peak,9120.7
+2014,5,Shady Grove,AM Peak,9012
+2014,6,Shady Grove,AM Peak,9317
+2014,7,Shady Grove,AM Peak,8907.8
+2014,8,Shady Grove,AM Peak,8398
+2014,9,Shady Grove,AM Peak,8851.6
+2014,10,Shady Grove,AM Peak,8731
+2014,11,Shady Grove,AM Peak,8210.9
+2014,12,Shady Grove,AM Peak,7446.2
+2010,9,Shaw-Howard University,AM Peak,1194.6
+2010,10,Shaw-Howard University,AM Peak,1202.6
+2010,11,Shaw-Howard University,AM Peak,1190.1
+2010,12,Shaw-Howard University,AM Peak,1098.3
+2011,1,Shaw-Howard University,AM Peak,1240.5
+2011,2,Shaw-Howard University,AM Peak,1289.9
+2011,3,Shaw-Howard University,AM Peak,1332.7
+2011,4,Shaw-Howard University,AM Peak,1257.2
+2011,5,Shaw-Howard University,AM Peak,1266.9
+2011,6,Shaw-Howard University,AM Peak,1287.8
+2011,7,Shaw-Howard University,AM Peak,1292.3
+2011,8,Shaw-Howard University,AM Peak,1201
+2011,9,Shaw-Howard University,AM Peak,1334.8
+2011,10,Shaw-Howard University,AM Peak,1347.2
+2011,11,Shaw-Howard University,AM Peak,1357.8
+2011,12,Shaw-Howard University,AM Peak,1208.8
+2012,1,Shaw-Howard University,AM Peak,1379.4
+2012,2,Shaw-Howard University,AM Peak,1395.6
+2012,3,Shaw-Howard University,AM Peak,1391.7
+2012,4,Shaw-Howard University,AM Peak,1331.6
+2012,5,Shaw-Howard University,AM Peak,1329.2
+2012,6,Shaw-Howard University,AM Peak,1377.3
+2012,7,Shaw-Howard University,AM Peak,1366.7
+2012,8,Shaw-Howard University,AM Peak,1266.1
+2012,9,Shaw-Howard University,AM Peak,1426
+2012,10,Shaw-Howard University,AM Peak,1430.8
+2012,11,Shaw-Howard University,AM Peak,1394
+2012,12,Shaw-Howard University,AM Peak,1218.7
+2013,1,Shaw-Howard University,AM Peak,1447.2
+2013,2,Shaw-Howard University,AM Peak,1531.5
+2013,3,Shaw-Howard University,AM Peak,1484
+2013,4,Shaw-Howard University,AM Peak,1450
+2013,5,Shaw-Howard University,AM Peak,1412.5
+2013,6,Shaw-Howard University,AM Peak,1456.6
+2013,7,Shaw-Howard University,AM Peak,1383.9
+2013,8,Shaw-Howard University,AM Peak,1314.9
+2013,9,Shaw-Howard University,AM Peak,1489.1
+2013,10,Shaw-Howard University,AM Peak,1400.1
+2013,11,Shaw-Howard University,AM Peak,1447.5
+2013,12,Shaw-Howard University,AM Peak,1224.9
+2014,1,Shaw-Howard University,AM Peak,1445.9
+2014,2,Shaw-Howard University,AM Peak,1557.1
+2014,3,Shaw-Howard University,AM Peak,1558
+2014,4,Shaw-Howard University,AM Peak,1599
+2014,5,Shaw-Howard University,AM Peak,1550.8
+2014,6,Shaw-Howard University,AM Peak,1546.2
+2014,7,Shaw-Howard University,AM Peak,1522.6
+2014,8,Shaw-Howard University,AM Peak,1423
+2014,9,Shaw-Howard University,AM Peak,1626.1
+2014,10,Shaw-Howard University,AM Peak,1603.4
+2014,11,Shaw-Howard University,AM Peak,1570.3
+2014,12,Shaw-Howard University,AM Peak,1385.7
+2010,9,Silver Spring,AM Peak,5985.6
+2010,10,Silver Spring,AM Peak,6044.1
+2010,11,Silver Spring,AM Peak,5731
+2010,12,Silver Spring,AM Peak,5074.3
+2011,1,Silver Spring,AM Peak,5601.8
+2011,2,Silver Spring,AM Peak,6009.5
+2011,3,Silver Spring,AM Peak,6132
+2011,4,Silver Spring,AM Peak,5946.4
+2011,5,Silver Spring,AM Peak,6040.3
+2011,6,Silver Spring,AM Peak,6181
+2011,7,Silver Spring,AM Peak,5942.9
+2011,8,Silver Spring,AM Peak,5685.3
+2011,9,Silver Spring,AM Peak,6173.7
+2011,10,Silver Spring,AM Peak,6234.6
+2011,11,Silver Spring,AM Peak,5988.5
+2011,12,Silver Spring,AM Peak,5307.7
+2012,1,Silver Spring,AM Peak,5979.8
+2012,2,Silver Spring,AM Peak,6086.9
+2012,3,Silver Spring,AM Peak,6093.9
+2012,4,Silver Spring,AM Peak,6023.7
+2012,5,Silver Spring,AM Peak,6062.6
+2012,6,Silver Spring,AM Peak,6241
+2012,7,Silver Spring,AM Peak,5950.1
+2012,8,Silver Spring,AM Peak,5634.3
+2012,9,Silver Spring,AM Peak,6241
+2012,10,Silver Spring,AM Peak,6267.6
+2012,11,Silver Spring,AM Peak,5848.7
+2012,12,Silver Spring,AM Peak,5036.8
+2013,1,Silver Spring,AM Peak,5859.9
+2013,2,Silver Spring,AM Peak,6229.5
+2013,3,Silver Spring,AM Peak,5883.6
+2013,4,Silver Spring,AM Peak,6257.4
+2013,5,Silver Spring,AM Peak,6047.3
+2013,6,Silver Spring,AM Peak,6265
+2013,7,Silver Spring,AM Peak,5936.1
+2013,8,Silver Spring,AM Peak,5658.7
+2013,9,Silver Spring,AM Peak,6214.3
+2013,10,Silver Spring,AM Peak,5661.6
+2013,11,Silver Spring,AM Peak,5752.8
+2013,12,Silver Spring,AM Peak,4738
+2014,1,Silver Spring,AM Peak,5305.6
+2014,2,Silver Spring,AM Peak,5399.9
+2014,3,Silver Spring,AM Peak,5469.9
+2014,4,Silver Spring,AM Peak,5918.4
+2014,5,Silver Spring,AM Peak,6038.5
+2014,6,Silver Spring,AM Peak,6151.8
+2014,7,Silver Spring,AM Peak,6038.3
+2014,8,Silver Spring,AM Peak,5662.9
+2014,9,Silver Spring,AM Peak,6179.3
+2014,10,Silver Spring,AM Peak,6060.9
+2014,11,Silver Spring,AM Peak,5745.4
+2014,12,Silver Spring,AM Peak,5006.4
+2010,9,Smithsonian,AM Peak,332.5
+2010,10,Smithsonian,AM Peak,344.8
+2010,11,Smithsonian,AM Peak,309.4
+2010,12,Smithsonian,AM Peak,290.6
+2011,1,Smithsonian,AM Peak,305.5
+2011,2,Smithsonian,AM Peak,340.1
+2011,3,Smithsonian,AM Peak,369.3
+2011,4,Smithsonian,AM Peak,389.8
+2011,5,Smithsonian,AM Peak,347.1
+2011,6,Smithsonian,AM Peak,436.5
+2011,7,Smithsonian,AM Peak,424.6
+2011,8,Smithsonian,AM Peak,383.7
+2011,9,Smithsonian,AM Peak,337.2
+2011,10,Smithsonian,AM Peak,346.6
+2011,11,Smithsonian,AM Peak,324.7
+2011,12,Smithsonian,AM Peak,281.6
+2012,1,Smithsonian,AM Peak,314.3
+2012,2,Smithsonian,AM Peak,330.9
+2012,3,Smithsonian,AM Peak,362.9
+2012,4,Smithsonian,AM Peak,401.6
+2012,5,Smithsonian,AM Peak,317.4
+2012,6,Smithsonian,AM Peak,366.6
+2012,7,Smithsonian,AM Peak,369.5
+2012,8,Smithsonian,AM Peak,321.5
+2012,9,Smithsonian,AM Peak,306.8
+2012,10,Smithsonian,AM Peak,300.1
+2012,11,Smithsonian,AM Peak,274.4
+2012,12,Smithsonian,AM Peak,247.5
+2013,1,Smithsonian,AM Peak,271.7
+2013,2,Smithsonian,AM Peak,296.7
+2013,3,Smithsonian,AM Peak,303.9
+2013,4,Smithsonian,AM Peak,375.7
+2013,5,Smithsonian,AM Peak,304.7
+2013,6,Smithsonian,AM Peak,331.7
+2013,7,Smithsonian,AM Peak,350.9
+2013,8,Smithsonian,AM Peak,302.5
+2013,9,Smithsonian,AM Peak,290.1
+2013,10,Smithsonian,AM Peak,223.2
+2013,11,Smithsonian,AM Peak,271.7
+2013,12,Smithsonian,AM Peak,220.7
+2014,1,Smithsonian,AM Peak,239.1
+2014,2,Smithsonian,AM Peak,248.7
+2014,3,Smithsonian,AM Peak,257.9
+2014,4,Smithsonian,AM Peak,346
+2014,5,Smithsonian,AM Peak,281.4
+2014,6,Smithsonian,AM Peak,310.4
+2014,7,Smithsonian,AM Peak,338.8
+2014,8,Smithsonian,AM Peak,299.6
+2014,9,Smithsonian,AM Peak,283
+2014,10,Smithsonian,AM Peak,293.5
+2014,11,Smithsonian,AM Peak,256.2
+2014,12,Smithsonian,AM Peak,226.1
+2010,9,Southern Avenue,AM Peak,3937.6
+2010,10,Southern Avenue,AM Peak,3939.8
+2010,11,Southern Avenue,AM Peak,3793.2
+2010,12,Southern Avenue,AM Peak,3420.2
+2011,1,Southern Avenue,AM Peak,3531.5
+2011,2,Southern Avenue,AM Peak,3826.5
+2011,3,Southern Avenue,AM Peak,3830.3
+2011,4,Southern Avenue,AM Peak,3718.6
+2011,5,Southern Avenue,AM Peak,3791.5
+2011,6,Southern Avenue,AM Peak,3785.4
+2011,7,Southern Avenue,AM Peak,3748.1
+2011,8,Southern Avenue,AM Peak,3648.8
+2011,9,Southern Avenue,AM Peak,3969.7
+2011,10,Southern Avenue,AM Peak,4022.4
+2011,11,Southern Avenue,AM Peak,3849.9
+2011,12,Southern Avenue,AM Peak,3493.6
+2012,1,Southern Avenue,AM Peak,3762.4
+2012,2,Southern Avenue,AM Peak,3870.2
+2012,3,Southern Avenue,AM Peak,3844.7
+2012,4,Southern Avenue,AM Peak,3744
+2012,5,Southern Avenue,AM Peak,3844.4
+2012,6,Southern Avenue,AM Peak,3717.4
+2012,7,Southern Avenue,AM Peak,3535.6
+2012,8,Southern Avenue,AM Peak,3449.2
+2012,9,Southern Avenue,AM Peak,3769.6
+2012,10,Southern Avenue,AM Peak,3819
+2012,11,Southern Avenue,AM Peak,3586.2
+2012,12,Southern Avenue,AM Peak,3236.9
+2013,1,Southern Avenue,AM Peak,3482.6
+2013,2,Southern Avenue,AM Peak,3689.6
+2013,3,Southern Avenue,AM Peak,3484.7
+2013,4,Southern Avenue,AM Peak,3635
+2013,5,Southern Avenue,AM Peak,3651.3
+2013,6,Southern Avenue,AM Peak,3551.9
+2013,7,Southern Avenue,AM Peak,3456
+2013,8,Southern Avenue,AM Peak,3372.4
+2013,9,Southern Avenue,AM Peak,3679.8
+2013,10,Southern Avenue,AM Peak,3272.4
+2013,11,Southern Avenue,AM Peak,3426.3
+2013,12,Southern Avenue,AM Peak,2955.1
+2014,1,Southern Avenue,AM Peak,2974.9
+2014,2,Southern Avenue,AM Peak,3135.3
+2014,3,Southern Avenue,AM Peak,3045.8
+2014,4,Southern Avenue,AM Peak,3379.5
+2014,5,Southern Avenue,AM Peak,3435.9
+2014,6,Southern Avenue,AM Peak,3361.6
+2014,7,Southern Avenue,AM Peak,3318.7
+2014,8,Southern Avenue,AM Peak,2974.1
+2014,9,Southern Avenue,AM Peak,3427.8
+2014,10,Southern Avenue,AM Peak,3382
+2014,11,Southern Avenue,AM Peak,3175.6
+2014,12,Southern Avenue,AM Peak,2870.7
+2013,11,Spring Hill,AM Peak,6.5
+2014,6,Spring Hill,AM Peak,1.7
+2014,7,Spring Hill,AM Peak,215
+2014,8,Spring Hill,AM Peak,444.3
+2014,9,Spring Hill,AM Peak,485.6
+2014,10,Spring Hill,AM Peak,493.1
+2014,11,Spring Hill,AM Peak,479.3
+2014,12,Spring Hill,AM Peak,385.4
+2010,9,Stadium-Armory,AM Peak,1144
+2010,10,Stadium-Armory,AM Peak,1147.1
+2010,11,Stadium-Armory,AM Peak,1100.7
+2010,12,Stadium-Armory,AM Peak,961.7
+2011,1,Stadium-Armory,AM Peak,1088.4
+2011,2,Stadium-Armory,AM Peak,1144.4
+2011,3,Stadium-Armory,AM Peak,1147.1
+2011,4,Stadium-Armory,AM Peak,1016
+2011,5,Stadium-Armory,AM Peak,1111.9
+2011,6,Stadium-Armory,AM Peak,1085.9
+2011,7,Stadium-Armory,AM Peak,1063.9
+2011,8,Stadium-Armory,AM Peak,985.3
+2011,9,Stadium-Armory,AM Peak,1090.6
+2011,10,Stadium-Armory,AM Peak,1118.6
+2011,11,Stadium-Armory,AM Peak,1125.5
+2011,12,Stadium-Armory,AM Peak,994.9
+2012,1,Stadium-Armory,AM Peak,1171.1
+2012,2,Stadium-Armory,AM Peak,1201.4
+2012,3,Stadium-Armory,AM Peak,1180
+2012,4,Stadium-Armory,AM Peak,1107.3
+2012,5,Stadium-Armory,AM Peak,1163.2
+2012,6,Stadium-Armory,AM Peak,1119.5
+2012,7,Stadium-Armory,AM Peak,1067.6
+2012,8,Stadium-Armory,AM Peak,997.3
+2012,9,Stadium-Armory,AM Peak,1116.2
+2012,10,Stadium-Armory,AM Peak,1130.6
+2012,11,Stadium-Armory,AM Peak,1111.9
+2012,12,Stadium-Armory,AM Peak,993.7
+2013,1,Stadium-Armory,AM Peak,1179.3
+2013,2,Stadium-Armory,AM Peak,1197.1
+2013,3,Stadium-Armory,AM Peak,1136.3
+2013,4,Stadium-Armory,AM Peak,1153.9
+2013,5,Stadium-Armory,AM Peak,1160
+2013,6,Stadium-Armory,AM Peak,1144.4
+2013,7,Stadium-Armory,AM Peak,1135.4
+2013,8,Stadium-Armory,AM Peak,1073.5
+2013,9,Stadium-Armory,AM Peak,1215.1
+2013,10,Stadium-Armory,AM Peak,1139.4
+2013,11,Stadium-Armory,AM Peak,1187.8
+2013,12,Stadium-Armory,AM Peak,1015.6
+2014,1,Stadium-Armory,AM Peak,1152.7
+2014,2,Stadium-Armory,AM Peak,1195.4
+2014,3,Stadium-Armory,AM Peak,1197.7
+2014,4,Stadium-Armory,AM Peak,1224.3
+2014,5,Stadium-Armory,AM Peak,1211.1
+2014,6,Stadium-Armory,AM Peak,1192.9
+2014,7,Stadium-Armory,AM Peak,1203.2
+2014,8,Stadium-Armory,AM Peak,1110.1
+2014,9,Stadium-Armory,AM Peak,1230.1
+2014,10,Stadium-Armory,AM Peak,1219
+2014,11,Stadium-Armory,AM Peak,1166.7
+2014,12,Stadium-Armory,AM Peak,1049.9
+2010,9,Suitland,AM Peak,3988.9
+2010,10,Suitland,AM Peak,3977.6
+2010,11,Suitland,AM Peak,3701.5
+2010,12,Suitland,AM Peak,3365.1
+2011,1,Suitland,AM Peak,3495
+2011,2,Suitland,AM Peak,3703.7
+2011,3,Suitland,AM Peak,3736.5
+2011,4,Suitland,AM Peak,3617.2
+2011,5,Suitland,AM Peak,3718.6
+2011,6,Suitland,AM Peak,3737.5
+2011,7,Suitland,AM Peak,3685.7
+2011,8,Suitland,AM Peak,3556.4
+2011,9,Suitland,AM Peak,3767.9
+2011,10,Suitland,AM Peak,3801.6
+2011,11,Suitland,AM Peak,3652.4
+2011,12,Suitland,AM Peak,3293.4
+2012,1,Suitland,AM Peak,3580.9
+2012,2,Suitland,AM Peak,3613.7
+2012,3,Suitland,AM Peak,3652.8
+2012,4,Suitland,AM Peak,3576.7
+2012,5,Suitland,AM Peak,3644.3
+2012,6,Suitland,AM Peak,3612.3
+2012,7,Suitland,AM Peak,3527.6
+2012,8,Suitland,AM Peak,3450.7
+2012,9,Suitland,AM Peak,3616.8
+2012,10,Suitland,AM Peak,3607.2
+2012,11,Suitland,AM Peak,3340
+2012,12,Suitland,AM Peak,3052.5
+2013,1,Suitland,AM Peak,3326.2
+2013,2,Suitland,AM Peak,3471.5
+2013,3,Suitland,AM Peak,3253.8
+2013,4,Suitland,AM Peak,3416.3
+2013,5,Suitland,AM Peak,3448
+2013,6,Suitland,AM Peak,3452.9
+2013,7,Suitland,AM Peak,3347.3
+2013,8,Suitland,AM Peak,3298.1
+2013,9,Suitland,AM Peak,3554.5
+2013,10,Suitland,AM Peak,3179.9
+2013,11,Suitland,AM Peak,3325.3
+2013,12,Suitland,AM Peak,2910
+2014,1,Suitland,AM Peak,2962.2
+2014,2,Suitland,AM Peak,3076.8
+2014,3,Suitland,AM Peak,2986.5
+2014,4,Suitland,AM Peak,3266.1
+2014,5,Suitland,AM Peak,3258.7
+2014,6,Suitland,AM Peak,3295.1
+2014,7,Suitland,AM Peak,3197.3
+2014,8,Suitland,AM Peak,3086.9
+2014,9,Suitland,AM Peak,3295
+2014,10,Suitland,AM Peak,3250.2
+2014,11,Suitland,AM Peak,3036.3
+2014,12,Suitland,AM Peak,2790.5
+2010,9,Takoma,AM Peak,3340.5
+2010,10,Takoma,AM Peak,3293.7
+2010,11,Takoma,AM Peak,3151.1
+2010,12,Takoma,AM Peak,2789
+2011,1,Takoma,AM Peak,3074.3
+2011,2,Takoma,AM Peak,3340.5
+2011,3,Takoma,AM Peak,3399.1
+2011,4,Takoma,AM Peak,3311.5
+2011,5,Takoma,AM Peak,3399.7
+2011,6,Takoma,AM Peak,3415.9
+2011,7,Takoma,AM Peak,3302.4
+2011,8,Takoma,AM Peak,3060.7
+2011,9,Takoma,AM Peak,3412.1
+2011,10,Takoma,AM Peak,3500
+2011,11,Takoma,AM Peak,3370.5
+2011,12,Takoma,AM Peak,2955
+2012,1,Takoma,AM Peak,3345.5
+2012,2,Takoma,AM Peak,3470.1
+2012,3,Takoma,AM Peak,3517.8
+2012,4,Takoma,AM Peak,3403.5
+2012,5,Takoma,AM Peak,3449
+2012,6,Takoma,AM Peak,3400
+2012,7,Takoma,AM Peak,3200.1
+2012,8,Takoma,AM Peak,3034.8
+2012,9,Takoma,AM Peak,3388.8
+2012,10,Takoma,AM Peak,3441.2
+2012,11,Takoma,AM Peak,3291.8
+2012,12,Takoma,AM Peak,2821.5
+2013,1,Takoma,AM Peak,3231.4
+2013,2,Takoma,AM Peak,3328.5
+2013,3,Takoma,AM Peak,3234.6
+2013,4,Takoma,AM Peak,3416.8
+2013,5,Takoma,AM Peak,3356.4
+2013,6,Takoma,AM Peak,3369.2
+2013,7,Takoma,AM Peak,3166.5
+2013,8,Takoma,AM Peak,2937.8
+2013,9,Takoma,AM Peak,3368.9
+2013,10,Takoma,AM Peak,3103.6
+2013,11,Takoma,AM Peak,3044.9
+2013,12,Takoma,AM Peak,2524
+2014,1,Takoma,AM Peak,2889.2
+2014,2,Takoma,AM Peak,2991.7
+2014,3,Takoma,AM Peak,2981.3
+2014,4,Takoma,AM Peak,3256.5
+2014,5,Takoma,AM Peak,3214.9
+2014,6,Takoma,AM Peak,3241.2
+2014,7,Takoma,AM Peak,2973.9
+2014,8,Takoma,AM Peak,2823.7
+2014,9,Takoma,AM Peak,3288.7
+2014,10,Takoma,AM Peak,3309.2
+2014,11,Takoma,AM Peak,3110.3
+2014,12,Takoma,AM Peak,2749.9
+2010,9,Tenleytown-AU,AM Peak,1866.1
+2010,10,Tenleytown-AU,AM Peak,1919.5
+2010,11,Tenleytown-AU,AM Peak,1790.7
+2010,12,Tenleytown-AU,AM Peak,1439.6
+2011,1,Tenleytown-AU,AM Peak,1775.9
+2011,2,Tenleytown-AU,AM Peak,1975.3
+2011,3,Tenleytown-AU,AM Peak,1929.6
+2011,4,Tenleytown-AU,AM Peak,1842.8
+2011,5,Tenleytown-AU,AM Peak,1870.5
+2011,6,Tenleytown-AU,AM Peak,2214.5
+2011,7,Tenleytown-AU,AM Peak,2131.9
+2011,8,Tenleytown-AU,AM Peak,1647.2
+2011,9,Tenleytown-AU,AM Peak,1942.8
+2011,10,Tenleytown-AU,AM Peak,2010.4
+2011,11,Tenleytown-AU,AM Peak,1923.1
+2011,12,Tenleytown-AU,AM Peak,1510.3
+2012,1,Tenleytown-AU,AM Peak,1815.6
+2012,2,Tenleytown-AU,AM Peak,2023.5
+2012,3,Tenleytown-AU,AM Peak,1917.5
+2012,4,Tenleytown-AU,AM Peak,1884.8
+2012,5,Tenleytown-AU,AM Peak,1881.5
+2012,6,Tenleytown-AU,AM Peak,2259.6
+2012,7,Tenleytown-AU,AM Peak,2121.9
+2012,8,Tenleytown-AU,AM Peak,1650.2
+2012,9,Tenleytown-AU,AM Peak,1927
+2012,10,Tenleytown-AU,AM Peak,1994.7
+2012,11,Tenleytown-AU,AM Peak,1859.9
+2012,12,Tenleytown-AU,AM Peak,1458
+2013,1,Tenleytown-AU,AM Peak,1713.7
+2013,2,Tenleytown-AU,AM Peak,1946.6
+2013,3,Tenleytown-AU,AM Peak,1588.1
+2013,4,Tenleytown-AU,AM Peak,1871.3
+2013,5,Tenleytown-AU,AM Peak,1872
+2013,6,Tenleytown-AU,AM Peak,2301.4
+2013,7,Tenleytown-AU,AM Peak,2076.9
+2013,8,Tenleytown-AU,AM Peak,1633.3
+2013,9,Tenleytown-AU,AM Peak,1937.8
+2013,10,Tenleytown-AU,AM Peak,1822.4
+2013,11,Tenleytown-AU,AM Peak,1827.1
+2013,12,Tenleytown-AU,AM Peak,1334
+2014,1,Tenleytown-AU,AM Peak,1601.6
+2014,2,Tenleytown-AU,AM Peak,1767.7
+2014,3,Tenleytown-AU,AM Peak,1667.4
+2014,4,Tenleytown-AU,AM Peak,1781.9
+2014,5,Tenleytown-AU,AM Peak,1797.2
+2014,6,Tenleytown-AU,AM Peak,2283.7
+2014,7,Tenleytown-AU,AM Peak,2118.8
+2014,8,Tenleytown-AU,AM Peak,1576
+2014,9,Tenleytown-AU,AM Peak,1875.3
+2014,10,Tenleytown-AU,AM Peak,1925.9
+2014,11,Tenleytown-AU,AM Peak,1774.9
+2014,12,Tenleytown-AU,AM Peak,1435.7
+2010,9,Twinbrook,AM Peak,2337.1
+2010,10,Twinbrook,AM Peak,2376.3
+2010,11,Twinbrook,AM Peak,2257
+2010,12,Twinbrook,AM Peak,2006.4
+2011,1,Twinbrook,AM Peak,2130.5
+2011,2,Twinbrook,AM Peak,2288.2
+2011,3,Twinbrook,AM Peak,2366.6
+2011,4,Twinbrook,AM Peak,2342.8
+2011,5,Twinbrook,AM Peak,2377.6
+2011,6,Twinbrook,AM Peak,2424
+2011,7,Twinbrook,AM Peak,2274.7
+2011,8,Twinbrook,AM Peak,2209
+2011,9,Twinbrook,AM Peak,2377.5
+2011,10,Twinbrook,AM Peak,2384.7
+2011,11,Twinbrook,AM Peak,2342.8
+2011,12,Twinbrook,AM Peak,2077.1
+2012,1,Twinbrook,AM Peak,2246.3
+2012,2,Twinbrook,AM Peak,2294.6
+2012,3,Twinbrook,AM Peak,2277.2
+2012,4,Twinbrook,AM Peak,2249
+2012,5,Twinbrook,AM Peak,2296
+2012,6,Twinbrook,AM Peak,2336.6
+2012,7,Twinbrook,AM Peak,2214.6
+2012,8,Twinbrook,AM Peak,2113.7
+2012,9,Twinbrook,AM Peak,2253.7
+2012,10,Twinbrook,AM Peak,2278.8
+2012,11,Twinbrook,AM Peak,2165.1
+2012,12,Twinbrook,AM Peak,1876.9
+2013,1,Twinbrook,AM Peak,2137.1
+2013,2,Twinbrook,AM Peak,2262.3
+2013,3,Twinbrook,AM Peak,2194.9
+2013,4,Twinbrook,AM Peak,2355.9
+2013,5,Twinbrook,AM Peak,2340.5
+2013,6,Twinbrook,AM Peak,2434.6
+2013,7,Twinbrook,AM Peak,2296
+2013,8,Twinbrook,AM Peak,2203.1
+2013,9,Twinbrook,AM Peak,2370.4
+2013,10,Twinbrook,AM Peak,2103.5
+2013,11,Twinbrook,AM Peak,2227.6
+2013,12,Twinbrook,AM Peak,1893.7
+2014,1,Twinbrook,AM Peak,2053.1
+2014,2,Twinbrook,AM Peak,2124.4
+2014,3,Twinbrook,AM Peak,2111.1
+2014,4,Twinbrook,AM Peak,2281.8
+2014,5,Twinbrook,AM Peak,2320.9
+2014,6,Twinbrook,AM Peak,2361.5
+2014,7,Twinbrook,AM Peak,2309.3
+2014,8,Twinbrook,AM Peak,2173.8
+2014,9,Twinbrook,AM Peak,2313.7
+2014,10,Twinbrook,AM Peak,2274.2
+2014,11,Twinbrook,AM Peak,2176.9
+2014,12,Twinbrook,AM Peak,1931.6
+2013,11,Tysons Corner,AM Peak,1
+2013,12,Tysons Corner,AM Peak,0
+2014,1,Tysons Corner,AM Peak,1
+2014,6,Tysons Corner,AM Peak,5
+2014,7,Tysons Corner,AM Peak,179.5
+2014,8,Tysons Corner,AM Peak,448.2
+2014,9,Tysons Corner,AM Peak,501.6
+2014,10,Tysons Corner,AM Peak,496.4
+2014,11,Tysons Corner,AM Peak,481.8
+2014,12,Tysons Corner,AM Peak,415.9
+2010,9,U Street-Cardozo,AM Peak,1958
+2010,10,U Street-Cardozo,AM Peak,1955.1
+2010,11,U Street-Cardozo,AM Peak,1910
+2010,12,U Street-Cardozo,AM Peak,1773.3
+2011,1,U Street-Cardozo,AM Peak,2011.6
+2011,2,U Street-Cardozo,AM Peak,2134.3
+2011,3,U Street-Cardozo,AM Peak,2109.3
+2011,4,U Street-Cardozo,AM Peak,1982.2
+2011,5,U Street-Cardozo,AM Peak,1990.3
+2011,6,U Street-Cardozo,AM Peak,2000.5
+2011,7,U Street-Cardozo,AM Peak,1959.3
+2011,8,U Street-Cardozo,AM Peak,1797.3
+2011,9,U Street-Cardozo,AM Peak,1957.4
+2011,10,U Street-Cardozo,AM Peak,2004.8
+2011,11,U Street-Cardozo,AM Peak,1953.2
+2011,12,U Street-Cardozo,AM Peak,1729.8
+2012,1,U Street-Cardozo,AM Peak,2002.1
+2012,2,U Street-Cardozo,AM Peak,2069.1
+2012,3,U Street-Cardozo,AM Peak,1994
+2012,4,U Street-Cardozo,AM Peak,1940.3
+2012,5,U Street-Cardozo,AM Peak,1979.6
+2012,6,U Street-Cardozo,AM Peak,2087.9
+2012,7,U Street-Cardozo,AM Peak,1990.4
+2012,8,U Street-Cardozo,AM Peak,1801.9
+2012,9,U Street-Cardozo,AM Peak,1952.6
+2012,10,U Street-Cardozo,AM Peak,1990.7
+2012,11,U Street-Cardozo,AM Peak,1923.5
+2012,12,U Street-Cardozo,AM Peak,1674.3
+2013,1,U Street-Cardozo,AM Peak,2016.7
+2013,2,U Street-Cardozo,AM Peak,2090.1
+2013,3,U Street-Cardozo,AM Peak,2006.5
+2013,4,U Street-Cardozo,AM Peak,2036.4
+2013,5,U Street-Cardozo,AM Peak,1993
+2013,6,U Street-Cardozo,AM Peak,2056.7
+2013,7,U Street-Cardozo,AM Peak,1980.1
+2013,8,U Street-Cardozo,AM Peak,1844.4
+2013,9,U Street-Cardozo,AM Peak,2034.3
+2013,10,U Street-Cardozo,AM Peak,1956.2
+2013,11,U Street-Cardozo,AM Peak,1990.3
+2013,12,U Street-Cardozo,AM Peak,1691
+2014,1,U Street-Cardozo,AM Peak,2029.8
+2014,2,U Street-Cardozo,AM Peak,2078.6
+2014,3,U Street-Cardozo,AM Peak,2045.2
+2014,4,U Street-Cardozo,AM Peak,2133.5
+2014,5,U Street-Cardozo,AM Peak,2076.9
+2014,6,U Street-Cardozo,AM Peak,2165
+2014,7,U Street-Cardozo,AM Peak,2138
+2014,8,U Street-Cardozo,AM Peak,1938.4
+2014,9,U Street-Cardozo,AM Peak,2138.5
+2014,10,U Street-Cardozo,AM Peak,2144.8
+2014,11,U Street-Cardozo,AM Peak,2060.1
+2014,12,U Street-Cardozo,AM Peak,1770.7
+2010,9,Union Station,AM Peak,9818.1
+2010,10,Union Station,AM Peak,9979.6
+2010,11,Union Station,AM Peak,9338.9
+2010,12,Union Station,AM Peak,8654
+2011,1,Union Station,AM Peak,9616.7
+2011,2,Union Station,AM Peak,10222.1
+2011,3,Union Station,AM Peak,10538.1
+2011,4,Union Station,AM Peak,10094.5
+2011,5,Union Station,AM Peak,10036.7
+2011,6,Union Station,AM Peak,10212.8
+2011,7,Union Station,AM Peak,9846.5
+2011,8,Union Station,AM Peak,9343.2
+2011,9,Union Station,AM Peak,10097.1
+2011,10,Union Station,AM Peak,10320.3
+2011,11,Union Station,AM Peak,10126.6
+2011,12,Union Station,AM Peak,9027.5
+2012,1,Union Station,AM Peak,10396.8
+2012,2,Union Station,AM Peak,10347.9
+2012,3,Union Station,AM Peak,10151.6
+2012,4,Union Station,AM Peak,9851.4
+2012,5,Union Station,AM Peak,9740
+2012,6,Union Station,AM Peak,9533.5
+2012,7,Union Station,AM Peak,9367.9
+2012,8,Union Station,AM Peak,9034.6
+2012,9,Union Station,AM Peak,9461.5
+2012,10,Union Station,AM Peak,9316.9
+2012,11,Union Station,AM Peak,9141.7
+2012,12,Union Station,AM Peak,8107.7
+2013,1,Union Station,AM Peak,9413
+2013,2,Union Station,AM Peak,10086.9
+2013,3,Union Station,AM Peak,9457.6
+2013,4,Union Station,AM Peak,9912.7
+2013,5,Union Station,AM Peak,9348.8
+2013,6,Union Station,AM Peak,9739.1
+2013,7,Union Station,AM Peak,9398
+2013,8,Union Station,AM Peak,9064.7
+2013,9,Union Station,AM Peak,9974.1
+2013,10,Union Station,AM Peak,9110.8
+2013,11,Union Station,AM Peak,9270.2
+2013,12,Union Station,AM Peak,7915.7
+2014,1,Union Station,AM Peak,9067.9
+2014,2,Union Station,AM Peak,9212.7
+2014,3,Union Station,AM Peak,9187.2
+2014,4,Union Station,AM Peak,9912.9
+2014,5,Union Station,AM Peak,9444
+2014,6,Union Station,AM Peak,9899.4
+2014,7,Union Station,AM Peak,9431.9
+2014,8,Union Station,AM Peak,8823
+2014,9,Union Station,AM Peak,9788.1
+2014,10,Union Station,AM Peak,9846.8
+2014,11,Union Station,AM Peak,9298.1
+2014,12,Union Station,AM Peak,8379.3
+2010,9,Van Dorn Street,AM Peak,2399.5
+2010,10,Van Dorn Street,AM Peak,2420.1
+2010,11,Van Dorn Street,AM Peak,2238.8
+2010,12,Van Dorn Street,AM Peak,2015.8
+2011,1,Van Dorn Street,AM Peak,2222.6
+2011,2,Van Dorn Street,AM Peak,2300.7
+2011,3,Van Dorn Street,AM Peak,2345.8
+2011,4,Van Dorn Street,AM Peak,2325.6
+2011,5,Van Dorn Street,AM Peak,2338
+2011,6,Van Dorn Street,AM Peak,2511.3
+2011,7,Van Dorn Street,AM Peak,2452.2
+2011,8,Van Dorn Street,AM Peak,2290.1
+2011,9,Van Dorn Street,AM Peak,2351.3
+2011,10,Van Dorn Street,AM Peak,2416.3
+2011,11,Van Dorn Street,AM Peak,2336.8
+2011,12,Van Dorn Street,AM Peak,2094.6
+2012,1,Van Dorn Street,AM Peak,2288.4
+2012,2,Van Dorn Street,AM Peak,2345.6
+2012,3,Van Dorn Street,AM Peak,2377.7
+2012,4,Van Dorn Street,AM Peak,2345.7
+2012,5,Van Dorn Street,AM Peak,2304.9
+2012,6,Van Dorn Street,AM Peak,2432
+2012,7,Van Dorn Street,AM Peak,2349.7
+2012,8,Van Dorn Street,AM Peak,2171.8
+2012,9,Van Dorn Street,AM Peak,2289.9
+2012,10,Van Dorn Street,AM Peak,2167.3
+2012,11,Van Dorn Street,AM Peak,2148.7
+2012,12,Van Dorn Street,AM Peak,1846
+2013,1,Van Dorn Street,AM Peak,2130.6
+2013,2,Van Dorn Street,AM Peak,2205.4
+2013,3,Van Dorn Street,AM Peak,2104.3
+2013,4,Van Dorn Street,AM Peak,2272.9
+2013,5,Van Dorn Street,AM Peak,2200.8
+2013,6,Van Dorn Street,AM Peak,2319.4
+2013,7,Van Dorn Street,AM Peak,2229
+2013,8,Van Dorn Street,AM Peak,2164.1
+2013,9,Van Dorn Street,AM Peak,2262
+2013,10,Van Dorn Street,AM Peak,2072.5
+2013,11,Van Dorn Street,AM Peak,2082.3
+2013,12,Van Dorn Street,AM Peak,1773.3
+2014,1,Van Dorn Street,AM Peak,1958.2
+2014,2,Van Dorn Street,AM Peak,1999.9
+2014,3,Van Dorn Street,AM Peak,1986.7
+2014,4,Van Dorn Street,AM Peak,2181.4
+2014,5,Van Dorn Street,AM Peak,2164.6
+2014,6,Van Dorn Street,AM Peak,2275.1
+2014,7,Van Dorn Street,AM Peak,2210.1
+2014,8,Van Dorn Street,AM Peak,2125.6
+2014,9,Van Dorn Street,AM Peak,2246
+2014,10,Van Dorn Street,AM Peak,2264.1
+2014,11,Van Dorn Street,AM Peak,2115.3
+2014,12,Van Dorn Street,AM Peak,1872.6
+2010,9,Van Ness-UDC,AM Peak,2786.9
+2010,10,Van Ness-UDC,AM Peak,2083.6
+2010,11,Van Ness-UDC,AM Peak,2678.5
+2010,12,Van Ness-UDC,AM Peak,2359.2
+2011,1,Van Ness-UDC,AM Peak,2747.2
+2011,2,Van Ness-UDC,AM Peak,2922.9
+2011,3,Van Ness-UDC,AM Peak,2941
+2011,4,Van Ness-UDC,AM Peak,2816.5
+2011,5,Van Ness-UDC,AM Peak,2828.8
+2011,6,Van Ness-UDC,AM Peak,2994.3
+2011,7,Van Ness-UDC,AM Peak,2891.5
+2011,8,Van Ness-UDC,AM Peak,2619.4
+2011,9,Van Ness-UDC,AM Peak,2864.2
+2011,10,Van Ness-UDC,AM Peak,2943.8
+2011,11,Van Ness-UDC,AM Peak,2808.8
+2011,12,Van Ness-UDC,AM Peak,2388.8
+2012,1,Van Ness-UDC,AM Peak,2799.7
+2012,2,Van Ness-UDC,AM Peak,2914.6
+2012,3,Van Ness-UDC,AM Peak,2883
+2012,4,Van Ness-UDC,AM Peak,2819.7
+2012,5,Van Ness-UDC,AM Peak,2765.9
+2012,6,Van Ness-UDC,AM Peak,3004.8
+2012,7,Van Ness-UDC,AM Peak,2816.3
+2012,8,Van Ness-UDC,AM Peak,2517.3
+2012,9,Van Ness-UDC,AM Peak,2810.5
+2012,10,Van Ness-UDC,AM Peak,2797.8
+2012,11,Van Ness-UDC,AM Peak,2631.2
+2012,12,Van Ness-UDC,AM Peak,2192.5
+2013,1,Van Ness-UDC,AM Peak,2659.2
+2013,2,Van Ness-UDC,AM Peak,2855.5
+2013,3,Van Ness-UDC,AM Peak,2679.7
+2013,4,Van Ness-UDC,AM Peak,2810.9
+2013,5,Van Ness-UDC,AM Peak,2723.4
+2013,6,Van Ness-UDC,AM Peak,2931.8
+2013,7,Van Ness-UDC,AM Peak,2723
+2013,8,Van Ness-UDC,AM Peak,2447.2
+2013,9,Van Ness-UDC,AM Peak,2723.4
+2013,10,Van Ness-UDC,AM Peak,2619.5
+2013,11,Van Ness-UDC,AM Peak,2582.3
+2013,12,Van Ness-UDC,AM Peak,2071
+2014,1,Van Ness-UDC,AM Peak,2493.6
+2014,2,Van Ness-UDC,AM Peak,2576.4
+2014,3,Van Ness-UDC,AM Peak,2493.9
+2014,4,Van Ness-UDC,AM Peak,2624
+2014,5,Van Ness-UDC,AM Peak,2662
+2014,6,Van Ness-UDC,AM Peak,2786.6
+2014,7,Van Ness-UDC,AM Peak,2649.1
+2014,8,Van Ness-UDC,AM Peak,2456.9
+2014,9,Van Ness-UDC,AM Peak,2708.1
+2014,10,Van Ness-UDC,AM Peak,2604.6
+2014,11,Van Ness-UDC,AM Peak,2545.2
+2014,12,Van Ness-UDC,AM Peak,2122.9
+2010,9,Vienna,AM Peak,9937.5
+2010,10,Vienna,AM Peak,10014.6
+2010,11,Vienna,AM Peak,9482.1
+2010,12,Vienna,AM Peak,8583.1
+2011,1,Vienna,AM Peak,9288.9
+2011,2,Vienna,AM Peak,9878.3
+2011,3,Vienna,AM Peak,10104.6
+2011,4,Vienna,AM Peak,9770.9
+2011,5,Vienna,AM Peak,9841.9
+2011,6,Vienna,AM Peak,10403.5
+2011,7,Vienna,AM Peak,10139.4
+2011,8,Vienna,AM Peak,9631.2
+2011,9,Vienna,AM Peak,10007.1
+2011,10,Vienna,AM Peak,10146.5
+2011,11,Vienna,AM Peak,9810.6
+2011,12,Vienna,AM Peak,8811.6
+2012,1,Vienna,AM Peak,9870.5
+2012,2,Vienna,AM Peak,9993.2
+2012,3,Vienna,AM Peak,9657.6
+2012,4,Vienna,AM Peak,9575.9
+2012,5,Vienna,AM Peak,9542.9
+2012,6,Vienna,AM Peak,9783.2
+2012,7,Vienna,AM Peak,9489.1
+2012,8,Vienna,AM Peak,8997
+2012,9,Vienna,AM Peak,9620.3
+2012,10,Vienna,AM Peak,9582.7
+2012,11,Vienna,AM Peak,8976.3
+2012,12,Vienna,AM Peak,7848.3
+2013,1,Vienna,AM Peak,9045
+2013,2,Vienna,AM Peak,9548.9
+2013,3,Vienna,AM Peak,8777.7
+2013,4,Vienna,AM Peak,9607.1
+2013,5,Vienna,AM Peak,9424.4
+2013,6,Vienna,AM Peak,9754.5
+2013,7,Vienna,AM Peak,9398
+2013,8,Vienna,AM Peak,8798
+2013,9,Vienna,AM Peak,9536.2
+2013,10,Vienna,AM Peak,8520.7
+2013,11,Vienna,AM Peak,8668.8
+2013,12,Vienna,AM Peak,7361
+2014,1,Vienna,AM Peak,8104.8
+2014,2,Vienna,AM Peak,8050.9
+2014,3,Vienna,AM Peak,8264.5
+2014,4,Vienna,AM Peak,8823.7
+2014,5,Vienna,AM Peak,8699.3
+2014,6,Vienna,AM Peak,9091.3
+2014,7,Vienna,AM Peak,9014.7
+2014,8,Vienna,AM Peak,7916.3
+2014,9,Vienna,AM Peak,8394.2
+2014,10,Vienna,AM Peak,8500.2
+2014,11,Vienna,AM Peak,7569.5
+2014,12,Vienna,AM Peak,6811.9
+2010,9,Virginia Square-GMU,AM Peak,1807.8
+2010,10,Virginia Square-GMU,AM Peak,1824.1
+2010,11,Virginia Square-GMU,AM Peak,1734.9
+2010,12,Virginia Square-GMU,AM Peak,1529
+2011,1,Virginia Square-GMU,AM Peak,1775.3
+2011,2,Virginia Square-GMU,AM Peak,1837.8
+2011,3,Virginia Square-GMU,AM Peak,1825.3
+2011,4,Virginia Square-GMU,AM Peak,1792.9
+2011,5,Virginia Square-GMU,AM Peak,1770.9
+2011,6,Virginia Square-GMU,AM Peak,1859.2
+2011,7,Virginia Square-GMU,AM Peak,1774
+2011,8,Virginia Square-GMU,AM Peak,1698.3
+2011,9,Virginia Square-GMU,AM Peak,1785.1
+2011,10,Virginia Square-GMU,AM Peak,1829.2
+2011,11,Virginia Square-GMU,AM Peak,1769.7
+2011,12,Virginia Square-GMU,AM Peak,1564
+2012,1,Virginia Square-GMU,AM Peak,1818.7
+2012,2,Virginia Square-GMU,AM Peak,1860.7
+2012,3,Virginia Square-GMU,AM Peak,1820.8
+2012,4,Virginia Square-GMU,AM Peak,1792.1
+2012,5,Virginia Square-GMU,AM Peak,1761.4
+2012,6,Virginia Square-GMU,AM Peak,1849
+2012,7,Virginia Square-GMU,AM Peak,1783.1
+2012,8,Virginia Square-GMU,AM Peak,1686.7
+2012,9,Virginia Square-GMU,AM Peak,1858.4
+2012,10,Virginia Square-GMU,AM Peak,1870
+2012,11,Virginia Square-GMU,AM Peak,1756.6
+2012,12,Virginia Square-GMU,AM Peak,1476.5
+2013,1,Virginia Square-GMU,AM Peak,1808.7
+2013,2,Virginia Square-GMU,AM Peak,1896.1
+2013,3,Virginia Square-GMU,AM Peak,1759.6
+2013,4,Virginia Square-GMU,AM Peak,1861.5
+2013,5,Virginia Square-GMU,AM Peak,1788.7
+2013,6,Virginia Square-GMU,AM Peak,1889.1
+2013,7,Virginia Square-GMU,AM Peak,1791.2
+2013,8,Virginia Square-GMU,AM Peak,1715.7
+2013,9,Virginia Square-GMU,AM Peak,1850.5
+2013,10,Virginia Square-GMU,AM Peak,1740
+2013,11,Virginia Square-GMU,AM Peak,1740.9
+2013,12,Virginia Square-GMU,AM Peak,1429.1
+2014,1,Virginia Square-GMU,AM Peak,1714.4
+2014,2,Virginia Square-GMU,AM Peak,1761.1
+2014,3,Virginia Square-GMU,AM Peak,1699.4
+2014,4,Virginia Square-GMU,AM Peak,1842.8
+2014,5,Virginia Square-GMU,AM Peak,1773.3
+2014,6,Virginia Square-GMU,AM Peak,1832.8
+2014,7,Virginia Square-GMU,AM Peak,1795.6
+2014,8,Virginia Square-GMU,AM Peak,1699.9
+2014,9,Virginia Square-GMU,AM Peak,1903.4
+2014,10,Virginia Square-GMU,AM Peak,1928.6
+2014,11,Virginia Square-GMU,AM Peak,1818.8
+2014,12,Virginia Square-GMU,AM Peak,1564.3
+2010,9,Waterfront,AM Peak,1220
+2010,10,Waterfront,AM Peak,1231.2
+2010,11,Waterfront,AM Peak,1187.3
+2010,12,Waterfront,AM Peak,1054.1
+2011,1,Waterfront,AM Peak,1194.9
+2011,2,Waterfront,AM Peak,1268.5
+2011,3,Waterfront,AM Peak,1262.6
+2011,4,Waterfront,AM Peak,1196.8
+2011,5,Waterfront,AM Peak,1226.5
+2011,6,Waterfront,AM Peak,1246.4
+2011,7,Waterfront,AM Peak,1242.2
+2011,8,Waterfront,AM Peak,1173.3
+2011,9,Waterfront,AM Peak,1339.2
+2011,10,Waterfront,AM Peak,1357.1
+2011,11,Waterfront,AM Peak,1306.7
+2011,12,Waterfront,AM Peak,1141.2
+2012,1,Waterfront,AM Peak,1348.7
+2012,2,Waterfront,AM Peak,1383.1
+2012,3,Waterfront,AM Peak,1363.6
+2012,4,Waterfront,AM Peak,1301.2
+2012,5,Waterfront,AM Peak,1357.6
+2012,6,Waterfront,AM Peak,1333
+2012,7,Waterfront,AM Peak,1293
+2012,8,Waterfront,AM Peak,1244.8
+2012,9,Waterfront,AM Peak,1419.9
+2012,10,Waterfront,AM Peak,1417.1
+2012,11,Waterfront,AM Peak,1341.4
+2012,12,Waterfront,AM Peak,1145.3
+2013,1,Waterfront,AM Peak,1364.3
+2013,2,Waterfront,AM Peak,1423.7
+2013,3,Waterfront,AM Peak,1371.3
+2013,4,Waterfront,AM Peak,1339.3
+2013,5,Waterfront,AM Peak,1323
+2013,6,Waterfront,AM Peak,1303.4
+2013,7,Waterfront,AM Peak,1239.4
+2013,8,Waterfront,AM Peak,1184.5
+2013,9,Waterfront,AM Peak,1303.8
+2013,10,Waterfront,AM Peak,1228.6
+2013,11,Waterfront,AM Peak,1239.6
+2013,12,Waterfront,AM Peak,1041.4
+2014,1,Waterfront,AM Peak,1211.3
+2014,2,Waterfront,AM Peak,1254.8
+2014,3,Waterfront,AM Peak,1218.9
+2014,4,Waterfront,AM Peak,1264.3
+2014,5,Waterfront,AM Peak,1247.1
+2014,6,Waterfront,AM Peak,1273
+2014,7,Waterfront,AM Peak,1312.6
+2014,8,Waterfront,AM Peak,1252
+2014,9,Waterfront,AM Peak,1423.9
+2014,10,Waterfront,AM Peak,1416.8
+2014,11,Waterfront,AM Peak,1326.9
+2014,12,Waterfront,AM Peak,1152.1
+2010,9,West Falls Church,AM Peak,6780
+2010,10,West Falls Church,AM Peak,6915.7
+2010,11,West Falls Church,AM Peak,6531.7
+2010,12,West Falls Church,AM Peak,5909.2
+2011,1,West Falls Church,AM Peak,6443.5
+2011,2,West Falls Church,AM Peak,6804.9
+2011,3,West Falls Church,AM Peak,6966.5
+2011,4,West Falls Church,AM Peak,6772.3
+2011,5,West Falls Church,AM Peak,6922.5
+2011,6,West Falls Church,AM Peak,7100
+2011,7,West Falls Church,AM Peak,6843.2
+2011,8,West Falls Church,AM Peak,6526.3
+2011,9,West Falls Church,AM Peak,7019.1
+2011,10,West Falls Church,AM Peak,7208.2
+2011,11,West Falls Church,AM Peak,6946.1
+2011,12,West Falls Church,AM Peak,6142.8
+2012,1,West Falls Church,AM Peak,6999.7
+2012,2,West Falls Church,AM Peak,7114.3
+2012,3,West Falls Church,AM Peak,7007.3
+2012,4,West Falls Church,AM Peak,6852.7
+2012,5,West Falls Church,AM Peak,6947.8
+2012,6,West Falls Church,AM Peak,7102.1
+2012,7,West Falls Church,AM Peak,6721.9
+2012,8,West Falls Church,AM Peak,6405
+2012,9,West Falls Church,AM Peak,7014.1
+2012,10,West Falls Church,AM Peak,6338.3
+2012,11,West Falls Church,AM Peak,6462.2
+2012,12,West Falls Church,AM Peak,5598.8
+2013,1,West Falls Church,AM Peak,6529.2
+2013,2,West Falls Church,AM Peak,6901.2
+2013,3,West Falls Church,AM Peak,6277.8
+2013,4,West Falls Church,AM Peak,6937
+2013,5,West Falls Church,AM Peak,6799.4
+2013,6,West Falls Church,AM Peak,7016.1
+2013,7,West Falls Church,AM Peak,6678.5
+2013,8,West Falls Church,AM Peak,6272.9
+2013,9,West Falls Church,AM Peak,6853
+2013,10,West Falls Church,AM Peak,6210.6
+2013,11,West Falls Church,AM Peak,6417.8
+2013,12,West Falls Church,AM Peak,5365.1
+2014,1,West Falls Church,AM Peak,5958.5
+2014,2,West Falls Church,AM Peak,6226.9
+2014,3,West Falls Church,AM Peak,6057.1
+2014,4,West Falls Church,AM Peak,6790
+2014,5,West Falls Church,AM Peak,6802.7
+2014,6,West Falls Church,AM Peak,7044.8
+2014,7,West Falls Church,AM Peak,5990.4
+2014,8,West Falls Church,AM Peak,2087.3
+2014,9,West Falls Church,AM Peak,2338.9
+2014,10,West Falls Church,AM Peak,2324.3
+2014,11,West Falls Church,AM Peak,2156.1
+2014,12,West Falls Church,AM Peak,1871.6
+2010,9,West Hyattsville,AM Peak,2127.5
+2010,10,West Hyattsville,AM Peak,2068.3
+2010,11,West Hyattsville,AM Peak,1998.6
+2010,12,West Hyattsville,AM Peak,1820.8
+2011,1,West Hyattsville,AM Peak,1856.8
+2011,2,West Hyattsville,AM Peak,1998.1
+2011,3,West Hyattsville,AM Peak,2056.7
+2011,4,West Hyattsville,AM Peak,2061.3
+2011,5,West Hyattsville,AM Peak,2148.5
+2011,6,West Hyattsville,AM Peak,2142.8
+2011,7,West Hyattsville,AM Peak,2090.2
+2011,8,West Hyattsville,AM Peak,2036.2
+2011,9,West Hyattsville,AM Peak,2148.8
+2011,10,West Hyattsville,AM Peak,2208.8
+2011,11,West Hyattsville,AM Peak,2140.1
+2011,12,West Hyattsville,AM Peak,1996.4
+2012,1,West Hyattsville,AM Peak,2102
+2012,2,West Hyattsville,AM Peak,2191.8
+2012,3,West Hyattsville,AM Peak,2220.7
+2012,4,West Hyattsville,AM Peak,2187.8
+2012,5,West Hyattsville,AM Peak,2190.4
+2012,6,West Hyattsville,AM Peak,2199.4
+2012,7,West Hyattsville,AM Peak,2082.1
+2012,8,West Hyattsville,AM Peak,2068.2
+2012,9,West Hyattsville,AM Peak,2237.1
+2012,10,West Hyattsville,AM Peak,2101.3
+2012,11,West Hyattsville,AM Peak,2071
+2012,12,West Hyattsville,AM Peak,1868
+2013,1,West Hyattsville,AM Peak,1996.4
+2013,2,West Hyattsville,AM Peak,2143.2
+2013,3,West Hyattsville,AM Peak,2082
+2013,4,West Hyattsville,AM Peak,2157.1
+2013,5,West Hyattsville,AM Peak,2189.7
+2013,6,West Hyattsville,AM Peak,2168
+2013,7,West Hyattsville,AM Peak,2119.5
+2013,8,West Hyattsville,AM Peak,2096.3
+2013,9,West Hyattsville,AM Peak,2255.2
+2013,10,West Hyattsville,AM Peak,2105.2
+2013,11,West Hyattsville,AM Peak,2116.6
+2013,12,West Hyattsville,AM Peak,1868.7
+2014,1,West Hyattsville,AM Peak,1902.7
+2014,2,West Hyattsville,AM Peak,2007.7
+2014,3,West Hyattsville,AM Peak,2033.7
+2014,4,West Hyattsville,AM Peak,2196.4
+2014,5,West Hyattsville,AM Peak,2257.2
+2014,6,West Hyattsville,AM Peak,2256.6
+2014,7,West Hyattsville,AM Peak,2186.9
+2014,8,West Hyattsville,AM Peak,2132.4
+2014,9,West Hyattsville,AM Peak,2338
+2014,10,West Hyattsville,AM Peak,2296.9
+2014,11,West Hyattsville,AM Peak,2138.2
+2014,12,West Hyattsville,AM Peak,1930.6
+2010,9,Wheaton,AM Peak,2220.8
+2010,10,Wheaton,AM Peak,2284.8
+2010,11,Wheaton,AM Peak,2177.3
+2010,12,Wheaton,AM Peak,1958.9
+2011,1,Wheaton,AM Peak,2112.8
+2011,2,Wheaton,AM Peak,2270.8
+2011,3,Wheaton,AM Peak,2349.8
+2011,4,Wheaton,AM Peak,2233.9
+2011,5,Wheaton,AM Peak,2302.9
+2011,6,Wheaton,AM Peak,2335.8
+2011,7,Wheaton,AM Peak,2238
+2011,8,Wheaton,AM Peak,2085.8
+2011,9,Wheaton,AM Peak,2275.3
+2011,10,Wheaton,AM Peak,2329.8
+2011,11,Wheaton,AM Peak,2289.8
+2011,12,Wheaton,AM Peak,2011.8
+2012,1,Wheaton,AM Peak,2250.9
+2012,2,Wheaton,AM Peak,2344.6
+2012,3,Wheaton,AM Peak,2309.7
+2012,4,Wheaton,AM Peak,2192.9
+2012,5,Wheaton,AM Peak,2177.8
+2012,6,Wheaton,AM Peak,2164
+2012,7,Wheaton,AM Peak,2061.3
+2012,8,Wheaton,AM Peak,1983.1
+2012,9,Wheaton,AM Peak,2143.5
+2012,10,Wheaton,AM Peak,1953
+2012,11,Wheaton,AM Peak,2056
+2012,12,Wheaton,AM Peak,1801
+2013,1,Wheaton,AM Peak,2017.7
+2013,2,Wheaton,AM Peak,2136.5
+2013,3,Wheaton,AM Peak,1999.1
+2013,4,Wheaton,AM Peak,2124.2
+2013,5,Wheaton,AM Peak,2072.1
+2013,6,Wheaton,AM Peak,2139.6
+2013,7,Wheaton,AM Peak,2033.4
+2013,8,Wheaton,AM Peak,1981.3
+2013,9,Wheaton,AM Peak,2121.5
+2013,10,Wheaton,AM Peak,1980.9
+2013,11,Wheaton,AM Peak,2032.6
+2013,12,Wheaton,AM Peak,1721.9
+2014,1,Wheaton,AM Peak,1871
+2014,2,Wheaton,AM Peak,1952.7
+2014,3,Wheaton,AM Peak,1982.9
+2014,4,Wheaton,AM Peak,2142
+2014,5,Wheaton,AM Peak,2163.3
+2014,6,Wheaton,AM Peak,2192.4
+2014,7,Wheaton,AM Peak,2144.3
+2014,8,Wheaton,AM Peak,2012.1
+2014,9,Wheaton,AM Peak,2204.1
+2014,10,Wheaton,AM Peak,2206
+2014,11,Wheaton,AM Peak,2104.3
+2014,12,Wheaton,AM Peak,1872.9
+2010,9,White Flint,AM Peak,1634.3
+2010,10,White Flint,AM Peak,1662.1
+2010,11,White Flint,AM Peak,1550
+2010,12,White Flint,AM Peak,1391.6
+2011,1,White Flint,AM Peak,1502.9
+2011,2,White Flint,AM Peak,1632.8
+2011,3,White Flint,AM Peak,1651.4
+2011,4,White Flint,AM Peak,1604.8
+2011,5,White Flint,AM Peak,1671.2
+2011,6,White Flint,AM Peak,1694.7
+2011,7,White Flint,AM Peak,1648.3
+2011,8,White Flint,AM Peak,1536.5
+2011,9,White Flint,AM Peak,1725.4
+2011,10,White Flint,AM Peak,1748.7
+2011,11,White Flint,AM Peak,1716.1
+2011,12,White Flint,AM Peak,1495.7
+2012,1,White Flint,AM Peak,1639
+2012,2,White Flint,AM Peak,1688.3
+2012,3,White Flint,AM Peak,1656
+2012,4,White Flint,AM Peak,1612.6
+2012,5,White Flint,AM Peak,1626.3
+2012,6,White Flint,AM Peak,1638.2
+2012,7,White Flint,AM Peak,1577
+2012,8,White Flint,AM Peak,1472.7
+2012,9,White Flint,AM Peak,1608.7
+2012,10,White Flint,AM Peak,1599.4
+2012,11,White Flint,AM Peak,1539
+2012,12,White Flint,AM Peak,1324.9
+2013,1,White Flint,AM Peak,1502.1
+2013,2,White Flint,AM Peak,1569.1
+2013,3,White Flint,AM Peak,1514.3
+2013,4,White Flint,AM Peak,1650.6
+2013,5,White Flint,AM Peak,1618.6
+2013,6,White Flint,AM Peak,1673.1
+2013,7,White Flint,AM Peak,1584
+2013,8,White Flint,AM Peak,1492.8
+2013,9,White Flint,AM Peak,1655.1
+2013,10,White Flint,AM Peak,1498.2
+2013,11,White Flint,AM Peak,1533.9
+2013,12,White Flint,AM Peak,1293
+2014,1,White Flint,AM Peak,1414.1
+2014,2,White Flint,AM Peak,1479.1
+2014,3,White Flint,AM Peak,1441.4
+2014,4,White Flint,AM Peak,1577.5
+2014,5,White Flint,AM Peak,1593.1
+2014,6,White Flint,AM Peak,1662
+2014,7,White Flint,AM Peak,1586.5
+2014,8,White Flint,AM Peak,1474.1
+2014,9,White Flint,AM Peak,1649.7
+2014,10,White Flint,AM Peak,1656.5
+2014,11,White Flint,AM Peak,1560.7
+2014,12,White Flint,AM Peak,1372.6
+2013,10,Wiehle,AM Peak,5.3
+2013,11,Wiehle,AM Peak,4.3
+2013,12,Wiehle,AM Peak,0.5
+2014,6,Wiehle,AM Peak,10.3
+2014,7,Wiehle,AM Peak,1944
+2014,8,Wiehle,AM Peak,4640.2
+2014,9,Wiehle,AM Peak,5129.2
+2014,10,Wiehle,AM Peak,5179.8
+2014,11,Wiehle,AM Peak,4832.8
+2014,12,Wiehle,AM Peak,4315.7
+2010,9,Woodley Park-Zoo,AM Peak,2745.2
+2010,10,Woodley Park-Zoo,AM Peak,2829.7
+2010,11,Woodley Park-Zoo,AM Peak,2574.2
+2010,12,Woodley Park-Zoo,AM Peak,2188.7
+2011,1,Woodley Park-Zoo,AM Peak,2564.7
+2011,2,Woodley Park-Zoo,AM Peak,2795.9
+2011,3,Woodley Park-Zoo,AM Peak,2854.7
+2011,4,Woodley Park-Zoo,AM Peak,2708.1
+2011,5,Woodley Park-Zoo,AM Peak,2664.1
+2011,6,Woodley Park-Zoo,AM Peak,2871.3
+2011,7,Woodley Park-Zoo,AM Peak,2790.2
+2011,8,Woodley Park-Zoo,AM Peak,2512.7
+2011,9,Woodley Park-Zoo,AM Peak,2818.6
+2011,10,Woodley Park-Zoo,AM Peak,2975.4
+2011,11,Woodley Park-Zoo,AM Peak,2797.6
+2011,12,Woodley Park-Zoo,AM Peak,2296.8
+2012,1,Woodley Park-Zoo,AM Peak,2761.3
+2012,2,Woodley Park-Zoo,AM Peak,2874.4
+2012,3,Woodley Park-Zoo,AM Peak,2857.7
+2012,4,Woodley Park-Zoo,AM Peak,2859
+2012,5,Woodley Park-Zoo,AM Peak,2784.5
+2012,6,Woodley Park-Zoo,AM Peak,2910.4
+2012,7,Woodley Park-Zoo,AM Peak,2849.5
+2012,8,Woodley Park-Zoo,AM Peak,2445.4
+2012,9,Woodley Park-Zoo,AM Peak,2821.6
+2012,10,Woodley Park-Zoo,AM Peak,2776.9
+2012,11,Woodley Park-Zoo,AM Peak,2629.7
+2012,12,Woodley Park-Zoo,AM Peak,2117.4
+2013,1,Woodley Park-Zoo,AM Peak,2606
+2013,2,Woodley Park-Zoo,AM Peak,2804.6
+2013,3,Woodley Park-Zoo,AM Peak,2642.1
+2013,4,Woodley Park-Zoo,AM Peak,2758.2
+2013,5,Woodley Park-Zoo,AM Peak,2603
+2013,6,Woodley Park-Zoo,AM Peak,2830.7
+2013,7,Woodley Park-Zoo,AM Peak,2741
+2013,8,Woodley Park-Zoo,AM Peak,2418.2
+2013,9,Woodley Park-Zoo,AM Peak,2734.9
+2013,10,Woodley Park-Zoo,AM Peak,2612.1
+2013,11,Woodley Park-Zoo,AM Peak,2480.6
+2013,12,Woodley Park-Zoo,AM Peak,1945.6
+2014,1,Woodley Park-Zoo,AM Peak,2413.3
+2014,2,Woodley Park-Zoo,AM Peak,2552
+2014,3,Woodley Park-Zoo,AM Peak,2489.3
+2014,4,Woodley Park-Zoo,AM Peak,2652.7
+2014,5,Woodley Park-Zoo,AM Peak,2544
+2014,6,Woodley Park-Zoo,AM Peak,2939.9
+2014,7,Woodley Park-Zoo,AM Peak,2826.6
+2014,8,Woodley Park-Zoo,AM Peak,2392.3
+2014,9,Woodley Park-Zoo,AM Peak,2644
+2014,10,Woodley Park-Zoo,AM Peak,2656.9
+2014,11,Woodley Park-Zoo,AM Peak,2513.1
+2014,12,Woodley Park-Zoo,AM Peak,2047.5
