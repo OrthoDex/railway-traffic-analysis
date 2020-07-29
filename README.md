@@ -16,6 +16,9 @@ We then compare the no of clusters with the cluster cohesion measure (Silhouette
 Ilesha Garg
 Ishaan Malhi
 
+## Run this in your browser
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OrthoDex/railway-traffic-analysis/master)
+
 ## Results
 
 The results are quite interesting, the cohesion measure itself falls with an increase in the number of clusters.
